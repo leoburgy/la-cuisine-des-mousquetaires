@@ -28,15 +28,21 @@ the integrity table for each notice
 records any field of notices
 
 #### **fetch_log**
-dubious
+One row per HTTP request attempt (status, bytes, error text), including failures and retries that never reach `notice`/`search_result`. `run_id` links it to the `search_run` that triggered the request (notice fetches are attributed to the first run that returned them).
 
 #### **notice_field_item**
 decompose information that is a list within a notice, like the presenter/realisator.
 
 ### Scraping from the ina channel of YouTube (`youtube_scraper.py`)
 
+The script passes each search to the fetcher 
+
 The results are written in the sqlite tables
 
 ### Joining the YouTube videos to the ina table
 
 ### Export the consolidated table to wiki format
+
+## Development
+2026-10-18: 
+- the DB is disposable until the schema stabilises, thus delete the file when the schema changes.

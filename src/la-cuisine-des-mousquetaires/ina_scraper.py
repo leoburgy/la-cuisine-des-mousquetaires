@@ -164,7 +164,8 @@ CREATE TABLE IF NOT EXISTS fetch_log (
     url          TEXT NOT NULL,
     http_status  INTEGER,
     bytes        INTEGER,
-    error        TEXT
+    error        TEXT,
+    run_id       INTEGER REFERENCES search_run(run_id)   -- search that triggered the request
 );
 
 -- Convenience view: one row per notice with the most common fields.
@@ -338,6 +339,7 @@ class Fetcher:
         ua = USER_AGENT.replace("set --contact", contact) if contact else USER_AGENT
         self.session.headers.update({"User-Agent": ua, "Accept-Language": "fr-FR,fr;q=0.9"})
         self._last = 0.0
+        self.run_id: int | None = None      # set by the pipeline before each batch of requests
 
     def get(self, url: str, retries: int = 3) -> tuple[int, str]:
         return self.request("GET", url, None, retries)
@@ -356,15 +358,18 @@ class Fetcher:
                 r = self.session.request(method, url, data=data, timeout=self.timeout)
                 r.encoding = r.encoding or "utf-8"
                 logged = url if data is None else f"{url} [POST page={data.get('page')}]"
-                self.conn.execute("INSERT INTO fetch_log VALUES (?,?,?,?,NULL)",
-                                  (now, logged, r.status_code, len(r.content)))
+                self.conn.execute(
+                    "INSERT INTO fetch_log(fetched_at,url,http_status,bytes,error,run_id) VALUES (?,?,?,?,NULL,?)",
+                    (now, logged, r.status_code, len(r.content), self.run_id))
                 if r.status_code in (429, 500, 502, 503, 504) and attempt < retries:
                     log.warning("HTTP %s on %s, retrying", r.status_code, url)
                     time.sleep(self.delay * 4 * attempt)
                     continue
                 return r.status_code, r.text
             except requests.RequestException as e:
-                self.conn.execute("INSERT INTO fetch_log VALUES (?,?,NULL,NULL,?)", (now, url, str(e)))
+                self.conn.execute(
+                    "INSERT INTO fetch_log(fetched_at,url,http_status,bytes,error,run_id) VALUES (?,?,NULL,NULL,?,?)",
+                    (now, url, str(e), self.run_id))
                 if attempt == retries:
                     raise
                 log.warning("%s on %s, retrying", e, url)
@@ -385,8 +390,13 @@ def with_param(url: str, **params) -> bytes:
 
 # --------------------------------------------------------------------------- pipeline
 
-def run_search(conn, fetcher: Fetcher, label: str, url: str, page_size: int) -> list[str]:
+def run_search(conn, fetcher: Fetcher, label: str, url: str, page_size: int) -> tuple[int, list[str]]:
     fetched_url = with_param(url, nbLignes=page_size)
+    # The run row is created first so that fetch_log rows (including failures) can reference it.
+    run_id = conn.execute(
+        "INSERT INTO search_run(label,url,fetched_url,run_at) VALUES (?,?,?,?)",
+        (label, url, fetched_url, utcnow())).lastrowid
+    fetcher.run_id = run_id
     status, html = fetcher.get(fetched_url)
     if status != 200:
         raise RuntimeError(f"search returned HTTP {status}: {fetched_url}")
@@ -413,10 +423,8 @@ def run_search(conn, fetcher: Fetcher, label: str, url: str, page_size: int) -> 
         p += 1
     if page.total and len(rows) != page.total:
         log.warning("search %r: %d rows parsed, site reports %d", label, len(rows), page.total)
-    cur = conn.execute(
-        "INSERT INTO search_run(label,url,fetched_url,run_at,total_reported,rows_parsed) VALUES (?,?,?,?,?,?)",
-        (label, url, fetched_url, utcnow(), page.total, len(rows)))
-    run_id = cur.lastrowid
+    conn.execute("UPDATE search_run SET total_reported=?, rows_parsed=? WHERE run_id=?",
+                 (page.total, len(rows), run_id))
     conn.executemany(
         "INSERT INTO search_result(run_id,rang,notice_path,chaine,date_diffusion,heure_diffusion,duree,"
         "titre_propre,titre_collection,titre_programme,genre,href) VALUES "
@@ -425,7 +433,7 @@ def run_search(conn, fetcher: Fetcher, label: str, url: str, page_size: int) -> 
         [dict(r, run_id=run_id) for r in rows])
     conn.commit()
     log.info("search %r: %s rows (site reports %s)", label, len(rows), page.total)
-    return [r["notice_path"] for r in rows if r["notice_path"]]
+    return run_id, [r["notice_path"] for r in rows if r["notice_path"]]
 
 
 def store_notice(conn, path: str, url: str, status: int, html: str, keep_html: bool) -> int:
@@ -447,14 +455,16 @@ def store_notice(conn, path: str, url: str, status: int, html: str, keep_html: b
     return len(fields)
 
 
-def fetch_notices(conn, fetcher: Fetcher, paths: Iterable[str], refresh: bool, keep_html: bool) -> None:
-    todo = list(dict.fromkeys(paths))
+def fetch_notices(conn, fetcher: Fetcher, paths: dict[str, int], refresh: bool, keep_html: bool) -> None:
+    """paths maps each notice_path to the run_id of the first search that returned it."""
+    todo = list(paths)
     if not refresh:
         have = {r[0] for r in conn.execute("SELECT notice_path FROM notice WHERE http_status = 200")}
         todo = [p for p in todo if p not in have]
     log.info("%d notices to fetch", len(todo))
     for i, path in enumerate(todo, 1):
         url = NOTICE_PREFIX + path
+        fetcher.run_id = paths[path]
         try:
             status, html = fetcher.get(url)
         except Exception as e:  # keep going, the failure is in fetch_log
@@ -493,9 +503,11 @@ def main(argv: list[str] | None = None) -> int:
     searches = list(zip(a.label + [None] * len(a.search), a.search)) if a.search else DEFAULT_SEARCHES
     conn = open_db(a.db)
     fetcher = Fetcher(conn, a.delay, a.contact)
-    paths: list[str] = []
+    paths: dict[str, int] = {}
     for label, url in searches:
-        paths += run_search(conn, fetcher, label or url, url, a.page_size)
+        run_id, found = run_search(conn, fetcher, label or url, url, a.page_size)
+        for p in found:
+            paths.setdefault(p, run_id)
     if not a.searches_only:
         fetch_notices(conn, fetcher, paths, a.refresh, keep_html=not a.no_html)
     n = conn.execute("SELECT COUNT(*) FROM notice WHERE http_status=200").fetchone()[0]
