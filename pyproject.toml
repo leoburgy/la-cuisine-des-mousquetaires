@@ -10,7 +10,8 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "requests (>=2.34.2,<3.0.0)",
-    "bs4 (>=0.0.2,<0.0.3)"
+    "bs4 (>=0.0.2,<0.0.3)",
+    "yt-dlp (>=2026.8.19,<2027.0.0)"
 ]
 
 [tool.poetry]

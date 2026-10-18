@@ -222,3 +222,10 @@ __marimo__/
 
 # Data
 *.sqlite
+
+# Generated tables: only the final wiki table is tracked
+out/*
+!out/episodes_youtube.wiki
+
+# Local MCP config (machine-specific port)
+.mcp.json

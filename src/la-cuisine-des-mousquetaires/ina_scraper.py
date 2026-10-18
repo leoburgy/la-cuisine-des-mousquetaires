@@ -282,7 +282,7 @@ def parse_list_page(html: str) -> ListPage:
     action = fields = None
     if form is not None:
         action = form.get("action")
-        fields = {i.get("name"): i.get("value", "") for i in form.find_all("input") if i.get("name")}
+        fields = {str(i["name"]): str(i.get("value", "")) for i in form.find_all("input") if i.get("name")}
     return ListPage(total, rows, action, fields)
 
 
