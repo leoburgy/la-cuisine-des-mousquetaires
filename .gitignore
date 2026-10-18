@@ -222,6 +222,8 @@ __marimo__/
 
 # Data
 *.sqlite
+data/*
+!data/youtube_match_overrides.csv
 
 # Generated tables: only the final wiki table is tracked
 out/*
