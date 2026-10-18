@@ -11,8 +11,12 @@ requires-python = ">=3.14"
 dependencies = [
     "requests (>=2.34.2,<3.0.0)",
     "bs4 (>=0.0.2,<0.0.3)",
-    "yt-dlp (>=2026.8.19,<2027.0.0)"
+    "yt-dlp (>=2026.8.19,<2027.0.0)",
+    "argcomplete (>=3.7.2,<4.0.0)"
 ]
+
+[project.scripts]
+cuisine = "la_cuisine_des_mousquetaires.__main__:main"
 
 [tool.poetry]
 packages = [{ include = "la_cuisine_des_mousquetaires", from = "src" }]

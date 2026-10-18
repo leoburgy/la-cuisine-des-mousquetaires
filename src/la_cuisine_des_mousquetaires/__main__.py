@@ -1,3 +1,4 @@
+# PYTHON_ARGCOMPLETE_OK
 """Command line of the pipeline: INA scrape, YouTube scrape, matching, export.
 
 Each subcommand is a thin shell around the pure functions in `core`:
@@ -13,6 +14,8 @@ import argparse
 import logging
 import sys
 from pathlib import Path
+
+import argcomplete
 
 if not __package__:     # run as a script (python __main__.py, IDE run button): make the package importable
     sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
@@ -70,6 +73,7 @@ def build_parser() -> argparse.ArgumentParser:
 
 def main(argv: list[str] | None = None) -> int:
     ap = build_parser()
+    argcomplete.autocomplete(ap)
     a = ap.parse_args(argv)
     logging.basicConfig(level=logging.DEBUG if a.verbose else logging.INFO, format="%(levelname)s %(message)s")
 

@@ -7,6 +7,9 @@ python -m la_cuisine_des_mousquetaires [global options] <command> [command optio
 The package is installed by `poetry install`, so this works from any directory. The same text is available with
 `--help` (`... <command> --help`); this page adds what each command reads, writes and assumes.
 
+`poetry install` also installs the shorter `cuisine` command, equivalent to `python -m la_cuisine_des_mousquetaires`
+(see [Shell completion](#shell-completion)).
+
 The pipeline has four steps, each its own command, and `all` chains them:
 
 | Command | Reads | Writes |
@@ -23,7 +26,7 @@ They go **before** the command: `python -m la_cuisine_des_mousquetaires -v --db 
 | Option | Default | Meaning |
 |---|---|---|
 | `-v`, `--verbose` | off | Debug logging (per-notice and per-video progress). |
-| `--db PATH` | `data/ina_catalogue.sqlite` | The SQLite file. The default is relative to the project root, not to the current directory. Every command except `export` creates the file and its folder if missing; `export` opens it read-only and fails if it does not exist. |
+| `--db PATH` | `../data/_ina_catalogue.sqlite` | The SQLite file. The default is relative to the project root, not to the current directory. Every command except `export` creates the file and its folder if missing; `export` opens it read-only and fails if it does not exist. |
 
 Errors in the arguments' values (unknown column, missing database, conflicting override) print `error: ...` and exit
 with status 1.
@@ -126,3 +129,24 @@ python -m la_cuisine_des_mousquetaires export --format tsv --columns date_iso,ch
 Runs `scrape-ina`, `scrape-youtube`, `match` and `export` in this order, each with its default options. It takes no
 options of its own, only the global `-v` and `--db`, which it passes to every step. It stops at the first step that
 fails. Because it scrapes both sites, it takes a while; run the steps separately when you only need one.
+
+## Shell completion
+
+Tab completion (commands, options, and the choices of `--table` / `--format`) is provided by
+[argcomplete](https://kislyuk.github.io/argcomplete/) and works for the `cuisine` command, not for
+`python -m la_cuisine_des_mousquetaires`. Activate it once per shell, with the virtualenv active (`poetry shell`, or
+use the full path to the venv's `register-python-argcomplete`).
+
+bash, in `~/.bashrc`:
+```shell
+eval "$(register-python-argcomplete cuisine)"
+```
+
+zsh, in `~/.zshrc`:
+```shell
+autoload -U bashcompinit && bashcompinit
+eval "$(register-python-argcomplete cuisine)"
+```
+
+Then `cuisine ma<TAB>` gives `match`, and `cuisine export --table <TAB>` lists the tables. Free-text values such as
+`--confirm` ids are not completed.
