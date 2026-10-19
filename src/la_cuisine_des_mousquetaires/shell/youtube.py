@@ -8,6 +8,7 @@ an ISO `date_iso`, ready to join on `v_notice.date_iso`.
 from __future__ import annotations
 
 import logging
+import re
 import sqlite3
 import time
 from pathlib import Path
@@ -19,6 +20,8 @@ from .db import YOUTUBE_SCHEMA, connect, utcnow
 
 CHANNEL_URL = "https://www.youtube.com/@InaLesRecettesVintage/videos"
 
+UNAVAILABLE_RE = re.compile(r"non disponible|unavailable", re.I)
+
 log = logging.getLogger("youtube")
 
 
@@ -29,6 +32,21 @@ def list_video_ids(url: str, limit: int | None) -> list[str]:
     with yt_dlp.YoutubeDL(opts) as ydl:
         info = ydl.extract_info(url, download=False)
     return [e["id"] for e in info.get("entries", []) if e and e.get("id")]
+
+
+def extract_with_retry(ydl: yt_dlp.YoutubeDL, vid: str, delay: float, retries: int = 3) -> dict:
+    """extract_info, trying again after delay*4 seconds per attempt when YouTube says the video is unavailable
+    (often transient on a channel crawl, as with the INA requests)."""
+    for attempt in range(1, retries + 1):
+        try:
+            return ydl.extract_info(WATCH_URL + vid, download=False)
+        except yt_dlp.utils.DownloadError as e:
+            msg = str(e).splitlines()[-1]
+            if attempt == retries or not UNAVAILABLE_RE.search(msg):
+                raise
+            log.debug("%s: %s, retry %d in %.0fs", vid, msg, attempt, delay * 4)
+            time.sleep(delay * 4)
+    raise RuntimeError("unreachable")
 
 
 def store_video(conn: sqlite3.Connection, info: dict) -> None:
@@ -57,7 +75,7 @@ def scrape(db: str | Path, channel: str = CHANNEL_URL, delay: float = 1.0, limit
     with yt_dlp.YoutubeDL(opts) as ydl:
         for n, vid in enumerate(todo, 1):
             try:
-                info = ydl.extract_info(WATCH_URL + vid, download=False)
+                info = extract_with_retry(ydl, vid, delay)
             except yt_dlp.utils.DownloadError as e:
                 log.warning("%s: %s", vid, str(e).splitlines()[-1])
                 failed += 1
