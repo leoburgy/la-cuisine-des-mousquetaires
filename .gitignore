@@ -227,7 +227,7 @@ data/*
 
 # Generated tables: only the final wiki table is tracked
 out/*
-!out/episodes_youtube.wiki
+!out/selection.wiki
 
 # Local MCP config (machine-specific port)
 .mcp.json
