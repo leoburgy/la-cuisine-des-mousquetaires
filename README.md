@@ -28,7 +28,8 @@ python -m la_cuisine_des_mousquetaires match --report
 ### Export the tables
 Writes TSV and wiki files to `out/`.
 ```shell
-python -m la_cuisine_des_mousquetaires export --table episodes_youtube
+python -m la_cuisine_des_mousquetaires export --table selection      # one row per episode, the final list
+python -m la_cuisine_des_mousquetaires export --table episodes        # one row per INA notice
 ```
 
 Every argument is described in [docs/usage.md](docs/usage.md). Options common to all commands (`-v`, `--db`) go before the command.

@@ -115,9 +115,9 @@ inside cells are flattened to spaces. In the wiki table, `|` is escaped, `youtub
 
 | Option | Default | Meaning |
 |---|---|---|
-| `--table NAME` | `episodes` | `episodes`: one row per notice. `selection`: the final list, one row per episode (other programmes dropped; reruns and relays merged into the row of the preferred channel, Poitou-Charentes, then Aquitaine, then national; `premiere_date` is the earliest broadcast, `n_diffusions` the notices merged, `presentateurs` the credited presenters). `credits`: one row per person and role. `episodes_youtube`: every notice with its matched YouTube video, if any (run `match` first). |
+| `--table NAME` | `episodes` | `episodes`: one row per notice. `selection`: the final list, one row per episode, with its YouTube video if any (run `match` first; see [The `selection` table](#the-selection-table)). `credits`: one row per person and role. `episodes_youtube`: every notice with its matched YouTube video, if any (run `match` first). |
 | `--format F` | `both` | `tsv`, `wiki` or `both`. |
-| `--only-matched` | off | `episodes_youtube` only: keep only notices that have a YouTube link. Has no effect on the other tables. |
+| `--only-matched` | off | `episodes_youtube` and `selection`: keep only the rows that have a YouTube link. Has no effect on the other tables. |
 | `--columns A,B,C` | a set per table | Comma-separated column names, in the order wanted. An unknown name fails and lists the available columns. |
 | `--out DIR` | `out/` at the project root | Output folder, created if missing. |
 
@@ -126,9 +126,65 @@ python -m la_cuisine_des_mousquetaires export --table episodes_youtube --only-ma
 python -m la_cuisine_des_mousquetaires export --format tsv --columns date_iso,chaine,titre_propre
 ```
 
+Each call writes one table; `all` only exports the default one, `episodes`. To refresh the others, call `export` for
+each `--table`.
+
+### The `selection` table
+
+`episodes` keeps every notice, one per broadcast. `selection` reduces them to one row per episode of the first run
+(to 1997), described by its first broadcast.
+
+**Which notices count.** The show's own collection, a notice presented by Maïté, Micheline Banzet Lawton or a
+revival presenter (credit `PRE` or `PAR`), or a title starting "La cuisine des mousquetaires :". Dropped: other
+programmes, the wrappers around a whole magazine ("... : [émission du 5 avril 1990]"), the description of the series
+itself (INA type "Collection d'émissions simples"), a notice titled only with the show's name, and anything whose
+first broadcast is after 1997.
+
+**Which notices are the same episode.** A rerun carries the INA's own title, which varies, so notices are grouped by
+their significant words (no case, accents, punctuation, articles, plural `s`, nor the show-name prefix), then:
+
+- titles with the same words are one episode;
+- if the words of one title are all in the other (two at least, compared by their first five letters), they are the
+  same episode when the durations agree: within 2 seconds for three words or more, identical for fewer;
+- notices of the same day with a common word and an identical duration are the same broadcast (a relay);
+- two notices titled "La cuisine des mousquetaires : ..." with a common word and durations within 2 seconds are the
+  same episode (the summer 1986 rerun of the 1983 series is titled differently);
+- a summary saying "Rediffusion du 20/01/1988" attaches the notice to the broadcast of that date, and "Rediffusion
+  du 1er épisode" to the earliest episode.
+
+The INA's "Statut de diffusion" is not used to tell a first run from a rerun: it is often wrong.
+
+**What the row shows.** The first broadcast to air, whether on a regional or the national channel (on the same day the
+regional one wins). Blank `duree`, `generique` and `resume_documentaire`, an unknown time (`00:00:00`, `24:00:..`) on
+the same day, and a provisional title in brackets are completed from the other broadcasts. A placeholder date (1
+January at midnight, the INA's "year only") never beats a real one; when only placeholders are known the date is kept
+and `date_incertaine` says `oui`. The YouTube video is the best match among all the broadcasts of the episode, since a
+video often shows a rerun.
+
+The default columns are the ones for the wiki article: `premiere_date`, `titre_propre`, `presentateurs`, `chaine`,
+`duree`, `youtube_url` and `notice_path`. All the columns below are available with `--columns`.
+
+| Column | Meaning |
+|---|---|
+| `premiere_date` | Date of the first broadcast. |
+| `date_incertaine` | `oui` if that date is a placeholder. |
+| `heure_diffusion`, `chaine` | Time and channel of the first broadcast. |
+| `statut_diffusion` | The INA label of the first-run notice, unchanged ("Première diffusion", "Rediffusé"...). |
+| `titre_propre` | Title of the first broadcast (a plain one if it was bracketed), without the "La cuisine des mousquetaires :" prefix and starting with a capital. |
+| `presentateurs` | Known presenters credited on any of its notices. |
+| `type_premiere_diffusion` | `régionale` (Aquitaine, Poitou-Charentes) or `nationale` (France 3, FR3). |
+| `n_diffusions` | Number of notices merged, the first broadcast included. |
+| `derniere_diffusion` | Date of the latest broadcast known. |
+| `chaines` | Channels of all the broadcasts, in order of first airing. |
+| `autres_diffusions` | `notice_path` of the other broadcasts (links in the wiki table). |
+| `duree` | Duration. |
+| `youtube_url`, `youtube_duree`, `match_confidence`, `match_score` | The matched video (see `match`). |
+| `generique`, `resume_documentaire` | Credits and summary. |
+| `notice_path` | The INA notice of the first broadcast. |
+
 ## `all`
 
-Runs `scrape-ina`, `scrape-youtube`, `match` and `export` in this order, each with its default options. It takes no
+Runs `scrape-ina`, `scrape-youtube`, `match` and `export` in this order, each with its default options (so `export` writes only the `episodes` table). It takes no
 options of its own, only the global `-v` and `--db`, which it passes to every step. It stops at the first step that
 fails. Because it scrapes both sites, it takes a while; run the steps separately when you only need one.
 

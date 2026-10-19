@@ -198,3 +198,59 @@ def test_a_rerun_of_the_first_episode_goes_to_the_earliest_episode():
     eps = select_episodes(rows)
     assert [(r["notice_path"], r["n_diffusions"]) for r in eps] == [("one", 2), ("two", 1)]
     assert eps[0]["resume_documentaire"] is None or "Rediffusion" not in eps[0]["resume_documentaire"]
+
+
+def test_the_video_of_the_first_run_wins_unless_its_match_is_doubtful():
+    def with_video(r, url, conf, score):
+        return {**r, "youtube_url": url, "youtube_duree": "0:13:00", "match_confidence": conf, "match_score": score}
+    first = with_video(row("pc", "France 3 Poitou Charente", "1983-10-20", "Sanquette"), "u1", "medium", 0.5)
+    rerun = with_video(row("aq", "France 3 Aquitaine", "1986-08-08", "Sanquette"), "u2", "high", 0.74)
+    assert select_episodes([first, rerun])[0]["youtube_url"] == "u1"
+    assert select_episodes([{**first, "match_confidence": "low"}, rerun])[0]["youtube_url"] == "u2"
+
+
+def test_the_listed_title_has_no_show_prefix_and_starts_with_a_capital():
+    rows = [row("a", "France 3 Poitou Charente", "1983-10-20", "La cuisine des mousquetaires : sanquette, magret"),
+            row("b", "France 3 Poitou Charente", "1983-11-10", "La cuisine des mousquetaire : le confit de canard"),
+            row("c", "France 3", "1992-01-01", "[le sanglier]", heure="11:00:00")]
+    assert [r["titre_propre"] for r in select_episodes(rows)] == ["Sanquette, magret", "Le confit de canard", "Le sanglier"]
+
+
+def test_the_listed_title_loses_its_brackets_and_capitals_when_the_catalogue_shouted():
+    rows = [row("a", "France 3", "1993-06-18", "[TOURIN BLANC GASCON - SOUPE AU VIN]", heure="11:00:00"),
+            row("b", "France 3", "1993-06-19", "[Darnes d'esturgeon - darnes à la rionnaise]", heure="11:00:00"),
+            row("c", "France 3", "1993-06-20", "Brochettes [de] porc", heure="11:00:00")]
+    assert [r["titre_propre"] for r in select_episodes(rows)] == [
+        "Tourin blanc gascon - soupe au vin", "Darnes d'esturgeon - darnes à la rionnaise", "Brochettes [de] porc"]
+
+
+def test_a_wrapper_titled_without_brackets_is_dropped_too():
+    rows = [row("wrap", "FR3", "1992-03-17", "Les cuisines de France : émission du 17 mars 1992"),
+            row("seg", "FR3", "1992-03-17", "Pot au feu", heure="11:00:00")]
+    assert [r["notice_path"] for r in select_episodes(rows)] == ["seg"]
+
+
+def test_the_listed_title_loses_the_show_name_with_its_date_or_series_but_other_prefixes_stay():
+    rows = [row("a", "France 3 Aquitaine", "1991-05-07", "La cuisine des mousquetaires du 7 mai 1991 : spéciale centième"),
+            row("b", "France 3 Aquitaine", "1991-09-17", "La cuisine des mousquetaires du 17 septembre 1991 : spéciale centième"),
+            row("c", "France 3 Aquitaine", "1988-04-20", "La cuisine des mousquetaires, série 2 : Perdrix et faisans"),
+            row("d", "France 3 Aquitaine", "1993-06-25", "Spéciale Francis Garcia : truites en brochette"),
+            row("e", "France 3 Aquitaine", "1990-05-22", "La cuisine des mousquetaires du 22 mai 1990")]
+    assert [r["titre_propre"] for r in select_episodes(rows)] == [
+        "Perdrix et faisans", "La cuisine des mousquetaires du 22 mai 1990", "Spéciale centième", "Spéciale centième",
+        "Spéciale Francis Garcia : truites en brochette"]
+
+
+def test_the_long_notices_of_the_other_programme_are_not_episodes():
+    rows = [row("DA_CPC92000335", "FR3", "1992-01-07", "Spéciale centième cuisine des Mousquetaires"),
+            row("ok", "FR3", "1992-01-08", "Pot au feu", heure="11:00:00")]
+    assert [r["notice_path"] for r in select_episodes(rows)] == ["ok"]
+
+
+def test_a_notice_of_the_other_programme_is_kept_only_with_the_show_s_credits():
+    def cdf(path, day, title, generique, pre=None):
+        return {**row(path, "FR3", day, title, pre=pre, heure="11:00:00", programme="Les cuisines de France"), "generique": generique}
+    rows = [cdf("show", "1992-04-21", "Carbonnade farcie", "REA,Bellot Patrice"),
+            cdf("duo", "1992-04-22", "Araignée farcie", "REA,Autre ; PAR,Ordonez Maïté", pre="Ordonez Maïté"),
+            cdf("chef", "1992-03-24", "Cuisinez avec Daniel Ancel", "REA,Hattet Alain ; PAR,Ancel Daniel", pre="Ancel Daniel")]
+    assert [r["notice_path"] for r in select_episodes(rows)] == ["show", "duo"]

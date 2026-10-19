@@ -10,7 +10,7 @@
 `src/la_cuisine_des_mousquetaires/`:
 - `core/` is pure: functions on strings and plain dataclasses, with no database, network, file, clock or printing.
   `ina.py` (search URLs, HTML parsing), `youtube.py` (video metadata), `matching.py` (scoring and one-to-one pairing,
-  human overrides), `tables.py` (TSV / wiki text), `models.py` (the dataclasses exchanged with the shell).
+  human overrides), `episodes.py` (notices to episodes: filtering, reruns, first run), `tables.py` (TSV / wiki text), `models.py` (the dataclasses exchanged with the shell).
 - `shell/` does all the I/O and calls the core: `db.py` (schemas, connection, clock), `ina.py` and `youtube.py`
   (fetch, call the parser, store), `match.py` (load rows and the overrides CSV, call the matcher, store the result),
   `export.py` (SQL queries, write files).
@@ -66,3 +66,9 @@ to `youtube_match`, which is recomputed on every run. Human corrections are not 
 - the DB is disposable until the schema stabilises, thus delete the file when the schema changes.
 - Human corrections about the matching are stored in a csv file until the schema gets a stable structure.
 -  The PRAGMA user_version migration would also be worth adding at that point.
+### Selecting the episodes
+
+The scraper stays permissive and stores everything the site returns; the judgement is in `core/episodes.py`, which is
+pure and tested, so a rule can change without scraping again. `select_episodes` turns the notices (one per broadcast)
+into one row per episode, described by its first broadcast and completed from the reruns, with the YouTube video of
+any of them. The rules are listed in [docs/usage.md](docs/usage.md#the-selection-table).

@@ -30,9 +30,8 @@ TABLES = {
                     FROM v_notice v
                     LEFT JOIN youtube_match m ON m.notice_path = v.notice_path
                     LEFT JOIN youtube_video yv ON yv.video_id = m.video_id""",
-        "columns": ["premiere_date", "date_incertaine", "heure_diffusion", "chaine", "statut_diffusion", "titre_propre", "presentateurs",
-                    "type_premiere_diffusion", "n_diffusions", "derniere_diffusion", "chaines", "autres_diffusions", "duree", "youtube_url", "youtube_duree", "match_confidence", "match_score",
-                    "generique", "resume_documentaire", "notice_path"],
+        # what goes on the wiki; every other column of the row is available with --columns
+        "columns": ["premiere_date", "titre_propre", "presentateurs", "chaine", "duree", "youtube_url", "notice_path"],
         "select": select_episodes,
         "matched_only": "youtube_url",
     },

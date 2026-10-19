@@ -28,16 +28,38 @@ def presenters(pre: str | None) -> list[str]:
     return [n for n in (s.strip() for s in (pre or "").split(" ; ")) if n in PRESENTERS]
 
 
-# "La cuisine des mousquetaires : [émission du 5 avril 1990]": the INA's wrapper around a whole magazine; it only
-# lists the segments, which have their own notices.
-WRAPPER = re.compile(r"\[émission du ", re.I)
+# "La cuisine des mousquetaires : [émission du 5 avril 1990]", "Les cuisines de France : émission du 17 mars 1992":
+# the INA's wrapper around a whole magazine; it only lists the segments, which have their own notices.
+WRAPPER = re.compile(r"émission du \d", re.I)
+
+
+# Julien Courbet's FR3 programme (1991-92) aired inserts of the show, which the INA files under the show's collection
+# like its own segments by other chefs: only those credited to the show's director or presenters are the show.
+OTHER_PROGRAMME = "les cuisines de france"
+DIRECTOR = "Bellot Patrice"
+
+
+def _in_other_programme_without_the_show(row: dict) -> bool:
+    return ((row.get("titre_programme") or "").casefold() == OTHER_PROGRAMME
+            and not presenters(row.get("pre")) and DIRECTOR not in (row.get("generique") or ""))
+
+
+# Long notices (25 to 40 minutes, the show lasts about 13) of Julien Courbet's programme "Les cuisines de France" or
+# its specials, not episodes of the show: found by hand, nothing in the notices tells them apart.
+EXCLUDED_NOTICES = {
+    "RE_RBC07095970",   # 1991-05-07 "spéciale centième", 40 min, Courbet presenter
+    "RE_RBC07095975",   # 1991-09-17 "spéciale centième", 25 min
+    "DA_CPC92000335",   # 1992-01-07 "Spéciale centième", Courbet receives Maïté and Micheline
+    "DA_CPC92000420",   # 1992-01-10 "Tourin blanc gascon", programme "Les cuisines de France", Courbet presenter
+    "DA_CPC92012852",   # 1992-06-23 "Garbure et lapin aux girolles...", 26 min
+}
 
 
 def is_show(row: dict) -> bool:
     """The show's own collection, or a notice filed elsewhere but presented by a known presenter or titled
     "La cuisine des mousquetaires : ...". Notices that name no episode (wrappers, series descriptions, the bare show
     title) are not episodes."""
-    if episode_key(row["titre_propre"]) == episode_key(SHOW) or WRAPPER.search(row["titre_propre"] or "") or (row.get("type_description") or "").startswith("Collection"):
+    if row["notice_path"] in EXCLUDED_NOTICES or _in_other_programme_without_the_show(row) or episode_key(row["titre_propre"]) == episode_key(SHOW) or WRAPPER.search(row["titre_propre"] or "") or (row.get("type_description") or "").startswith("Collection"):
         return False
     return row["titre_collection"] == SHOW or bool(presenters(row["pre"])) or bool(SHOW_PREFIX.match(row["titre_propre"] or ""))
 
@@ -56,6 +78,24 @@ def episode_key(title: str | None) -> str:
     return " ".join(w[:-1] if len(w) > 3 and w[-1] in "sx" else w for w in words)
 
 
+# The show name, with its date or series number, before a colon: "La cuisine des mousquetaires du 7 mai 1991 : ...",
+# "La cuisine des mousquetaires, série 2 : ...". Not used to compare titles: two such notices of other dates differ.
+DISPLAY_PREFIX = re.compile(r"^\s*la cuisine des mousquetaires?(?:\s+du\s[^:]*|,[^:]*)?\s*:\s*", re.I)
+
+
+def display_title(title: str) -> str:
+    """The title as listed: without the INA's provisional brackets or the show-name prefix, in sentence case when
+    the INA wrote it in capitals, and starting with a capital."""
+    title = title.strip()
+    if title.startswith("[") and title.endswith("]"):
+        title = title[1:-1].strip()
+    title = DISPLAY_PREFIX.sub("", title).strip()
+    if title.isupper():
+        title = title.lower()
+    i = next((i for i, c in enumerate(title) if c.isalpha()), None)
+    return title if i is None else title[:i] + title[i].upper() + title[i + 1:]
+
+
 def _rank(row: dict) -> tuple:
     """Earliest broadcast first (a placeholder date counts last); on the same day the channel decides, whichever
     it is: a national and a regional broadcast of one episode are equal, the first to air is the first run."""
@@ -66,12 +106,15 @@ CONFIDENCE_RANK = {"manual": 0, "high": 1, "medium": 2, "low": 3}
 VIDEO_FIELDS = ("youtube_url", "youtube_duree", "match_confidence", "match_score")
 
 
-def _video(group: list[dict]) -> dict:
-    """The YouTube fields of the best-matched notice of the episode (empty if none matched)."""
+def _video(group: list[dict], first: dict) -> dict:
+    """The YouTube fields of the episode (empty if none matched): the video of the first run, unless that match is
+    a doubtful one, else the best match among the other broadcasts (a video often shows a rerun)."""
     matched = [r for r in group if r.get("youtube_url")]
     if not matched:
         return {}
     best = min(matched, key=lambda r: (CONFIDENCE_RANK.get(r["match_confidence"], 9), -(r["match_score"] or 0)))
+    if first.get("youtube_url") and first["match_confidence"] != "low":
+        best = first
     return {k: best[k] for k in VIDEO_FIELDS}
 
 
@@ -256,7 +299,9 @@ def select_episodes(rows: list[dict]) -> list[dict]:
         if not premiere or premiere > FIRST_RUN_END:
             continue
         best = min((r for r in g if r["date_iso"] == premiere), key=_rank)      # the first run
-        out.append({**best, **_filled(best, g, premiere), **{k: None for k in VIDEO_FIELDS}, **_video(g), "premiere_date": premiere,
+        filled = {**best, **_filled(best, g, premiere)}
+        out.append({**filled, "titre_propre": display_title(filled["titre_propre"]),
+                    **{k: None for k in VIDEO_FIELDS}, **_video(g, best), "premiere_date": premiere,
                     "date_incertaine": "oui" if uncertain else "", "n_diffusions": len(g),
                     "type_premiere_diffusion": "régionale" if best["chaine"] in REGIONAL else "nationale",
                     "chaines": " ; ".join(dict.fromkeys(r["chaine"] for r in sorted(g, key=_rank) if r["chaine"])),
