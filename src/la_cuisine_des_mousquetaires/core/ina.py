@@ -18,9 +18,24 @@ SEARCH_BASE = ("https://catalogue.ina.fr/docListe/TV-RADIO?&base_label=TVNAT%2CR
 TITLE = "La cuisine des mousquetaires"
 
 
-def search_url(channel: str, exact_title: bool = True) -> str:
-    """Result-list URL for the show on one channel (channel names as the catalogue spells them)."""
+# Only the first version of the show is wanted (Maïté and Micheline Banzet Lawton, to about 1997): broadcasts
+# up to this date. The 2023+ revival and later reruns are not scraped.
+FIRST_RUN_END = "1997-12-31"
+
+
+def _french_date(iso: str) -> str:
+    y, m, d = iso.split("-")
+    return f"{d}/{m}/{y}"
+
+
+def search_url(channel: str, exact_title: bool = True, until: str | None = FIRST_RUN_END) -> str:
+    """Result-list URL for the show on one channel (channel names as the catalogue spells them).
+
+    until: ISO date, only broadcasts up to it (the catalogue's "datdif" range filter); None for no limit.
+    """
     q = {"ch": channel}
+    if until:
+        q["datdif"] = f"[* TO {_french_date(until)}]"
     if exact_title:
         q["itousti_exact"] = TITLE          # "Titres" field, exact match
     else:
@@ -28,14 +43,11 @@ def search_url(channel: str, exact_title: bool = True) -> str:
     return SEARCH_BASE + "&" + urlencode(q)
 
 
-# Channel names used by the catalogue. "France 3 Occitanie" does not exist there:
-# the 2023 version is indexed under the two former stations, Midi Pyrénées and
-# Languedoc Roussillon. "France 3" is the national network (1990s reruns and 2020s).
+# Channels worth searching. The regional relays (Midi Pyrénées, Languedoc Roussillon, and Poitou Charente after
+# the first run) only repeat broadcasts, and "France 3 Occitanie" does not exist in the catalogue. "France 3" is
+# the national network, "FR3" its name until 1992.
 CHANNELS = [
     "France 3 Aquitaine",
-    "France 3 Poitou Charente",
-    "France 3 Midi Pyrénées",
-    "France 3 Languedoc Roussillon",
     "FR3",
     "France 3",
 ]
@@ -43,13 +55,21 @@ CHANNELS = [
 DEFAULT_SEARCHES = (
     # 1. Exact collection title, one search per channel: the programme notices themselves.
     [(f"titre exact - {c}", search_url(c)) for c in CHANNELS]
-    # 2. Full-text phrase on three channels, for notices filed under another collection:
-    #    the 1983 Poitou-Charentes broadcasts (collection "Magazine"), FR3 "Les Cuisines
-    #    de France" (1991-1992) and news reports about the show on France 3 Aquitaine.
-    #    Full text is not used for the Occitanie stations, where it mostly returns trailers.
-    + [(f"texte - {c}", search_url(c, exact_title=False))
-       for c in ("France 3 Poitou Charente", "FR3", "France 3 Aquitaine")]
+    # 2. Full-text phrase on Poitou-Charentes only: the 1983 broadcasts are filed under another collection
+    #    ("Magazine"). Elsewhere it only adds news reports about the show.
+    + [("texte - France 3 Poitou Charente", search_url("France 3 Poitou Charente", exact_title=False))]
 )
+
+
+def keep_result_row(row: dict) -> bool:
+    """Whether a result-list row is worth fetching its notice page. Permissive: only what clearly is another
+    programme or too late is skipped, a notice with no collection is kept and judged later by its credits."""
+    date = row.get("date_diffusion")        # dd/mm/yyyy
+    if date and "-".join(reversed(date.split("/"))) > FIRST_RUN_END:
+        return False
+    collection = row.get("titre_collection")
+    return not collection or collection in (TITLE, "Magazine")
+
 
 # Fields whose value is a list separated by " ; " on the page.
 LIST_FIELDS = {"GEN", "DE", "DES", "GENRE", "THEMAT", "DISP"}

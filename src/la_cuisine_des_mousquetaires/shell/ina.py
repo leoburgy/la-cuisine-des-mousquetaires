@@ -23,8 +23,8 @@ from urllib.parse import parse_qsl, urlsplit
 
 import requests
 
-from ..core.ina import (DEFAULT_SEARCHES, NOTICE_PREFIX, parse_list_page, parse_notice_page, split_items,
-                        with_param)
+from ..core.ina import (DEFAULT_SEARCHES, NOTICE_PREFIX, keep_result_row, parse_list_page, parse_notice_page,
+                        split_items, with_param)
 from .db import INA_SCHEMA, connect, utcnow
 
 USER_AGENT = "ina-catalogue-scraper/1.0 (research use; contact: set --contact)"
@@ -121,8 +121,9 @@ def run_search(conn, fetcher: Fetcher, label: str, url: str, page_size: int) -> 
         ":titre_propre,:titre_collection,:titre_programme,:genre,:href)",
         [dict(r, run_id=run_id) for r in rows])
     conn.commit()
-    log.info("search %r: %s rows (site reports %s)", label, len(rows), page.total)
-    return run_id, [r["notice_path"] for r in rows if r["notice_path"]]
+    wanted = [r["notice_path"] for r in rows if r["notice_path"] and keep_result_row(r)]
+    log.info("search %r: %s rows (site reports %s), %d to fetch", label, len(rows), page.total, len(wanted))
+    return run_id, wanted
 
 
 def store_notice(conn, path: str, url: str, status: int, html: str, keep_html: bool) -> int:

@@ -1,5 +1,5 @@
-from la_cuisine_des_mousquetaires.core.ina import (parse_list_page, parse_notice_page, search_url, split_items,
-                                                   with_param, Field)
+from la_cuisine_des_mousquetaires.core.ina import (DEFAULT_SEARCHES, Field, keep_result_row, parse_list_page,
+                                                   parse_notice_page, search_url, split_items, with_param)
 
 LIST_HTML = """
 <p>Enregistrements 1 à 1 sur 2</p>
@@ -54,3 +54,26 @@ def test_with_param_replaces_existing_value():
 
 def test_search_url_exact_and_full_text():
     assert "itousti_exact" in search_url("FR3") and "itoustext" in search_url("FR3", exact_title=False)
+
+
+def test_search_url_limits_the_broadcast_date():
+    assert "datdif=%5B%2A+TO+31%2F12%2F1997%5D" in search_url("FR3")
+    assert "datdif" not in search_url("FR3", until=None)
+
+
+def test_default_searches_skip_the_regional_relays():
+    labels = [label for label, _ in DEFAULT_SEARCHES]
+    assert not any("Midi" in l or "Languedoc" in l for l in labels) and len(labels) == 4
+
+
+def row(date="19/06/1992", collection="La cuisine des mousquetaires", programme=None):
+    return {"date_diffusion": date, "titre_collection": collection, "titre_programme": programme}
+
+
+def test_keep_result_row_is_permissive():
+    assert keep_result_row(row())
+    assert keep_result_row(row(collection=None))          # judged later, on its credits
+    assert keep_result_row(row(collection="Magazine"))
+    assert not keep_result_row(row(date="07/01/2023"))
+    assert not keep_result_row(row(collection="Aquitaine actualités"))
+    assert keep_result_row(row(programme="Les cuisines de France"))      # same show, filed under another programme
