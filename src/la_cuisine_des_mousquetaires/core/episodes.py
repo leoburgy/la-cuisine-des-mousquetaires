@@ -1,0 +1,266 @@
+"""Pure selection of the final episode list from catalogue notices.
+
+The catalogue has one notice per broadcast. Here they are reduced to one row per episode: other programmes
+are dropped, and every broadcast of an episode (reruns, relays on other channels) is kept once, from the channel
+closest to the show's origin.
+"""
+from __future__ import annotations
+
+import re
+import unicodedata
+
+from .ina import FIRST_RUN_END, TITLE
+
+SHOW = TITLE
+
+# Credited with role PRE (presenter) or PAR (participant, used by the 1983 notices): Maïté and her co-presenter Micheline Banzet Lawton on the original run
+# (to 1999), then the 2023+ revival.
+PRESENTERS = {"Ordonez Maïté", "Banzet Lawton Micheline","Mignot Fabrice", "Estremo Caroline"}
+
+# Lower is preferred; the Occitanie stations and anything else come last.
+CHANNEL_RANK = {"France 3 Poitou Charente": 0, "France 3 Aquitaine": 1, "France 3": 2, "FR3": 2}
+OTHER_RANK = 3
+REGIONAL = {"France 3 Poitou Charente", "France 3 Aquitaine"}
+
+
+def presenters(pre: str | None) -> list[str]:
+    """Known presenters among the PRE credits (names separated by " ; ")."""
+    return [n for n in (s.strip() for s in (pre or "").split(" ; ")) if n in PRESENTERS]
+
+
+# "La cuisine des mousquetaires : [émission du 5 avril 1990]": the INA's wrapper around a whole magazine; it only
+# lists the segments, which have their own notices.
+WRAPPER = re.compile(r"\[émission du ", re.I)
+
+
+def is_show(row: dict) -> bool:
+    """The show's own collection, or a notice filed elsewhere but presented by a known presenter or titled
+    "La cuisine des mousquetaires : ...". Notices that name no episode (wrappers, series descriptions, the bare show
+    title) are not episodes."""
+    if episode_key(row["titre_propre"]) == episode_key(SHOW) or WRAPPER.search(row["titre_propre"] or "") or (row.get("type_description") or "").startswith("Collection"):
+        return False
+    return row["titre_collection"] == SHOW or bool(presenters(row["pre"])) or bool(SHOW_PREFIX.match(row["titre_propre"] or ""))
+
+
+# Words that differ between the INA's spellings of one title ("Les homards à la rionnaise" / "Homard à la Rionnaise").
+STOPWORDS = {"le", "la", "les", "l", "un", "une", "de", "du", "des", "d", "a", "au", "aux", "en", "et"}
+
+
+SHOW_PREFIX = re.compile(r"^\s*la cuisine des mousquetaires?\s*:\s*", re.I)
+
+
+def episode_key(title: str | None) -> str:
+    """Title reduced to its significant words: no show prefix, case, accents, punctuation, articles or plural s/x."""
+    plain = unicodedata.normalize("NFKD", SHOW_PREFIX.sub("", title or "").lower()).encode("ascii", "ignore").decode()
+    words = [w for w in re.findall(r"[a-z0-9]+", plain) if w not in STOPWORDS]
+    return " ".join(w[:-1] if len(w) > 3 and w[-1] in "sx" else w for w in words)
+
+
+def _rank(row: dict) -> tuple:
+    """Earliest broadcast first (a placeholder date counts last); on the same day the channel decides, whichever
+    it is: a national and a regional broadcast of one episode are equal, the first to air is the first run."""
+    return is_placeholder(row), row["date_iso"] or "", CHANNEL_RANK.get(row["chaine"], OTHER_RANK), row["heure_diffusion"] or ""
+
+
+CONFIDENCE_RANK = {"manual": 0, "high": 1, "medium": 2, "low": 3}
+VIDEO_FIELDS = ("youtube_url", "youtube_duree", "match_confidence", "match_score")
+
+
+def _video(group: list[dict]) -> dict:
+    """The YouTube fields of the best-matched notice of the episode (empty if none matched)."""
+    matched = [r for r in group if r.get("youtube_url")]
+    if not matched:
+        return {}
+    best = min(matched, key=lambda r: (CONFIDENCE_RANK.get(r["match_confidence"], 9), -(r["match_score"] or 0)))
+    return {k: best[k] for k in VIDEO_FIELDS}
+
+
+def is_placeholder(row: dict) -> bool:
+    """A 1 January at midnight: the catalogue's stand-in for "year known, date unknown"."""
+    return (row["date_iso"] or "")[5:] == "01-01" and (row["heure_diffusion"] or "00:00").startswith(("00:00", "24:00"))
+
+
+def _placeholder_aliases(shows: list[dict]) -> dict[str, str]:
+    """Episode key of each placeholder-dated notice -> key of the one dated notice of the same year it abbreviates.
+
+    "[le sanglier]" (1984-01-01) is "Les gibiers et leurs terrines : le sanglier" (1984-09-17): the placeholder's
+    words are all in the other title. Only an unambiguous candidate counts.
+    """
+    dated = {}
+    for r in shows:
+        if r["date_iso"] and not is_placeholder(r):
+            dated.setdefault(r["date_iso"][:4], set()).add(episode_key(r["titre_propre"]))
+    aliases = {}
+    for r in shows:
+        if not (r["date_iso"] and is_placeholder(r)):
+            continue
+        key = episode_key(r["titre_propre"])
+        words = set(key.split())
+        found = {k for k in dated.get(r["date_iso"][:4], ()) if k != key and words <= set(k.split())}
+        if len(found) == 1 and words:
+            aliases[key] = found.pop()
+    return aliases
+
+
+def _premiere(group: list[dict]) -> tuple[str, bool]:
+    """Earliest real date, unless a placeholder dates from an earlier year (then that placeholder, as uncertain)."""
+    real = [r["date_iso"] for r in group if r["date_iso"] and not is_placeholder(r)]
+    fake = [r["date_iso"] for r in group if r["date_iso"] and is_placeholder(r)]
+    if real and (not fake or min(fake)[:4] >= min(real)[:4]):
+        return min(real), False
+    return (min(fake), True) if fake else ("", False)
+
+
+# Fields of the preferred notice that are completed from the other broadcasts of the episode when blank.
+FILLED = ("duree", "generique", "resume_documentaire")
+
+
+def _blank(value: str | None) -> bool:
+    """Empty, or a zero / 24:00 time standing in for "unknown"."""
+    return not value or bool(re.fullmatch(r"[0:]+", value)) or value.startswith("24:00")
+
+
+def _says_rerun(text: str) -> bool:
+    return bool(RERUN_OF_DATE.search(text) or RERUN_OF_FIRST.search(text))
+
+
+def _filled(best: dict, group: list[dict], premiere: str) -> dict:
+    """Values for the fields the first-run notice lacks, taken from the reruns (earliest first), and a plain title
+    for a bracketed one ("[le sanglier]" is the INA's provisional title)."""
+    ranked = sorted(group, key=_rank)
+    out = {}
+    if best["titre_propre"].startswith("["):
+        plain = [r["titre_propre"] for r in ranked if not r["titre_propre"].startswith("[")]
+        if plain:
+            out["titre_propre"] = plain[0]
+    for field in FILLED:
+        if _blank(best.get(field)):
+            donors = [r for r in ranked if not _blank(r.get(field)) and not _says_rerun(r.get(field))]
+            if donors:
+                out[field] = donors[0][field]
+    if _blank(best["heure_diffusion"]):     # a time only from a broadcast of the same day
+        same_day = [r for r in ranked if r["date_iso"] == premiere and not _blank(r["heure_diffusion"])]
+        if same_day:
+            out["heure_diffusion"] = same_day[0]["heure_diffusion"]
+    return out
+
+
+# A short title ("Les foies de veau") is contained in many others by chance, so it needs the exact same duration.
+SHORT_TITLE_WORDS = 3
+DURATION_TOLERANCE_S = 2
+STEM = 5        # the INA spells one word several ways: "Bordelais" / "Bordelaise", "pibales" / "piballes"
+
+
+def _durations(group: list[dict]) -> list[int]:
+    """Known durations of the group in seconds (the catalogue sometimes appends frames: 00:13:06:00)."""
+    out = []
+    for r in group:
+        d = (r.get("duree") or "")[:8]
+        if not _blank(d):
+            h, m, sec = map(int, d.split(":"))
+            out.append(h * 3600 + m * 60 + sec)
+    return out
+
+
+def _same_duration(a: list[int], b: list[int], tolerance: int) -> bool:
+    return any(abs(x - y) <= tolerance for x in a for y in b)
+
+
+def _merge_reruns(groups: dict[str, list[dict]]) -> dict[str, list[dict]]:
+    """Merge episodes that are the same broadcast under two titles. The INA titles one recipe "La queue de boeuf
+    aux lentilles" and "Queue de boeuf aux lentilles, sauté de queue de boeuf aux pois chiches". Words are compared
+    by their first letters (spellings vary: "Bordelais" / "Bordelaise"). Two episodes are the same when
+
+    - their titles have the same words, or
+    - the words of one are all in the other (at least two of them) and the durations agree: within 2 seconds for
+      three words or more, identical for fewer, or
+    - they were broadcast the same day, share a word, and have the same duration: the relay of one episode, or
+    - both come from the 1983-86 series titled "La cuisine des mousquetaires : ...", share a word and have
+      durations within 2 seconds: the summer 1986 rerun of the 1983 series carries other titles for its episodes
+      ("les magrets" for "sanquette, magret et pommes de terre sautées").
+    """
+    keys = list(groups)
+    words = {k: {w[:STEM] for w in k.split()} for k in keys}
+    durations = {k: _durations(groups[k]) for k in keys}
+    days = {k: {r["date_iso"] for r in groups[k]} for k in keys}
+    series = {k: any(SHOW_PREFIX.match(r["titre_propre"] or "") for r in groups[k]) for k in keys}
+    parent = {k: k for k in keys}
+
+    def find(k: str) -> str:
+        while parent[k] != k:
+            parent[k] = parent[parent[k]]
+            k = parent[k]
+        return k
+
+    for i, a in enumerate(keys):
+        for b in keys[i + 1:]:
+            small, big = sorted((words[a], words[b]), key=len)
+            tolerance = DURATION_TOLERANCE_S if len(small) >= SHORT_TITLE_WORDS else 0
+            merge = (
+                (len(small) >= 2 and small == big)
+                or (len(small) >= 2 and small <= big and _same_duration(durations[a], durations[b], tolerance))
+                or (small & big and days[a] & days[b] and _same_duration(durations[a], durations[b], 0))
+                or (small & big and series[a] and series[b] and _same_duration(durations[a], durations[b], DURATION_TOLERANCE_S)))
+            if merge:
+                parent[find(b)] = find(a)
+    merged: dict[str, list[dict]] = {}
+    for k in keys:
+        merged.setdefault(find(k), []).extend(groups[k])
+    return merged
+
+
+# Some summaries say which broadcast they repeat: "Rediffusion du 20/01/1988" (sic, "Rediffusino"), or "Rediffusion
+# du 1er épisode de l'émission (1983)".
+RERUN_OF_DATE = re.compile(r"r[ée]diffus\w*\s+(?:de l'[ée]mission\s+)?du\s+(\d{1,2})/(\d{1,2})/(\d{4})", re.I)
+RERUN_OF_FIRST = re.compile(r"r[ée]diffus\w*\s+du\s+(?:1er|premier)\s+[ée]pisode", re.I)
+
+
+def _merge_declared_reruns(groups: dict[str, list[dict]]) -> dict[str, list[dict]]:
+    """Move the notices whose summary says which broadcast they repeat into the episode of that broadcast: the
+    broadcast of the given date, or the first episode of the series (the earliest one we know)."""
+    def group_of_date(date: str, own: str) -> str | None:
+        found = {k for k, g in groups.items() if k != own and any(r["date_iso"] == date for r in g)}
+        return found.pop() if len(found) == 1 else None
+
+    first = min((k for k, g in groups.items() if _premiere(g)[0]), key=lambda k: _premiere(groups[k]), default=None)
+    moves = []
+    for key, g in groups.items():
+        for r in g:
+            text = r.get("resume_documentaire") or ""
+            if m := RERUN_OF_DATE.search(text):
+                target = group_of_date(f"{m[3]}-{int(m[2]):02d}-{int(m[1]):02d}", key)
+            elif RERUN_OF_FIRST.search(text):
+                target = first
+            else:
+                continue
+            if target and target != key:
+                moves.append((key, target, r))
+    for key, target, r in moves:
+        groups[key].remove(r)
+        groups[target].append(r)
+    return {k: g for k, g in groups.items() if g}
+
+
+def select_episodes(rows: list[dict]) -> list[dict]:
+    """One row per episode, by date, described by its first run (reruns fill what it lacks). Adds premiere_date
+    (date_incertaine when it is a placeholder), n_diffusions, autres_diffusions (the other notices) and presentateurs."""
+    shows = [r for r in rows if is_show(r)]
+    aliases = _placeholder_aliases(shows)
+    groups: dict[str, list[dict]] = {}
+    for r in shows:
+        key = episode_key(r["titre_propre"])
+        groups.setdefault(aliases.get(key, key), []).append(r)
+    out = []
+    for g in _merge_declared_reruns(_merge_reruns(groups)).values():
+        premiere, uncertain = _premiere(g)
+        if not premiere or premiere > FIRST_RUN_END:
+            continue
+        best = min((r for r in g if r["date_iso"] == premiere), key=_rank)      # the first run
+        out.append({**best, **_filled(best, g, premiere), **{k: None for k in VIDEO_FIELDS}, **_video(g), "premiere_date": premiere,
+                    "date_incertaine": "oui" if uncertain else "", "n_diffusions": len(g),
+                    "type_premiere_diffusion": "régionale" if best["chaine"] in REGIONAL else "nationale",
+                    "chaines": " ; ".join(dict.fromkeys(r["chaine"] for r in sorted(g, key=_rank) if r["chaine"])),
+                    "derniere_diffusion": max((r["date_iso"] for r in g if r["date_iso"] and not is_placeholder(r)), default=""),
+                    "autres_diffusions": " ; ".join(r["notice_path"] for r in sorted(g, key=_rank) if r is not best),
+                    "presentateurs": " ; ".join(sorted({n for r in g for n in presenters(r["pre"])}))})
+    return sorted(out, key=lambda r: (r["premiere_date"], r["heure_diffusion"] or "", r["notice_path"]))

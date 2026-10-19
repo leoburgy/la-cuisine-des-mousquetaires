@@ -37,9 +37,11 @@ Runs search queries on the INA catalogue, records every result list, then fetche
 are always re-run and recorded as new `search_run` rows; notices already stored with HTTP 200 are skipped unless
 `--refresh` is given. Requests are throttled and retried on HTTP 429/5xx.
 
-With no `--search`, the built-in searches run: the exact title "La cuisine des mousquetaires" on each of six channels
-(France 3 Aquitaine, Poitou Charente, Midi Pyrénées, Languedoc Roussillon, FR3, France 3), then a full-text phrase
-search on three of them.
+With no `--search`, the built-in searches run, all limited to broadcasts up to 1997-12-31 (the first version of the
+show; the catalogue's `datdif` range filter): the exact title "La cuisine des mousquetaires" on France 3 Aquitaine,
+FR3 and France 3, then a full-text phrase search on France 3 Poitou Charente (the 1983 broadcasts are filed under
+another collection). Result rows that clearly belong to another programme (another collection, or dated after
+1997) are recorded in `search_result` but their notice page is not fetched.
 
 | Option | Default | Meaning |
 |---|---|---|
@@ -113,7 +115,7 @@ inside cells are flattened to spaces. In the wiki table, `|` is escaped, `youtub
 
 | Option | Default | Meaning |
 |---|---|---|
-| `--table NAME` | `episodes` | `episodes`: one row per notice. `credits`: one row per person and role. `episodes_youtube`: every notice with its matched YouTube video, if any (run `match` first). |
+| `--table NAME` | `episodes` | `episodes`: one row per notice. `selection`: the final list, one row per episode (other programmes dropped; reruns and relays merged into the row of the preferred channel, Poitou-Charentes, then Aquitaine, then national; `premiere_date` is the earliest broadcast, `n_diffusions` the notices merged, `presentateurs` the credited presenters). `credits`: one row per person and role. `episodes_youtube`: every notice with its matched YouTube video, if any (run `match` first). |
 | `--format F` | `both` | `tsv`, `wiki` or `both`. |
 | `--only-matched` | off | `episodes_youtube` only: keep only notices that have a YouTube link. Has no effect on the other tables. |
 | `--columns A,B,C` | a set per table | Comma-separated column names, in the order wanted. An unknown name fails and lists the available columns. |

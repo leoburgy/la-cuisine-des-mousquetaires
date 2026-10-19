@@ -10,6 +10,7 @@ from __future__ import annotations
 import sqlite3
 from pathlib import Path
 
+from ..core.episodes import select_episodes
 from ..core.tables import keep_filled, select_columns, tsv_text, wiki_text
 from .db import connect
 
@@ -18,6 +19,22 @@ TABLES = {
         "query": "SELECT * FROM v_notice ORDER BY date_iso, heure_diffusion, notice_path",
         "columns": ["date_iso", "heure_diffusion", "chaine", "titre_propre", "titre_collection",
                     "duree", "genre", "generique", "resume_documentaire", "descripteurs", "notice_path"],
+    },
+    # one row per episode: the show only, repeats on several channels merged (see core/episodes.py)
+    "selection": {
+        "query": """SELECT v.*, (SELECT group_concat(name, ' ; ') FROM v_generique g
+                                 WHERE g.notice_path = v.notice_path AND g.role_code IN ('PRE', 'PAR')) AS pre,
+                           yv.url AS youtube_url,
+                           printf('%d:%02d:%02d', yv.duration_s / 3600, yv.duration_s % 3600 / 60, yv.duration_s % 60) AS youtube_duree,
+                           m.confidence AS match_confidence, round(m.score, 2) AS match_score
+                    FROM v_notice v
+                    LEFT JOIN youtube_match m ON m.notice_path = v.notice_path
+                    LEFT JOIN youtube_video yv ON yv.video_id = m.video_id""",
+        "columns": ["premiere_date", "date_incertaine", "heure_diffusion", "chaine", "statut_diffusion", "titre_propre", "presentateurs",
+                    "type_premiere_diffusion", "n_diffusions", "derniere_diffusion", "chaines", "autres_diffusions", "duree", "youtube_url", "youtube_duree", "match_confidence", "match_score",
+                    "generique", "resume_documentaire", "notice_path"],
+        "select": select_episodes,
+        "matched_only": "youtube_url",
     },
     "credits": {
         "query": """SELECT n.date_iso, n.titre_propre, g.role_code, g.name, g.notice_path
@@ -45,6 +62,11 @@ def fetch(conn: sqlite3.Connection, table: str, columns: list[str] | None) -> tu
     spec = TABLES[table]
     cur = conn.execute(spec["query"])
     available = [d[0] for d in cur.description]
+    if "select" in spec:        # row-level logic lives in the core, on plain dicts
+        recs = spec["select"]([dict(r) for r in cur])
+        available += [k for k in recs[0] if k not in available] if recs else []
+        idx = select_columns(available, columns or spec["columns"])
+        return [available[i] for i in idx], [["" if r[available[i]] is None else str(r[available[i]]) for i in idx] for r in recs]
     idx = select_columns(available, columns or spec["columns"])
     return [available[i] for i in idx], [["" if r[i] is None else str(r[i]) for i in idx] for r in cur]
 

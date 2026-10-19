@@ -36,6 +36,8 @@ def wiki_cell(header: str, value: str) -> str:
         return f"[{value} ▶]"
     if header == "notice_path" and value:
         return f"[{NOTICE_PREFIX}{value} {value}]"
+    if header == "autres_diffusions" and value:
+        return " ; ".join(f"[{NOTICE_PREFIX}{p} {p}]" for p in value.split(" ; "))
     return value
 
 
