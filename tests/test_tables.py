@@ -28,4 +28,9 @@ def test_wiki_cells_escape_pipes_and_link_urls():
 
 
 def test_wiki_text_layout():
-    assert wiki_text(["a", "b"], [["1", "2"]]) == '{| class="wikitable sortable"\n! a !! b\n|-\n| 1 || 2\n|}\n'
+    assert wiki_text(["a", "b"], [["1", "2"]]) == '{| class="wikitable sortable"\n! A !! B\n|-\n| 1 || 2\n|}\n'
+
+
+def test_wiki_headers_are_readable_labels():
+    from la_cuisine_des_mousquetaires.core.tables import wiki_header
+    assert [wiki_header(c) for c in ("premiere_date", "duree", "n_diffusions")] == ["Première diffusion", "Durée", "N diffusions"]

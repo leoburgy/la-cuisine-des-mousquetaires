@@ -41,8 +41,19 @@ def wiki_cell(header: str, value: str) -> str:
     return value
 
 
+# Headers of the wiki table; any other column is shown as its name with spaces and a capital ("n_diffusions" -> "N diffusions").
+WIKI_HEADERS = {
+    "premiere_date": "Première diffusion", "titre_propre": "Titre", "chaine": "Chaîne", "duree": "Durée",
+    "youtube_url": "YouTube", "notice_path": "Notice INA",
+}
+
+
+def wiki_header(column: str) -> str:
+    return WIKI_HEADERS.get(column) or column.replace("_", " ").capitalize()
+
+
 def wiki_text(header: list[str], rows: list[list[str]]) -> str:
-    lines = ['{| class="wikitable sortable"', "! " + " !! ".join(header)]
+    lines = ['{| class="wikitable sortable"', "! " + " !! ".join(wiki_header(h) for h in header)]
     for r in rows:
         lines.append("|-")
         lines.append("| " + " || ".join(wiki_cell(h, c) for h, c in zip(header, r)))
