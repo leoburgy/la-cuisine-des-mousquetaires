@@ -6,6 +6,7 @@ closest to the show's origin.
 """
 from __future__ import annotations
 
+import difflib
 import re
 import unicodedata
 
@@ -192,6 +193,12 @@ def _filled(best: dict, group: list[dict], premiere: str) -> dict:
 SHORT_TITLE_WORDS = 3
 DURATION_TOLERANCE_S = 2
 STEM = 5        # the INA spells one word several ways: "Bordelais" / "Bordelaise", "pibales" / "piballes"
+# Titles worded differently but alike (typos, "St" / "Saint", a dish added or dropped) are the same episode when
+# their durations are close too: the rerun of a recording lasts the same to the second, a recut a few seconds more.
+FUZZY_TITLE = 0.8
+FUZZY_DURATION_S = 5
+# "La cuisine des mousquetaires du 4 mai 1993": a title that only gives the date names no dish to compare.
+DATE_TITLE = re.compile(r"^\s*la cuisine des mousquetaires?\s+du\s+\d", re.I)
 
 
 def _durations(group: list[dict]) -> list[int]:
@@ -218,6 +225,8 @@ def _merge_reruns(groups: dict[str, list[dict]]) -> dict[str, list[dict]]:
     - the words of one are all in the other (at least two of them) and the durations agree: within 2 seconds for
       three words or more, identical for fewer, or
     - they were broadcast the same day, share a word, and have the same duration: the relay of one episode, or
+    - their titles are alike (similarity of 0.8 or more once reduced to their key) and the durations are within 5
+      seconds, unless the titles only give a date, or
     - both come from the 1983-86 series titled "La cuisine des mousquetaires : ...", share a word and have
       durations within 2 seconds: the summer 1986 rerun of the 1983 series carries other titles for its episodes
       ("les magrets" for "sanquette, magret et pommes de terre sautées").
@@ -245,6 +254,12 @@ def _merge_reruns(groups: dict[str, list[dict]]) -> dict[str, list[dict]]:
                 or (small & big and days[a] & days[b] and _same_duration(durations[a], durations[b], 0))
                 or (small & big and series[a] and series[b] and _same_duration(durations[a], durations[b], DURATION_TOLERANCE_S)))
             if merge:
+                parent[find(b)] = find(a)
+    fuzzy = [k for k in keys if durations[k] and not all(DATE_TITLE.match(r["titre_propre"] or "") for r in groups[k])]
+    for i, a in enumerate(fuzzy):
+        for b in fuzzy[i + 1:]:
+            if (difflib.SequenceMatcher(None, a, b).ratio() >= FUZZY_TITLE
+                    and _same_duration(durations[a], durations[b], FUZZY_DURATION_S)):
                 parent[find(b)] = find(a)
     merged: dict[str, list[dict]] = {}
     for k in keys:

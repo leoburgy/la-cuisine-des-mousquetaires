@@ -263,3 +263,22 @@ def test_notices_listed_by_hand_as_one_episode_are_merged(monkeypatch):
     [ep] = select_episodes(rows)
     assert (ep["notice_path"], ep["n_diffusions"]) == ("x", 2)
 
+
+def test_alike_titles_with_close_durations_are_one_episode():
+    rows = [{**row("a", "France 3", "1993-12-10", "Magrets au cidre, jambon au vinaigre framboise et petits oiseaux"), "duree": "00:12:31"},
+            {**row("b", "France 3", "1994-12-28", "Magrets au cidre, jambon chaud au vinaigré de framboise, oiseaux"), "duree": "00:12:32"}]
+    [ep] = select_episodes(rows)
+    assert (ep["notice_path"], ep["n_diffusions"]) == ("a", 2)
+
+
+def test_alike_titles_with_other_durations_stay_apart():
+    rows = [{**row("a", "France 3", "1989-01-24", "Brochet au beurre blanc et pain de brochet"), "duree": "00:13:25"},
+            {**row("b", "France 3", "1994-11-25", "Brochet au beurre blanc et brochet farci"), "duree": "00:13:07"}]
+    assert len(select_episodes(rows)) == 2
+
+
+def test_titles_that_only_give_a_date_are_not_compared():
+    rows = [{**row("a", "France 3", "1992-05-25", "La cuisine des mousquetaires du 25 mai 1992"), "duree": "00:13:00"},
+            {**row("b", "France 3", "1992-06-26", "La cuisine des mousquetaires du 26 juin 1992"), "duree": "00:13:00"}]
+    assert len(select_episodes(rows)) == 2
+
