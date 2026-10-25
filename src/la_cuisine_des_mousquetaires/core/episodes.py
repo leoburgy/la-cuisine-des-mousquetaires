@@ -326,6 +326,34 @@ SAME_EPISODE = [
     {"RE_RBC07108923", "DA_CPC93001816"},
     # the 1991 title adds "et à la lotte" and the notice is 1 min 28 s shorter than the 1992 one
     {"DA_CPC10004993", "RE_RBC07108755"},
+    # reruns reviewed by hand (candidates the title and duration rules left apart): the same dish under reworded titles
+    {"DA_CPC93010412", "RE_RBC08005760"},                   # sarriette, 0 s
+    {"TV_71350.001", "TV_657530.001"},                      # jambon au cidre, 0 s
+    {"DA_CPC94008224", "RE_RBC08009680"},                   # jambonneau au maïs, 1 s
+    {"RE_RBC07022460", "DA_CPC91014368"},                   # coq au vin sous la cendre
+    {"RE_BOC8907030116", "DA_CPC93004442"},                 # dodine
+    {"RE_RBC07036004", "DA_CPC91014509"},                   # crépinettes de foie gras et dinde
+    {"RE_RBC07083745", "DA_CPC92002026"},                   # cochon de lait farci aux haricots landais
+    {"RE_RBC07108737", "DA_CPC92003715", "DA_CPC92013808"}, # soupe de poissons de fête et filet de sole
+    {"RE_RBC07095947", "TV_195357.001"},                    # escalope de saumon, purée de cèpes
+    {"RE_BOC8907030119", "RE_RBC07035705", "DA_CPC92001437"},   # ris de veau et gratin de courgettes
+    {"RE_RBC07083593", "DA_CPC92012426"},                   # cassoulet de Rion-des-Landes
+    {"DA_CPC93006108", "RE_RBC08005644"},                   # esturgeon à la bordelaise
+    {"RE_RBC07108756", "DA_CPC92004589"},                   # araignées farcies
+    {"RE_BOC8907030125", "DA_CPC92011197"},                 # matelote d'anguille
+    {"RE_RBC07108915", "DA_CPC92016916"},                   # soupe à l'oignon au champagne, cailles
+    {"RE_RBC06068102", "DA_CPC93002567"},                   # canard et poireaux braisés
+    {"DA_CPC92002967", "TV_54405.001"},                     # foie gras aux raisins, poivre vert, persillade
+    {"RE_RBC07095858", "DA_CPC92014420"},                   # blanc de poulet au Sauterne et aux raisins
+    {"RE_RBC07095983", "DA_CPC91010709", "DA_CPC92012912"}, # pâté de cèpes en croûte (1991-06-11 and 1992-10-12: 13:45 both)
+    {"RE_BOC8908230340", "DA_CPC92000961"},                 # truite aux girolles, aux épices, aux amandes
+    {"RE_BOC8908230339", "DA_CPC92001738"},                 # piballes et truite
+    {"RE_BOC8907030115", "DA_CPC92001454"},                 # fricassée de poissons au Sauternes
+    {"RE_RBC07034803", "DA_CPC92004292"},                   # faisan aux cèpes
+    {"DA_CPC94004408", "RE_RBC07108741", "DA_CPC92011344"}, # cuissot / gigue de chevreuil, terrine
+    {"RE_BOC8909260596", "DA_CPC10005123"},                 # lapin aux girolles et au sauterne
+    {"RE_BOC8908230347", "DA_CPC93000379", "TV_15684.001"}, # cous farcis (au foie gras), cou de canard farci
+    {"DA_CPC93011319", "RE_RBC08005729"},                   # spéciale Didier Oudill
 ]
 
 
