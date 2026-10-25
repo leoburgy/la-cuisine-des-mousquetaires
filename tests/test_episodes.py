@@ -316,7 +316,7 @@ def test_saints_are_hyphenated_and_capitals_are_lowered():
     titles = ["Coquilles Saint Jacques et st jacques", "Côtelettes SAINT HUBERT", "Tartines St-Jean", "Poires Sainte Anne",
               "Ste Foy", "Henri IV et saint et sauce", "Poulet à la CHRISTOPHE"]
     assert [display_title(t) for t in titles] == [
-        "Coquilles Saint-Jacques et Saint-Jacques", "Côtelettes Saint-Hubert", "Tartines Saint-Jean", "Poires Sainte-Anne",
+        "Coquilles Saint-Jacques et coquilles Saint-Jacques", "Côtelettes Saint-Hubert", "Tartines Saint-Jean", "Poires Sainte-Anne",
         "Sainte-Foy", "Henri IV et saint et sauce", "Poulet à la Christophe"]
 
 

@@ -29,6 +29,9 @@ PHRASES = [
     (r"\bfois gras\b", "foie gras"),
     (r"\bdetoulouse\b", "de Toulouse"),
     (r"\ba (?=la\b|l')", "à "),
+    # the scallops are plural and always "coquilles Saint-Jacques"
+    (r"\bau (?=(?:coquilles? )?saint-jacques\b)", "aux "),
+    (r"(?<!coquilles )(?<!coquille )\bsaint-jacques\b", "coquilles Saint-Jacques"),
 ]
 
 # After "à la" / "à l'" comes a common noun or an adjective ("à l'antillaise", "à la bordelaise", "à l'armagnac").

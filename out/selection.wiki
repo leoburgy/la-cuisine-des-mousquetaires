@@ -219,7 +219,7 @@
 |-
 | 1991-12-10 || Aumonière de homard à la crème de homard || FR3 || 10:59 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC10005170 DA_CPC10005170]
 |-
-| 1991-12-17 || Papillotes de blettes aux huîtres, au Saint-Jacques et à la lotte || FR3 || 11:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC10004993 DA_CPC10004993]
+| 1991-12-17 || Papillotes de blettes aux huîtres, aux coquilles Saint-Jacques et à la lotte || FR3 || 11:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC10004993 DA_CPC10004993]
 |-
 | 1991-12-27 || Soupe poissons de fête et filet de sole au champagne || France 3 Aquitaine || 12:43 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108737 RE_RBC07108737]
 |-
@@ -251,7 +251,7 @@
 |-
 | 1992-03-31 || Feuilleté de cailles en salmis || FR3 || 12:33 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92002768 DA_CPC92002768]
 |-
-| 1992-04-03 || Papillotes de blettes aux huîtres et au Saint-Jacques || France 3 Aquitaine || 12:28 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108755 RE_RBC07108755]
+| 1992-04-03 || Papillotes de blettes aux huîtres et aux coquilles Saint-Jacques || France 3 Aquitaine || 12:28 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108755 RE_RBC07108755]
 |-
 | 1992-04-07 || Foie gras aux raisins au poivre vert et persillade || FR3 || 11:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92002967 DA_CPC92002967]
 |-
@@ -459,7 +459,7 @@
 |-
 | 1993-09-27 || Potée d'escargot forestière, poêlée de fruits au Sauternes || France 3 || 12:53 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93010191 DA_CPC93010191]
 |-
-| 1993-09-30 || Spéciale Roger Vergé : fricassée de moules et rosaces de Saint-Jacques || France 3 || 12:50 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93010237 DA_CPC93010237]
+| 1993-09-30 || Spéciale Roger Vergé : fricassée de moules et rosaces de coquilles Saint-Jacques || France 3 || 12:50 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93010237 DA_CPC93010237]
 |-
 | 1993-10-04 || Blanc de volaille à la sarriette et aux orties et foie de veau à la vapeur de thy || France 3 || 13:04 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93010412 DA_CPC93010412]
 |-
@@ -597,7 +597,7 @@
 |-
 | 1994-11-01 || Escalopes de marcassin aux pommes et gratin de chou || France 3 || 13:22 || [https://www.youtube.com/watch?v=5zcXZExhKPg ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008970 DA_CPC94008970]
 |-
-| 1994-11-04 || Risotto aux Saint-Jacques et coquillages - rougets à la provençale || France 3 || 13:15 || [https://www.youtube.com/watch?v=r8W30kVoi9I ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94009103 DA_CPC94009103]
+| 1994-11-04 || Risotto aux coquilles Saint-Jacques et coquillages - rougets à la provençale || France 3 || 13:15 || [https://www.youtube.com/watch?v=r8W30kVoi9I ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94009103 DA_CPC94009103]
 |-
 | 1994-11-07 || Aiguillettes de bœuf en gelée et estouffade de bœuf aux olives || France 3 || 13:07 || [https://www.youtube.com/watch?v=9wVUzk2ZGW8 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94009021 DA_CPC94009021]
 |-
@@ -677,7 +677,7 @@
 |-
 | 1995-04-13 || Pot au feu breton || France 3 || 12:55 || [https://www.youtube.com/watch?v=BqNZRqIduzk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_45509.001 TV_45509.001]
 |-
-| 1995-04-14 || Gratin de moules aux œufs de cailles et ragoût de Saint-Jacques aux kiwis || France 3 || 12:02 || [https://www.youtube.com/watch?v=NBmiAYwIXKY ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_45624.001 TV_45624.001]
+| 1995-04-14 || Gratin de moules aux œufs de cailles et ragoût de coquilles Saint-Jacques aux kiwis || France 3 || 12:02 || [https://www.youtube.com/watch?v=NBmiAYwIXKY ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_45624.001 TV_45624.001]
 |-
 | 1995-04-17 || Terrine de bœuf à la bière || France 3 || 13:01 || [https://www.youtube.com/watch?v=eTEJOQv6uBU ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_48299.001 TV_48299.001]
 |-

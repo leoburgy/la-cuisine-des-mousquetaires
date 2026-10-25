@@ -21,6 +21,10 @@ from la_cuisine_des_mousquetaires.core.spelling import WORDS, correct
     ("Baëkeoffe et rognons", "Baeckeoffe et rognons"),
     ("Tarte aux pomes et capres sariette", "Tarte aux pommes et câpres sarriette"),
     ("Pâté à la grecque", "Pâté à la grecque"),
+    ("Papillotes de blettes aux huîtres et au Saint-Jacques", "Papillotes de blettes aux huîtres et aux coquilles Saint-Jacques"),
+    ("Risotto aux Saint-Jacques et coquillages", "Risotto aux coquilles Saint-Jacques et coquillages"),
+    ("Ragoût de Saint-Jacques aux kiwis", "Ragoût de coquilles Saint-Jacques aux kiwis"),
+    ("Coquilles Saint-Jacques en papillotes", "Coquilles Saint-Jacques en papillotes"),
 ])
 def test_known_misspellings_are_corrected(raw, expected):
     assert correct(raw) == expected
