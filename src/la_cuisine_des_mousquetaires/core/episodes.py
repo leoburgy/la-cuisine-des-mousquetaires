@@ -87,6 +87,30 @@ DISPLAY_PREFIX = re.compile(r"^\s*la cuisine des mousquetaires?(?:\s+du\s[^:]*|,
 UNNAMED = re.compile(r"^\s*la cuisine des mousquetaires?\s+(du\s+\d[^:-]*?)\s*(-\s*incomplet)?\s*$", re.I)
 
 
+# "Spécial Jean BARDET : rognons", "Spéciale avec A. DAGUIN : brochettes", "Spécial Didier Oudill: papillotes": the
+# episodes with a guest chef, written every which way. Listed as "Spéciale Jean Bardet : rognons".
+SPECIAL = re.compile(r"^Sp[ée]cial(?:e)?(?:\s+avec)?\s+(?P<chef>.+?)(?:\s*:\s*|\s+-\s+|$)(?P<dishes>.*)$", re.I)
+PARTICLES = {"de", "du", "des", "d'", "von"}
+# Chefs the INA gives by initial or without accent, spelled out where the same notices or a second spelling settle it.
+CHEFS = {"R. Verge": "Roger Vergé", "Roger Verge": "Roger Vergé", "A. Daguin": "André Daguin"}
+
+
+def _chef(name: str) -> str:
+    """The chef's name with a capital on each word ("Jean BARDET" -> "Jean Bardet"), particles kept in lower case."""
+    words = [w if w.lower() in PARTICLES else "-".join(p[:1].upper() + p[1:].lower() if p.isupper() or p.islower() else p
+                                                       for p in w.split("-")) for w in name.split()]
+    name = " ".join(words)
+    return CHEFS.get(name, name)
+
+
+def _special(title: str) -> str:
+    m = SPECIAL.match(title)
+    if not m or not all(w.lower() in PARTICLES or w[0].isupper() for w in m["chef"].split()):     # "Spéciale centième"
+        return title
+    dishes = m["dishes"].strip()
+    return f"Spéciale {_chef(m['chef'].strip())}" + (f" : {dishes}" if dishes else "")
+
+
 def display_title(title: str) -> str:
     """The title as listed: without the INA's provisional brackets or the show-name prefix, in sentence case when
     the INA wrote it in capitals, and starting with a capital. A notice that only gives the show and its date
@@ -100,7 +124,8 @@ def display_title(title: str) -> str:
     if title.isupper():
         title = title.lower()
     i = next((i for i, c in enumerate(title) if c.isalpha()), None)
-    return title if i is None else title[:i] + title[i].upper() + title[i + 1:]
+    title = title if i is None else title[:i] + title[i].upper() + title[i + 1:]
+    return _special(title)
 
 
 def _rank(row: dict) -> tuple:

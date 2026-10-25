@@ -298,3 +298,14 @@ def test_a_title_that_only_gives_the_date_is_listed_as_unnamed():
     assert ep["titre_propre"] == "Émission du 22 mai 1990 (titre non renseigné)"
     [ep] = select_episodes([row("b", "France 3 Aquitaine", "1991-04-23", "La cuisine des mousquetaire du 23 avril 1991 -incomplet")])
     assert ep["titre_propre"] == "Émission du 23 avril 1991 (incomplète, titre non renseigné)"
+
+
+def test_the_specials_with_a_chef_are_written_alike():
+    titles = ["Spécial Jacques Le Divellec : salade", "Spéciale avec R. VERGE : fricassée", "Spécial Didier Oudill: papillotes",
+              "Spéciale Jean BARDET : rognons", "Spéciale avec Didier OUDILL", "Spéciale Elisabeth de ROZIERES : langouste",
+              "Spécial Roger VERGE - fricassée de moules", "Spéciale dix ans", "Spéciale centième"]
+    from la_cuisine_des_mousquetaires.core.episodes import display_title
+    assert [display_title(t) for t in titles] == [
+        "Spéciale Jacques Le Divellec : salade", "Spéciale Roger Vergé : fricassée", "Spéciale Didier Oudill : papillotes",
+        "Spéciale Jean Bardet : rognons", "Spéciale Didier Oudill", "Spéciale Elisabeth de Rozieres : langouste",
+        "Spéciale Roger Vergé : fricassée de moules", "Spéciale dix ans", "Spéciale centième"]
