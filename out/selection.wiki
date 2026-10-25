@@ -1,799 +1,761 @@
 {| class="wikitable sortable"
-! premiere_date !! titre_propre !! presentateurs !! chaine !! duree !! youtube_url !! notice_path
+! Première diffusion !! Titre !! Chaîne !! Durée !! YouTube !! Notice INA
 |-
-| 1983-10-20 || Sanquette, magret et pommes de terre sautées || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Poitou Charente || 00:13:26 || [https://www.youtube.com/watch?v=HcvRUNnybNo ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RXC04046343 RE_RXC04046343]
+| 1983-10-20 || Sanquette, magret et pommes de terre sautées || France 3 Poitou Charente || 13:26 || [https://www.youtube.com/watch?v=HcvRUNnybNo ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RXC04046343 RE_RXC04046343]
 |-
-| 1983-10-27 || Les foies de canard || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Poitou Charente || 00:13:06 || [https://www.youtube.com/watch?v=vigYSe1oX8E ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RXC04046468 RE_RXC04046468]
+| 1983-10-27 || Les foies de canard || France 3 Poitou Charente || 13:06 || [https://www.youtube.com/watch?v=vigYSe1oX8E ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RXC04046468 RE_RXC04046468]
 |-
-| 1983-11-10 || Le confit de canard || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Poitou Charente || 00:14:04 || [https://www.youtube.com/watch?v=IBiBJSuGIoQ ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RXC04046689 RE_RXC04046689]
+| 1983-11-10 || Le confit de canard || France 3 Poitou Charente || 14:04 || [https://www.youtube.com/watch?v=IBiBJSuGIoQ ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RXC04046689 RE_RXC04046689]
 |-
-| 1983-11-17 || La garbure || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Poitou Charente || 00:13:00 || [https://www.youtube.com/watch?v=T6KiXM0NyJI ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RXC04046790 RE_RXC04046790]
+| 1983-11-17 || La garbure || France 3 Poitou Charente || 13:00 || [https://www.youtube.com/watch?v=T6KiXM0NyJI ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RXC04046790 RE_RXC04046790]
 |-
-| 1983-11-24 || Foies de canard au raisin et au sauterne || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Poitou Charente || 00:13:43 || [https://www.youtube.com/watch?v=ZVBtOlDo1H0 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RXC04046931 RE_RXC04046931]
+| 1983-11-24 || Foies de canard au raisin et au sauterne || France 3 Poitou Charente || 13:43 || [https://www.youtube.com/watch?v=ZVBtOlDo1H0 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RXC04046931 RE_RXC04046931]
 |-
-| 1984-09-17 || Les gibiers et leurs terrines : le sanglier || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:23:00 || [https://www.youtube.com/watch?v=04tG82waTCk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC06047162 RE_RBC06047162]
+| 1984-09-17 || Les gibiers et leurs terrines : le sanglier || France 3 Aquitaine || 23:00 || [https://www.youtube.com/watch?v=04tG82waTCk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC06047162 RE_RBC06047162]
 |-
-| 1984-09-24 || Les gibiers et leurs terrines : lièvres et bécasses || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:18:10 || [https://www.youtube.com/watch?v=34v0nCmlV9M ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC06047163 RE_RBC06047163]
+| 1984-09-24 || Les gibiers et leurs terrines : lièvres et bécasses || France 3 Aquitaine || 18:10 || [https://www.youtube.com/watch?v=34v0nCmlV9M ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC06047163 RE_RBC06047163]
 |-
-| 1984-10-01 || Les gibiers et leurs terrines : perdrix et faisans || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:17:15 || [https://www.youtube.com/watch?v=FUysiR_aoVI ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC06047166 RE_RBC06047166]
+| 1984-10-01 || Les gibiers et leurs terrines : perdrix et faisans || France 3 Aquitaine || 17:15 || [https://www.youtube.com/watch?v=FUysiR_aoVI ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC06047166 RE_RBC06047166]
 |-
-| 1984-10-08 || Les gibiers et leurs terrines : le chevreuil ||  || France 3 Aquitaine || 00:17:34 || [https://www.youtube.com/watch?v=OtW7KGuQprQ ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC06047169 RE_RBC06047169]
+| 1984-10-08 || Les gibiers et leurs terrines : le chevreuil || France 3 Aquitaine || 17:34 || [https://www.youtube.com/watch?v=OtW7KGuQprQ ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC06047169 RE_RBC06047169]
 |-
-| 1984-10-15 || Les gibiers et leurs terrines : palombes, grives et ortolans || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:19:28 || [https://www.youtube.com/watch?v=9pmY6xSfHHY ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC06047171 RE_RBC06047171]
+| 1984-10-15 || Les gibiers et leurs terrines : palombes, grives et ortolans || France 3 Aquitaine || 19:28 || [https://www.youtube.com/watch?v=9pmY6xSfHHY ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC06047171 RE_RBC06047171]
 |-
-| 1985-09-13 || Les cèpes en conserve || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:12:19 || [https://www.youtube.com/watch?v=FAaYj1yvrIk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8909260593 RE_BOC8909260593]
+| 1985-09-13 || Les cèpes en conserve || France 3 Aquitaine || 12:19 || [https://www.youtube.com/watch?v=FAaYj1yvrIk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8909260593 RE_BOC8909260593]
 |-
-| 1985-09-27 || La galette aux cèpes || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:13:30 || [https://www.youtube.com/watch?v=KHIrLkzzPiM ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8909260594 RE_BOC8909260594]
+| 1985-09-27 || La galette aux cèpes || France 3 Aquitaine || 13:30 || [https://www.youtube.com/watch?v=KHIrLkzzPiM ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8909260594 RE_BOC8909260594]
 |-
-| 1985-10-04 || Cêpes Bordelais et magret de canard || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:13:24 || [https://www.youtube.com/watch?v=QwqZzySotLI ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8909260595 RE_BOC8909260595]
+| 1985-10-04 || Cêpes Bordelais et magret de canard || France 3 Aquitaine || 13:24 || [https://www.youtube.com/watch?v=QwqZzySotLI ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8909260595 RE_BOC8909260595]
 |-
-| 1985-10-18 || Lapin aux girolles et au sauterne || Ordonez Maïté || France 3 Aquitaine || 00:14:30 || [https://www.youtube.com/watch?v=8b3EuP2sTJk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8909260596 RE_BOC8909260596]
+| 1985-10-18 || Lapin aux girolles et au sauterne || France 3 Aquitaine || 14:30 || [https://www.youtube.com/watch?v=8b3EuP2sTJk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8909260596 RE_BOC8909260596]
 |-
-| 1985-10-21 || L'omelette aux cèpes || Banzet Lawton Micheline || France 3 Aquitaine || 00:13:53 || [https://www.youtube.com/watch?v=kRND-n274Yk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8909260597 RE_BOC8909260597]
+| 1985-10-21 || L'omelette aux cèpes || France 3 Aquitaine || 13:53 || [https://www.youtube.com/watch?v=kRND-n274Yk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8909260597 RE_BOC8909260597]
 |-
-| 1987-12-30 || Le canard à la royale || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:14:03 || [https://www.youtube.com/watch?v=_3stn5S4DOo ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230352 RE_BOC8908230352]
+| 1987-12-30 || Le canard à la royale || France 3 Aquitaine || 14:03 || [https://www.youtube.com/watch?v=_3stn5S4DOo ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230352 RE_BOC8908230352]
 |-
-| 1988-01-06 || Surprises au foie gras || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:13:37 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230351 RE_BOC8908230351]
+| 1988-01-06 || Surprises au foie gras || France 3 Aquitaine || 13:37 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230351 RE_BOC8908230351]
 |-
-| 1988-01-20 || Les soupes de notre région || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:14:39 || [https://www.youtube.com/watch?v=BIuLLRGWzZk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230350 RE_BOC8908230350]
+| 1988-01-20 || Les soupes de notre région || France 3 Aquitaine || 14:39 || [https://www.youtube.com/watch?v=BIuLLRGWzZk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230350 RE_BOC8908230350]
 |-
-| 1988-02-03 || Salade Landaise et foie de canard grillé || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:10:50 || [https://www.youtube.com/watch?v=culz12kFr-0 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230349 RE_BOC8908230349]
+| 1988-02-03 || Salade Landaise et foie de canard grillé || France 3 Aquitaine || 10:50 || [https://www.youtube.com/watch?v=culz12kFr-0 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230349 RE_BOC8908230349]
 |-
-| 1988-02-17 || La poule au pot || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:12:29 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230348 RE_BOC8908230348]
+| 1988-02-17 || La poule au pot || France 3 Aquitaine || 12:29 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230348 RE_BOC8908230348]
 |-
-| 1988-03-02 || Les cous farcis au foie gras || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:13:03 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230347 RE_BOC8908230347]
+| 1988-03-02 || Les cous farcis au foie gras || France 3 Aquitaine || 13:03 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230347 RE_BOC8908230347]
 |-
-| 1988-03-16 || Le canard en blanquette || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:13:34 || [https://www.youtube.com/watch?v=LVWJ6Y09ncw ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230346 RE_BOC8908230346]
+| 1988-03-16 || Le canard en blanquette || France 3 Aquitaine || 13:34 || [https://www.youtube.com/watch?v=LVWJ6Y09ncw ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230346 RE_BOC8908230346]
 |-
-| 1988-03-30 || Les escargots à la Gasconne || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:13:56 || [https://www.youtube.com/watch?v=6h86TeUAcxk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230345 RE_BOC8908230345]
+| 1988-03-30 || Les escargots à la Gasconne || France 3 Aquitaine || 13:56 || [https://www.youtube.com/watch?v=6h86TeUAcxk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230345 RE_BOC8908230345]
 |-
-| 1988-04-06 || Triomphes au foie gras || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:14:32 || [https://www.youtube.com/watch?v=dAzMT-1n1os ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230344 RE_BOC8908230344]
+| 1988-04-06 || Triomphes au foie gras || France 3 Aquitaine || 14:32 || [https://www.youtube.com/watch?v=dAzMT-1n1os ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230344 RE_BOC8908230344]
 |-
-| 1988-04-20 || Perdrix et faisans || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:17:15 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230343 RE_BOC8908230343]
+| 1988-04-20 || Perdrix et faisans || France 3 Aquitaine || 17:15 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230343 RE_BOC8908230343]
 |-
-| 1988-05-04 || Saumon à l'oseille en papillotes et saumon au champagne || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:14:55 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230342 RE_BOC8908230342]
+| 1988-05-04 || Saumon à l'oseille en papillotes et saumon au champagne || France 3 Aquitaine || 14:55 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230342 RE_BOC8908230342]
 |-
-| 1988-05-18 || Saumon au vin rouge et saumon à la Gasconne || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:16:00 || [https://www.youtube.com/watch?v=F_cF_uh4qRw ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230341 RE_BOC8908230341]
+| 1988-05-18 || Saumon au vin rouge et saumon à la Gasconne || France 3 Aquitaine || 16:00 || [https://www.youtube.com/watch?v=F_cF_uh4qRw ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230341 RE_BOC8908230341]
 |-
-| 1988-06-15 || Truite farcie aux girolles, truite aux épices, et truite aux amandes et raisins secs || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:14:30 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230340 RE_BOC8908230340]
+| 1988-06-15 || Truite farcie aux girolles, truite aux épices, et truite aux amandes et raisins secs || France 3 Aquitaine || 14:30 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230340 RE_BOC8908230340]
 |-
-| 1988-06-29 || Les piballes et la truite à la gasconne ||  || France 3 Aquitaine || 00:14:42 || [https://www.youtube.com/watch?v=ioAlW1-T3zM ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230339 RE_BOC8908230339]
+| 1988-06-29 || Les piballes et la truite à la gasconne || France 3 Aquitaine || 14:42 || [https://www.youtube.com/watch?v=ioAlW1-T3zM ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230339 RE_BOC8908230339]
 |-
-| 1989-01-17 || Saumon au vin rouge ||  || France 3 Aquitaine || 00:00:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07027027 RE_RBC07027027]
+| 1989-01-17 || Saumon au vin rouge || France 3 Aquitaine ||  ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07027027 RE_RBC07027027]
 |-
-| 1989-01-24 || Brochet au beurre blanc et pain de brochet || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:13:25 || [https://www.youtube.com/watch?v=ztiDboR7Pcc ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030126 RE_BOC8907030126]
+| 1989-01-24 || Brochet au beurre blanc et pain de brochet || France 3 Aquitaine || 13:25 || [https://www.youtube.com/watch?v=ztiDboR7Pcc ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030126 RE_BOC8907030126]
 |-
-| 1989-02-14 || Matelote d'anguille, anguille grillée et persillée, brochettes d'anguilles || Banzet Lawton Micheline || France 3 Aquitaine || 00:13:24 || [https://www.youtube.com/watch?v=2McqbdSgHs8 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030125 RE_BOC8907030125]
+| 1989-02-14 || Matelote d'anguille, anguille grillée et persillée, brochettes d'anguilles || France 3 Aquitaine || 13:24 || [https://www.youtube.com/watch?v=2McqbdSgHs8 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030125 RE_BOC8907030125]
 |-
-| 1989-02-21 || Trois soupes de fruits de mer : moules, huîtres, et écrevisses || Banzet Lawton Micheline || France 3 Aquitaine || 00:13:38 || [https://www.youtube.com/watch?v=Uwuu4gYi-U0 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030124 RE_BOC8907030124]
+| 1989-02-21 || Trois soupes de fruits de mer : moules, huîtres, et écrevisses || France 3 Aquitaine || 13:38 || [https://www.youtube.com/watch?v=Uwuu4gYi-U0 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030124 RE_BOC8907030124]
 |-
-| 1989-03-28 || La lamproie à la Bordelaise || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:14:15 || [https://www.youtube.com/watch?v=kymVKdCPfVE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030123 RE_BOC8907030123]
+| 1989-03-28 || La lamproie à la Bordelaise || France 3 Aquitaine || 14:15 || [https://www.youtube.com/watch?v=kymVKdCPfVE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030123 RE_BOC8907030123]
 |-
-| 1989-04-04 || Alose grillée sauce verte, alose farcie à l'oseille, filets d'alose marinés au vermouth ||  || France 3 Aquitaine || 00:12:25 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030122 RE_BOC8907030122]
+| 1989-04-04 || Alose grillée sauce verte, alose farcie à l'oseille, filets d'alose marinés au vermouth || France 3 Aquitaine || 12:25 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030122 RE_BOC8907030122]
 |-
-| 1989-04-25 || Canard farci aux olives || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:13:47 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030121 RE_BOC8907030121]
+| 1989-04-25 || Canard farci aux olives || France 3 Aquitaine || 13:47 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030121 RE_BOC8907030121]
 |-
-| 1989-05-02 || Ris de veau au fumet de vieux cèpes || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:15:14 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030120 RE_BOC8907030120]
+| 1989-05-02 || Ris de veau au fumet de vieux cèpes || France 3 Aquitaine || 15:14 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030120 RE_BOC8907030120]
 |-
-| 1989-05-09 || Ris de veau au sauternes et gratin de courgettes ||  || France 3 Aquitaine || 00:14:31 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030119 RE_BOC8907030119]
+| 1989-05-09 || Ris de veau au sauternes et gratin de courgettes || France 3 Aquitaine || 14:31 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030119 RE_BOC8907030119]
 |-
-| 1989-05-17 || Le chevreuil a la royale || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:15:20 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030118 RE_BOC8907030118]
+| 1989-05-17 || Le chevreuil a la royale || France 3 Aquitaine || 15:20 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030118 RE_BOC8907030118]
 |-
-| 1989-05-23 || Le poulet d'Aramis farci au foie grac et à l'armagnac || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:14:41 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030117 RE_BOC8907030117]
+| 1989-05-23 || Le poulet d'Aramis farci au foie grac et à l'armagnac || France 3 Aquitaine || 14:41 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030117 RE_BOC8907030117]
 |-
-| 1989-06-13 || Dodine de volaille au foie gras et sauternes et pommes Sarladaises ||  || France 3 Aquitaine || 00:13:06 || [https://www.youtube.com/watch?v=7oLPUZzLtZQ ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030116 RE_BOC8907030116]
+| 1989-06-13 || Dodine de volaille au foie gras et sauternes et pommes Sarladaises || France 3 Aquitaine || 13:06 || [https://www.youtube.com/watch?v=7oLPUZzLtZQ ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030116 RE_BOC8907030116]
 |-
-| 1989-06-20 || Fricassée de poissons et fruits de mer au sauterne et à l'armagnac ||  || France 3 Aquitaine || 00:14:59 || [https://www.youtube.com/watch?v=zZtIsw7dMQA ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030115 RE_BOC8907030115]
+| 1989-06-20 || Fricassée de poissons et fruits de mer au sauterne et à l'armagnac || France 3 Aquitaine || 14:59 || [https://www.youtube.com/watch?v=zZtIsw7dMQA ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030115 RE_BOC8907030115]
 |-
-| 1989-06-27 || Cailles au foie gras, raisins et armagnac ||  || France 3 Aquitaine || 00:13:35 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030114 RE_BOC8907030114]
+| 1989-06-27 || Cailles au foie gras, raisins et armagnac || France 3 Aquitaine || 13:35 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030114 RE_BOC8907030114]
 |-
-| 1989-09-19 || Coq au vin et pommes de terre farcies sous la cendre || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:13:36 || [https://www.youtube.com/watch?v=19J3raDHI80 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07022460 RE_RBC07022460]
+| 1989-09-19 || Coq au vin et pommes de terre farcies sous la cendre || France 3 Aquitaine || 13:36 || [https://www.youtube.com/watch?v=19J3raDHI80 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07022460 RE_RBC07022460]
 |-
-| 1989-09-26 || Coquilles St Jacques en papillottes et à l'oseille || Banzet Lawton Micheline || France 3 Aquitaine || 00:14:45 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC06069255 RE_RBC06069255]
+| 1989-09-26 || Coquilles St Jacques en papillottes et à l'oseille || France 3 Aquitaine || 14:45 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC06069255 RE_RBC06069255]
 |-
-| 1989-10-01 || Magazine de La cuisine des mousquetaires ||  || France 3 Aquitaine || 00:13:38 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC9009191985 RE_BOC9009191985]
+| 1989-10-01 || Magazine de La cuisine des mousquetaires || France 3 Aquitaine || 13:38 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC9009191985 RE_BOC9009191985]
 |-
-| 1989-10-10 || Le chapon farci au foie gras || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:14:28 || [https://www.youtube.com/watch?v=7nX3tlIEtys ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC06068186 RE_RBC06068186]
+| 1989-10-10 || Le chapon farci au foie gras || France 3 Aquitaine || 14:28 || [https://www.youtube.com/watch?v=7nX3tlIEtys ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC06068186 RE_RBC06068186]
 |-
-| 1989-10-17 || Le poulet aux écrevisses || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:14:25 || [https://www.youtube.com/watch?v=k54IAgs7DTQ ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC06068525 RE_RBC06068525]
+| 1989-10-17 || Le poulet aux écrevisses || France 3 Aquitaine || 14:25 || [https://www.youtube.com/watch?v=k54IAgs7DTQ ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC06068525 RE_RBC06068525]
 |-
-| 1989-10-24 || Brochettes de sanglier ||  || France 3 Aquitaine || 00:14:50 || [https://www.youtube.com/watch?v=oMV5MzjWEcU ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07034546 RE_RBC07034546]
+| 1989-10-24 || Brochettes de sanglier || France 3 Aquitaine || 14:50 || [https://www.youtube.com/watch?v=oMV5MzjWEcU ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07034546 RE_RBC07034546]
 |-
-| 1989-10-31 || Faisan farci aux cèpes || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:15:02 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07034803 RE_RBC07034803]
+| 1989-10-31 || Faisan farci aux cèpes || France 3 Aquitaine || 15:02 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07034803 RE_RBC07034803]
 |-
-| 1989-11-07 || Poule farcie en daube || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:15:20 || [https://www.youtube.com/watch?v=dMYUwvfHtqA ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07071722 RE_RBC07071722]
+| 1989-11-07 || Poule farcie en daube || France 3 Aquitaine || 15:20 || [https://www.youtube.com/watch?v=dMYUwvfHtqA ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07071722 RE_RBC07071722]
 |-
-| 1989-11-14 || Tourin à l'ivrogne et lapin à l'Armagnac || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:14:03 || [https://www.youtube.com/watch?v=Py57IJ3QjlE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07035070 RE_RBC07035070]
+| 1989-11-14 || Tourin à l'ivrogne et lapin à l'Armagnac || France 3 Aquitaine || 14:03 || [https://www.youtube.com/watch?v=Py57IJ3QjlE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07035070 RE_RBC07035070]
 |-
-| 1989-11-21 || Canards de Barbarie et poireaux braisés ||  || France 3 Aquitaine || 00:13:47 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC06068102 RE_RBC06068102]
+| 1989-11-21 || Canards de Barbarie et poireaux braisés || France 3 Aquitaine || 13:47 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC06068102 RE_RBC06068102]
 |-
-| 1989-11-28 || Ris de veau et foie gras gratin de courgettes ||  || France 3 Aquitaine || 00:14:31 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07035705 RE_RBC07035705]
+| 1989-11-28 || Ris de veau et foie gras gratin de courgettes || France 3 Aquitaine || 14:31 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07035705 RE_RBC07035705]
 |-
-| 1989-12-05 || Salmis de homard ||  || France 3 Aquitaine || 00:13:47 || [https://www.youtube.com/watch?v=R94zZK8WqaE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07071801 RE_RBC07071801]
+| 1989-12-05 || Salmis de homard || France 3 Aquitaine || 13:47 || [https://www.youtube.com/watch?v=R94zZK8WqaE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07071801 RE_RBC07071801]
 |-
-| 1989-12-12 || Les homards à la rionnaise || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:14:09 || [https://www.youtube.com/watch?v=TnuzXErdJ78 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07071802 RE_RBC07071802]
+| 1989-12-12 || Les homards à la rionnaise || France 3 Aquitaine || 14:09 || [https://www.youtube.com/watch?v=TnuzXErdJ78 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07071802 RE_RBC07071802]
 |-
-| 1989-12-19 || Crépinettes de foie gras et dinde aux cailles || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:14:48 || [https://www.youtube.com/watch?v=at3AMgpWEOk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07036004 RE_RBC07036004]
+| 1989-12-19 || Crépinettes de foie gras et dinde aux cailles || France 3 Aquitaine || 14:48 || [https://www.youtube.com/watch?v=at3AMgpWEOk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07036004 RE_RBC07036004]
 |-
-| 1989-12-26 || Homard flambé à l'armagnac et aiguillettes de canard à la royale farcies au foie gras || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:15:06 || [https://www.youtube.com/watch?v=vEUNhSX46LE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07071921 RE_RBC07071921]
+| 1989-12-26 || Homard flambé à l'armagnac et aiguillettes de canard à la royale farcies au foie gras || France 3 Aquitaine || 15:06 || [https://www.youtube.com/watch?v=vEUNhSX46LE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07071921 RE_RBC07071921]
 |-
-| 1990-01-09 || Dodine de volailles au foie gras et Sauterne et pommes salardaises ||  || France 3 Aquitaine || 00:13:06 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07083581 RE_RBC07083581]
+| 1990-01-16 || Canard au Saint-Emilion flambé à l'Armagnac || France 3 Aquitaine || 15:23 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07083587 RE_RBC07083587]
 |-
-| 1990-01-16 || Canard au Saint-Emilion flambé à l'Armagnac || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:15:23 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07083587 RE_RBC07083587]
+| 1990-01-30 || Le cassoulet landais de Rion-des-Landes || France 3 Aquitaine || 15:23 || [https://www.youtube.com/watch?v=d8co6bfSnns ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07083593 RE_RBC07083593]
 |-
-| 1990-01-30 || Le cassoulet landais de Rion-des-Landes || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:15:23 || [https://www.youtube.com/watch?v=d8co6bfSnns ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07083593 RE_RBC07083593]
+| 1990-02-06 || Carbonnade au fois gras, carbonnade gasconne || France 3 Aquitaine ||  || [https://www.youtube.com/watch?v=mkozk95gIrA ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07039065 RE_RBC07039065]
 |-
-| 1990-02-06 || Carbonnade au fois gras, carbonnade gasconne || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:00:00:00 || [https://www.youtube.com/watch?v=mkozk95gIrA ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07039065 RE_RBC07039065]
+| 1990-02-27 || Friand de poissons et beignets de langoustines || France 3 Aquitaine || 14:33 || [https://www.youtube.com/watch?v=hK9MBhcT24c ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07083645 RE_RBC07083645]
 |-
-| 1990-02-27 || Friand de poissons et beignets de langoustines || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:14:33 || [https://www.youtube.com/watch?v=hK9MBhcT24c ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07083645 RE_RBC07083645]
+| 1990-04-03 || Bécasse en croûte au sel et chou aux lardons || France 3 Aquitaine || 13:24 || [https://www.youtube.com/watch?v=PaMSi7tsj2Y ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC9009191991 RE_BOC9009191991]
 |-
-| 1990-04-03 || Bécasse en croûte au sel et chou aux lardons || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:13:24 || [https://www.youtube.com/watch?v=PaMSi7tsj2Y ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC9009191991 RE_BOC9009191991]
+| 1990-04-05 || Feuilletés aux huîtres || France 3 Aquitaine || 12:08 || [https://www.youtube.com/watch?v=mGMiDcttwg0 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07096102 RE_RBC07096102]
 |-
-| 1990-04-05 || Feuilletés aux huîtres ||  || France 3 Aquitaine || 00:12:08 || [https://www.youtube.com/watch?v=mGMiDcttwg0 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07096102 RE_RBC07096102]
+| 1990-04-10 || Le navarin de homard || France 3 Aquitaine || 14:04 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07083741 RE_RBC07083741]
 |-
-| 1990-04-10 || Le navarin de homard || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:14:04 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07083741 RE_RBC07083741]
+| 1990-04-24 || Cochon de lait farci et haricots landais || France 3 Aquitaine || 12:23 || [https://www.youtube.com/watch?v=bfr4xr97UQo ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07083745 RE_RBC07083745]
 |-
-| 1990-04-24 || Cochon de lait farci et haricots landais || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:12:23 || [https://www.youtube.com/watch?v=bfr4xr97UQo ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07083745 RE_RBC07083745]
+| 1990-05-15 || Terrine de canettes || France 3 Aquitaine || 13:28 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC9009191992 RE_BOC9009191992]
 |-
-| 1990-05-15 || Terrine de canettes ||  || France 3 Aquitaine || 00:13:28 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC9009191992 RE_BOC9009191992]
+| 1990-05-22 || La cuisine des mousquetaires du 22 mai 1990 || France 3 Aquitaine || 12:25 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07083666 RE_RBC07083666]
 |-
-| 1990-05-22 || La cuisine des mousquetaires du 22 mai 1990 ||  || France 3 Aquitaine || 00:12:25 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07083666 RE_RBC07083666]
+| 1990-06-12 || Poulet à l'ail et aux herbes || France 3 Aquitaine || 12:45 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC9009191993 RE_BOC9009191993]
 |-
-| 1990-06-12 || Poulet à l'ail et aux herbes || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:12:45 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC9009191993 RE_BOC9009191993]
+| 1990-06-19 || Les foies de veau || France 3 Aquitaine || 13:34 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07072444 RE_RBC07072444]
 |-
-| 1990-06-19 || Les foies de veau || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:13:34 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07072444 RE_RBC07072444]
+| 1990-09-18 || Blancs de poulet aux raisins et sauterne, cuisses marinées, grillées, et braisées || France 3 Aquitaine || 12:55 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07095858 RE_RBC07095858]
 |-
-| 1990-09-18 || Blancs de poulet aux raisins et sauterne, cuisses marinées, grillées, et braisées ||  || France 3 Aquitaine || 00:12:55 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07095858 RE_RBC07095858]
+| 1990-09-25 || Lapin farci aux cèpes et pain perdu || France 3 Aquitaine || 13:02 || [https://www.youtube.com/watch?v=lBDrZV2QLzY ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07046440 RE_RBC07046440]
 |-
-| 1990-09-25 || Lapin farci aux cèpes et pain perdu || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:13:02 || [https://www.youtube.com/watch?v=lBDrZV2QLzY ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07046440 RE_RBC07046440]
+| 1990-10-09 || Coquelet au Sauterne et pomme de terre farcies aux cèpes || France 3 Aquitaine || 13:05 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07046955 RE_RBC07046955]
 |-
-| 1990-10-09 || Coquelet au Sauterne et pomme de terre farcies aux cèpes || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:13:05 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07046955 RE_RBC07046955]
+| 1990-10-23 || Canard farci au madère et à l'armagnac || France 3 Aquitaine || 12:05 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07047144 RE_RBC07047144]
 |-
-| 1990-10-23 || Canard farci au madère et à l'armagnac || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:12:05 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07047144 RE_RBC07047144]
+| 1990-11-06 || La soupe de poisson || France 3 Aquitaine || 12:29 || [https://www.youtube.com/watch?v=CIFuxapt6jA ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07047333 RE_RBC07047333]
 |-
-| 1990-11-06 || La soupe de poisson || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:12:29 || [https://www.youtube.com/watch?v=CIFuxapt6jA ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07047333 RE_RBC07047333]
+| 1990-11-20 || Lapin à la rionnaise et riz campagnard || France 3 Aquitaine || 13:24 || [https://www.youtube.com/watch?v=wsvJhE0_2q0 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07047582 RE_RBC07047582]
 |-
-| 1990-11-20 || Lapin à la rionnaise et riz campagnard || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:13:24 || [https://www.youtube.com/watch?v=wsvJhE0_2q0 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07047582 RE_RBC07047582]
+| 1991-02-05 || Omelette aux queues de langoustines et son coulis de tomates || France 3 Aquitaine || 13:26 || [https://www.youtube.com/watch?v=9N6SKL8J1AI ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07095941 RE_RBC07095941]
 |-
-| 1991-02-05 || Omelette aux queues de langoustines et son coulis de tomates || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:13:26 || [https://www.youtube.com/watch?v=9N6SKL8J1AI ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07095941 RE_RBC07095941]
+| 1991-02-19 || Ragoût de langoustines au Sauterne et oseille, sauce nantua || France 3 Aquitaine || 13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07095942 RE_RBC07095942]
 |-
-| 1991-02-19 || Ragoût de langoustines au Sauterne et oseille, sauce nantua || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07095942 RE_RBC07095942]
+| 1991-03-05 || Tournedos de thon et de saumon au foie gras et fumet de vieux cèpes || France 3 Aquitaine || 12:36 || [https://www.youtube.com/watch?v=n7QpY55Qf7A ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07095943 RE_RBC07095943]
 |-
-| 1991-03-05 || Tournedos de thon et de saumon au foie gras et fumet de vieux cèpes || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:12:36 || [https://www.youtube.com/watch?v=n7QpY55Qf7A ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07095943 RE_RBC07095943]
+| 1991-03-12 || L'escalope de saumon à la purée de cèpes || France 3 Aquitaine || 13:54 || [https://www.youtube.com/watch?v=DbArqef_t3U ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07095947 RE_RBC07095947]
 |-
-| 1991-03-12 || L'escalope de saumon à la purée de cèpes || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:13:54 || [https://www.youtube.com/watch?v=DbArqef_t3U ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07095947 RE_RBC07095947]
+| 1991-03-19 || Tournedos d'anguille au St Emilion || France 3 Aquitaine || 13:14 || [https://www.youtube.com/watch?v=1EjD253Vk24 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07095951 RE_RBC07095951]
 |-
-| 1991-03-19 || Tournedos d'anguille au St Emilion || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:13:14 || [https://www.youtube.com/watch?v=1EjD253Vk24 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07095951 RE_RBC07095951]
+| 1991-04-02 || Paella de la côte basque || France 3 Aquitaine || 13:46 || [https://www.youtube.com/watch?v=LGnMr2DXADM ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07095958 RE_RBC07095958]
 |-
-| 1991-04-02 || Paella de la côte basque || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:13:46 || [https://www.youtube.com/watch?v=LGnMr2DXADM ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07095958 RE_RBC07095958]
+| 1991-04-16 || Bar farci en crépine et ragoût d'aperges || France 3 Aquitaine || 12:40 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07095961 RE_RBC07095961]
 |-
-| 1991-04-16 || Bar farci en crépine et ragoût d'aperges ||  || France 3 Aquitaine || 00:12:40 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07095961 RE_RBC07095961]
+| 1991-04-23 || La cuisine des mousquetaire du 23 avril 1991 -incomplet || France 3 Aquitaine ||  ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07106943 RE_RBC07106943]
 |-
-| 1991-04-23 || La cuisine des mousquetaire du 23 avril 1991 -incomplet ||  || France 3 Aquitaine || 00:00:00:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07106943 RE_RBC07106943]
+| 1991-04-30 || Papillotes de l'océan aux huîtres et aux girolles || France 3 Aquitaine || 12:47 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07095963 RE_RBC07095963]
 |-
-| 1991-04-30 || Papillotes de l'océan aux huîtres et aux girolles ||  || France 3 Aquitaine || 00:12:47 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07095963 RE_RBC07095963]
+| 1991-05-07 || Fricassée d'escargots à la purée d'orties || France 3 Aquitaine || 12:06 || [https://www.youtube.com/watch?v=UVUIeVc17Is ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07095966 RE_RBC07095966]
 |-
-| 1991-05-07 || Fricassée d'escargots à la purée d'orties || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:12:06 || [https://www.youtube.com/watch?v=UVUIeVc17Is ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07095966 RE_RBC07095966]
+| 1991-06-11 || Pâté de cèpes en croûte au fumet de vieux cèpes et garbure de poisson en croûte || France 3 Aquitaine || 13:45 || [https://www.youtube.com/watch?v=lPlzVkK4BOg ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07095983 RE_RBC07095983]
 |-
-| 1991-06-11 || Pâté de cèpes en croûte au fumet de vieux cèpes et garbure de poisson en croûte || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:13:45 || [https://www.youtube.com/watch?v=lPlzVkK4BOg ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07095983 RE_RBC07095983]
+| 1991-06-25 || Civet de cochon de lait || France 3 Aquitaine || 13:15 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07095986 RE_RBC07095986]
 |-
-| 1991-06-25 || Civet de cochon de lait || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:13:15 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07095986 RE_RBC07095986]
+| 1991-07-25 || Omelette aux langoustines || FR3 || 13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC91010708 DA_CPC91010708]
 |-
-| 1991-07-25 || Omelette aux langoustines || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC91010708 DA_CPC91010708]
+| 1991-07-27 || Paté de cèpes au foie gras et en croûte || FR3 || 15:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC91010709 DA_CPC91010709]
 |-
-| 1991-07-27 || Paté de cèpes au foie gras et en croûte || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:15:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC91010709 DA_CPC91010709]
+| 1991-09-10 || Trois recettes de foie gras || FR3 || 11:44 || [https://www.youtube.com/watch?v=pWzv2JOMCQY ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC91011775 DA_CPC91011775]
 |-
-| 1991-09-10 || Trois recettes de foie gras || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:11:44 || [https://www.youtube.com/watch?v=pWzv2JOMCQY ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC91011775 DA_CPC91011775]
+| 1991-09-10 || Meusclade de poissons et de crustacés || FR3 || 11:41 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC10005121 DA_CPC10005121]
 |-
-| 1991-09-10 || Meusclade de poissons et de crustacés || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:11:41 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC10005121 DA_CPC10005121]
+| 1991-09-17 || Magret de canard farci au foie gras et aux cèpes || FR3 || 13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC91011923 DA_CPC91011923]
 |-
-| 1991-09-17 || Magret de canard farci au foie gras et aux cèpes || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC91011923 DA_CPC91011923]
+| 1991-09-17 || Garbure et lapin au Sauternes et aux girolles || FR3 || 12:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC10005123 DA_CPC10005123]
 |-
-| 1991-09-17 || Garbure et lapin au Sauternes et aux girolles || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:12:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC10005123 DA_CPC10005123]
+| 1991-09-20 || La cuisine des mousquetaires du 20 septembre 1991 || France 3 Aquitaine || 12:47 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108721 RE_RBC07108721]
 |-
-| 1991-09-20 || La cuisine des mousquetaires du 20 septembre 1991 ||  || France 3 Aquitaine || 00:12:47 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108721 RE_RBC07108721]
+| 1991-09-24 || Tourte de faisans aux pruneaux || FR3 || 11:35 || [https://www.youtube.com/watch?v=p7yIA_FNbY4 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC91012189 DA_CPC91012189]
 |-
-| 1991-09-24 || Tourte de faisans aux pruneaux || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:11:35 || [https://www.youtube.com/watch?v=p7yIA_FNbY4 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC91012189 DA_CPC91012189]
+| 1991-09-24 || Bécasse perdrix et ortolans || FR3 || 12:59 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC10005125 DA_CPC10005125]
 |-
-| 1991-09-24 || Bécasse perdrix et ortolans || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:12:59 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC10005125 DA_CPC10005125]
+| 1991-10-01 || Cuissot de chevreuil sauce grand veneur || FR3 || 13:00 || [https://www.youtube.com/watch?v=BFXTgRrvWDo ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94004408 DA_CPC94004408]
 |-
-| 1991-10-01 || Cuissot de chevreuil sauce grand veneur || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:13:00 || [https://www.youtube.com/watch?v=BFXTgRrvWDo ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94004408 DA_CPC94004408]
+| 1991-10-01 || Galette de cèpes au foie gras et fumet de vieux cèpes || France 3 Aquitaine || 12:23 || [https://www.youtube.com/watch?v=JMPen2ypim4 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07112986 RE_RBC07112986]
 |-
-| 1991-10-01 || Galette de cèpes au foie gras et fumet de vieux cèpes || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:12:23 || [https://www.youtube.com/watch?v=JMPen2ypim4 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07112986 RE_RBC07112986]
+| 1991-10-04 || Salmis de palombes, grives et cailles au foie || France 3 Aquitaine || 12:16 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108722 RE_RBC07108722]
 |-
-| 1991-10-04 || Salmis de palombes, grives et cailles au foie ||  || France 3 Aquitaine || 00:12:16 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108722 RE_RBC07108722]
+| 1991-10-18 || Soles farcies au crabe et à la crème de crabe || France 3 Aquitaine || 12:03 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108723 RE_RBC07108723]
 |-
-| 1991-10-18 || Soles farcies au crabe et à la crème de crabe ||  || France 3 Aquitaine || 00:12:03 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108723 RE_RBC07108723]
+| 1991-11-15 || Poissons en croûte de sel : crabe, dorade et bar || France 3 Aquitaine || 12:48 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108724 RE_RBC07108724]
 |-
-| 1991-11-15 || Poissons en croûte de sel : crabe, dorade et bar || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:12:48 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108724 RE_RBC07108724]
+| 1991-11-19 || Saumon au vin rouge et un saumon à la braise et aux champignons farcis. || FR3 || 12:07 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC91013590 DA_CPC91013590]
 |-
-| 1991-11-19 || Saumon au vin rouge et un saumon à la braise et aux champignons farcis. || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:12:07 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC91013590 DA_CPC91013590]
+| 1991-11-26 || Tourteaux farcis à la crème de homard || FR3 || 11:52 || [https://www.youtube.com/watch?v=6btFyhqTMPE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC91013956 DA_CPC91013956]
 |-
-| 1991-11-26 || Tourteaux farcis à la crème de homard || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:11:52 || [https://www.youtube.com/watch?v=6btFyhqTMPE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC91013956 DA_CPC91013956]
+| 1991-11-26 || Cassoulet de Rion des Landes || FR3 || 13:17 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92012426 DA_CPC92012426]
 |-
-| 1991-11-26 || Cassoulet de Rion des Landes || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:13:17 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92012426 DA_CPC92012426]
+| 1991-12-03 || Coq au vin aux pomes de terre farcies cuites sous la cendre || FR3 || 12:15 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC91014368 DA_CPC91014368]
 |-
-| 1991-12-03 || Coq au vin aux pomes de terre farcies cuites sous la cendre || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:12:15 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC91014368 DA_CPC91014368]
+| 1991-12-06 || La cuisine des mousquetaires du 6 décembre 1991 || France 3 Aquitaine || 12:43 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108733 RE_RBC07108733]
 |-
-| 1991-12-06 || La cuisine des mousquetaires du 6 décembre 1991 || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:12:43 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108733 RE_RBC07108733]
+| 1991-12-10 || Crépinette au foie gras et dinde farcie au caille || FR3 || 14:26 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC91014509 DA_CPC91014509]
 |-
-| 1991-12-10 || Crépinette au foie gras et dinde farcie au caille || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:14:26 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC91014509 DA_CPC91014509]
+| 1991-12-10 || Aumonière de homard à la crème de homard || FR3 || 10:59 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC10005170 DA_CPC10005170]
 |-
-| 1991-12-10 || Aumonière de homard à la crème de homard || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:10:59 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC10005170 DA_CPC10005170]
+| 1991-12-17 || Papillotes de blettes aux huitres, au Saint Jacques et à la lotte || FR3 || 11:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC10004993 DA_CPC10004993]
 |-
-| 1991-12-17 || Papillotes de blettes aux huitres, au Saint Jacques et à la lotte || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:11:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC10004993 DA_CPC10004993]
+| 1991-12-27 || Soupe poissons de fête et filet de sole au champagne || France 3 Aquitaine || 12:43 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108737 RE_RBC07108737]
 |-
-| 1991-12-27 || Soupe poissons de fête et filet de sole au champagne || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:12:43 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108737 RE_RBC07108737]
+| 1992-01-14 || La poule au pot accompagnée de la sauce poulette. || FR3 || 11:58 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92000477 DA_CPC92000477]
 |-
-| 1992-01-14 || La poule au pot accompagnée de la sauce poulette. || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:11:58 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92000477 DA_CPC92000477]
+| 1992-01-17 || La truite aux girolles et la truite aux épices, aux amandes, et aux petits raisins || FR3 || 13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92000961 DA_CPC92000961]
 |-
-| 1992-01-17 || La truite aux girolles et la truite aux épices, aux amandes, et aux petits raisins || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92000961 DA_CPC92000961]
+| 1992-01-17 || Cuissot de chevreuil sauce grand veneur et terrine de chevreuil || France 3 Aquitaine || 12:22 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108741 RE_RBC07108741]
 |-
-| 1992-01-17 || Cuissot de chevreuil sauce grand veneur et terrine de chevreuil || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:12:22 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108741 RE_RBC07108741]
+| 1992-01-24 || La cuisine des mousquetaires du 24 janvier 1992 || France 3 Aquitaine || 12:33 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108744 RE_RBC07108744]
 |-
-| 1992-01-24 || La cuisine des mousquetaires du 24 janvier 1992 || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:12:33 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108744 RE_RBC07108744]
+| 1992-01-28 || Surprises au foie gras avec sauce au fumet || FR3 || 13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92001052 DA_CPC92001052]
 |-
-| 1992-01-28 || Surprises au foie gras avec sauce au fumet || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92001052 DA_CPC92001052]
+| 1992-01-31 || Le brochet || FR3 || 11:46 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92001064 DA_CPC92001064]
 |-
-| 1992-01-31 || Le brochet || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:11:46 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92001064 DA_CPC92001064]
+| 1992-02-04 || Ris de veau braisé au Sauternes et gratin de courgettes || FR3 || 12:17 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92001437 DA_CPC92001437]
 |-
-| 1992-02-04 || Ris de veau braisé au Sauternes et gratin de courgettes || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:12:17 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92001437 DA_CPC92001437]
+| 1992-02-07 || La fricassée de poissons au Sauternes || FR3 || 13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92001454 DA_CPC92001454]
 |-
-| 1992-02-07 || La fricassée de poissons au Sauternes || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92001454 DA_CPC92001454]
+| 1992-02-07 || Gratinées, oeufs pochés et poires au champagne || France 3 Aquitaine || 13:33 || [https://www.youtube.com/watch?v=cbqIMI9jjos ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108749 RE_RBC07108749]
 |-
-| 1992-02-07 || Gratinées, oeufs pochés et poires au champagne || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:13:33 || [https://www.youtube.com/watch?v=cbqIMI9jjos ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108749 RE_RBC07108749]
+| 1992-02-14 || Repas de Saint-Valentin || FR3 || 13:20 || [https://www.youtube.com/watch?v=G5LbmJsRyC4 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92001475 DA_CPC92001475]
 |-
-| 1992-02-14 || Repas de Saint-Valentin || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:13:20 || [https://www.youtube.com/watch?v=G5LbmJsRyC4 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92001475 DA_CPC92001475]
+| 1992-02-14 || Tourte de faisan aux champignons et raisin || France 3 Aquitaine || 12:02 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108751 RE_RBC07108751]
 |-
-| 1992-02-14 || Tourte de faisan aux champignons et raisin || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:12:02 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108751 RE_RBC07108751]
+| 1992-02-21 || Piballes et truite au sauterne || FR3 || 13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92001738 DA_CPC92001738]
 |-
-| 1992-02-21 || Piballes et truite au sauterne || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92001738 DA_CPC92001738]
+| 1992-02-28 || Bar farci en crépine et ragout d'asperges || FR3 || 11:31 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92001855 DA_CPC92001855]
 |-
-| 1992-02-28 || Bar farci en crépine et ragout d'asperges || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:11:31 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92001855 DA_CPC92001855]
+| 1992-03-03 || Cochon de lait farci accompagné de haricots landais || FR3 || 12:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92002026 DA_CPC92002026]
 |-
-| 1992-03-03 || Cochon de lait farci accompagné de haricots landais || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:12:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92002026 DA_CPC92002026]
+| 1992-03-31 || Feuilleté de cailles en salmis || FR3 || 12:33 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92002768 DA_CPC92002768]
 |-
-| 1992-03-17 || Salmis de palombe et des grives et cailles au foie gras || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:12:12 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92002462 DA_CPC92002462]
+| 1992-04-03 || Papillotes de blettes aux huîtres et au st jacques || France 3 Aquitaine || 12:28 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108755 RE_RBC07108755]
 |-
-| 1992-03-31 || Feuilleté de cailles en salmis || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:12:33 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92002768 DA_CPC92002768]
+| 1992-04-07 || Foie gras aux raisins au poivre vert et persillade || FR3 || 11:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92002967 DA_CPC92002967]
 |-
-| 1992-04-03 || Papillotes de blettes aux huîtres et au st jacques || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:12:28 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108755 RE_RBC07108755]
+| 1992-04-10 || Coquilles Saint Jacques en papillotes et à l'oseille || FR3 || 12:00 || [https://www.youtube.com/watch?v=BiAPYVGmcyo ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92002998 DA_CPC92002998]
 |-
-| 1992-04-07 || Foie gras aux raisins au poivre vert et persillade || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:11:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92002967 DA_CPC92002967]
+| 1992-04-14 || Cailles aux raisins et au foie gras et une purée de céleri || FR3 || 11:00 || [https://www.youtube.com/watch?v=V4GsI6U7NZY ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92003125 DA_CPC92003125]
 |-
-| 1992-04-10 || Coquilles Saint Jacques en papillotes et à l'oseille || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:12:00 || [https://www.youtube.com/watch?v=BiAPYVGmcyo ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92002998 DA_CPC92002998]
+| 1992-04-17 || Araignées farcies || France 3 Aquitaine || 12:25 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108756 RE_RBC07108756]
 |-
-| 1992-04-14 || Cailles aux raisins et au foie gras et une purée de céleri || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:11:00 || [https://www.youtube.com/watch?v=V4GsI6U7NZY ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92003125 DA_CPC92003125]
+| 1992-04-21 || Ris de veau au fumet de vieux cèpes accompagnés d'une galette de pomme de terre || FR3 || 12:46 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92003317 DA_CPC92003317]
 |-
-| 1992-04-17 || Araignées farcies || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:12:25 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108756 RE_RBC07108756]
+| 1992-04-21 || Carbonnade farci au fois gras || FR3 || 12:10 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94002252 DA_CPC94002252]
 |-
-| 1992-04-21 || Ris de veau au fumet de vieux cèpes accompagnés d'une galette de pomme de terre || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:12:46 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92003317 DA_CPC92003317]
+| 1992-05-01 || Soles farcies au crabe et à la sauce aux capres || FR3 || 11:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92012448 DA_CPC92012448]
 |-
-| 1992-04-21 || Carbonnade farci au fois gras ||  || FR3 || 00:12:10 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94002252 DA_CPC94002252]
+| 1992-05-08 || Soupe de poissons filets de sole au champagne || FR3 || 11:51 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92003715 DA_CPC92003715]
 |-
-| 1992-05-01 || Soles farcies au crabe et à la sauce aux capres || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:11:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92012448 DA_CPC92012448]
+| 1992-05-15 || Dorade farcie aux légumes || France 3 Aquitaine || 12:14 || [https://www.youtube.com/watch?v=7BidZ3uch7c ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108757 RE_RBC07108757]
 |-
-| 1992-05-08 || Soupe de poissons filets de sole au champagne || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:11:51 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92003715 DA_CPC92003715]
+| 1992-05-19 || Faisan aux cèpes || FR3 || 13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92004292 DA_CPC92004292]
 |-
-| 1992-05-15 || Dorade farcie aux légumes || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:12:14 || [https://www.youtube.com/watch?v=7BidZ3uch7c ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108757 RE_RBC07108757]
+| 1992-05-19 || Blanc de poulet au Sauterne et aux raisins || FR3 || 11:53 || [https://www.youtube.com/watch?v=DQAn9HmIu6I ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92014420 DA_CPC92014420]
 |-
-| 1992-05-19 || Faisan aux cèpes || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92004292 DA_CPC92004292]
+| 1992-05-22 || Lotte à l'américaine, soles farcies et filets de bar marinés || France 3 Aquitaine ||  ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108759 RE_RBC07108759]
 |-
-| 1992-05-19 || Blanc de poulet au Sauterne et aux raisins || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:11:53 || [https://www.youtube.com/watch?v=DQAn9HmIu6I ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92014420 DA_CPC92014420]
+| 1992-05-25 || La cuisine des mousquetaires du 25 mai 1992 || France 3 Aquitaine || 13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07112985 RE_RBC07112985]
 |-
-| 1992-05-22 || Lotte à l'américaine, soles farcies et filets de bar marinés || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:00:00:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108759 RE_RBC07108759]
+| 1992-06-05 || Araignée de mer farcie || FR3 || 12:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92004589 DA_CPC92004589]
 |-
-| 1992-05-25 || La cuisine des mousquetaires du 25 mai 1992 ||  || France 3 Aquitaine || 00:13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07112985 RE_RBC07112985]
+| 1992-06-12 || Anguille en matelote et anguilles en brochettes || FR3 || 13:00 || [https://www.youtube.com/watch?v=_iMsK49Ycq8 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92011197 DA_CPC92011197]
 |-
-| 1992-06-05 || Araignée de mer farcie || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:12:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92004589 DA_CPC92004589]
+| 1992-06-12 || Moules marinières || FR3 || 13:00 || [https://www.youtube.com/watch?v=sVw8ycCPHaw ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92005006 DA_CPC92005006]
 |-
-| 1992-06-12 || Anguille en matelote et anguilles en brochettes || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:13:00 || [https://www.youtube.com/watch?v=_iMsK49Ycq8 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92011197 DA_CPC92011197]
+| 1992-06-16 || Surprises de foie gras au fumet de vieux ceps || FR3 || 12:09 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92005440 DA_CPC92005440]
 |-
-| 1992-06-12 || Moules marinières || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:13:00 || [https://www.youtube.com/watch?v=sVw8ycCPHaw ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92005006 DA_CPC92005006]
+| 1992-06-18 || La cuisine des mousquetaires du 18 juin 1992 || France 3 Aquitaine ||  ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08006279 RE_RBC08006279]
 |-
-| 1992-06-16 || Surprises de foie gras au fumet de vieux ceps || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:12:09 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92005440 DA_CPC92005440]
+| 1992-06-19 || Bar poché et tranche de bar au champagne || FR3 || 12:14 || [https://www.youtube.com/watch?v=2zyFbL2HSZg ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92016999 DA_CPC92016999]
 |-
-| 1992-06-18 || La cuisine des mousquetaires du 18 juin 1992 ||  || France 3 Aquitaine || 00:00:00:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08006279 RE_RBC08006279]
+| 1992-06-26 || Calamars farcis - ragout de seiches || FR3 || 12:44 || [https://www.youtube.com/watch?v=IKKyVcP1GfI ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92006179 DA_CPC92006179]
 |-
-| 1992-06-19 || Bar poché et tranche de bar au champagne || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:12:14 || [https://www.youtube.com/watch?v=2zyFbL2HSZg ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92016999 DA_CPC92016999]
+| 1992-06-26 || La cuisine des mousquetaires du 26 juin 1992 || France 3 Aquitaine || 12:40 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08006516 RE_RBC08006516]
 |-
-| 1992-06-26 || Calamars farcis - ragout de seiches || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:12:44 || [https://www.youtube.com/watch?v=IKKyVcP1GfI ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92006179 DA_CPC92006179]
+| 1992-07-04 || Papillottes de blettes aux huitres et aux Saint Jacques || FR3 || 13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92012078 DA_CPC92012078]
 |-
-| 1992-06-26 || La cuisine des mousquetaires du 26 juin 1992 ||  || France 3 Aquitaine || 00:12:40 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08006516 RE_RBC08006516]
+| 1992-09-14 || Gigue de chevreuil sauce et terrine de chevreuil || France 3 || 11:53 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92011344 DA_CPC92011344]
 |-
-| 1992-07-04 || Papillottes de blettes aux huitres et aux Saint Jacques || Banzet Lawton Micheline ; Ordonez Maïté || FR3 || 00:13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92012078 DA_CPC92012078]
+| 1992-09-27 || La cuisine des mousquetaires du 27 septembre 1992 || France 3 Aquitaine ||  ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08007724 RE_RBC08007724]
 |-
-| 1992-09-14 || Gigue de chevreuil sauce et terrine de chevreuil || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:11:53 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92011344 DA_CPC92011344]
+| 1992-10-04 || Moules marinières, mouclade et églade || France 3 Aquitaine || 12:55 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108908 RE_RBC07108908]
 |-
-| 1992-09-27 || La cuisine des mousquetaires du 27 septembre 1992 ||  || France 3 Aquitaine || 00:00:00:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08007724 RE_RBC08007724]
+| 1992-10-12 || Pate de cepes de foie gras en croute - garbure de l'ocean || France 3 || 13:45 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92012912 DA_CPC92012912]
 |-
-| 1992-10-04 || Moules marinières, mouclade et églade || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:12:55 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108908 RE_RBC07108908]
+| 1992-10-18 || Brandade de morue, morue à la biscaye || France 3 Aquitaine || 12:38 || [https://www.youtube.com/watch?v=Y5iwVkz6JXI ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108911 RE_RBC07108911]
 |-
-| 1992-10-12 || Pate de cepes de foie gras en croute - garbure de l'ocean || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:45 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92012912 DA_CPC92012912]
+| 1992-10-20 || Cochon de lait farci au foie gras a la broche || France 3 || 12:23 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92013359 DA_CPC92013359]
 |-
-| 1992-10-18 || Brandade de morue, morue à la biscaye || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:12:38 || [https://www.youtube.com/watch?v=Y5iwVkz6JXI ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108911 RE_RBC07108911]
+| 1992-10-23 || Soupe de poissons de fete et filets de soles || France 3 || 12:13 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92013808 DA_CPC92013808]
 |-
-| 1992-10-20 || Cochon de lait farci au foie gras a la broche || Ordonez Maïté || France 3 || 00:12:23 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92013359 DA_CPC92013359]
+| 1992-11-15 || Soupe à l 'oignon au champagne, cailles champenoises || France 3 Aquitaine || 12:28 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108915 RE_RBC07108915]
 |-
-| 1992-10-23 || Soupe de poissons de fete et filets de soles || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:13 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92013808 DA_CPC92013808]
+| 1992-11-22 || Boeuf en daube, boeuf mode || France 3 Aquitaine || 12:45 || [https://www.youtube.com/watch?v=YlytQHRNY_w ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108916 RE_RBC07108916]
 |-
-| 1992-11-15 || Soupe à l 'oignon au champagne, cailles champenoises || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:12:28 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108915 RE_RBC07108915]
+| 1992-11-24 || Foie de veau à la rionnaise et foie de veau girondine || France 3 || 12:50 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92016273 DA_CPC92016273]
 |-
-| 1992-11-22 || Boeuf en daube, boeuf mode || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:12:45 || [https://www.youtube.com/watch?v=YlytQHRNY_w ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108916 RE_RBC07108916]
+| 1992-11-29 || Navarin d'agneau || France 3 Aquitaine || 13:15 || [https://www.youtube.com/watch?v=UMdoW26ZOcM ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108917 RE_RBC07108917]
 |-
-| 1992-11-24 || Foie de veau à la rionnaise et foie de veau girondine || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:50 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92016273 DA_CPC92016273]
+| 1992-12-01 || Gigot d'agneau aux anchois et velouté d'asperges || France 3 || 12:50 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92016606 DA_CPC92016606]
 |-
-| 1992-11-29 || Navarin d'agneau || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:13:15 || [https://www.youtube.com/watch?v=UMdoW26ZOcM ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108917 RE_RBC07108917]
+| 1992-12-06 || Coq au champagne || France 3 Aquitaine || 12:32 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108918 RE_RBC07108918]
 |-
-| 1992-12-01 || Gigot d'agneau aux anchois et velouté d'asperges || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:50 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92016606 DA_CPC92016606]
+| 1992-12-07 || Soupe aux oignons et cailles aux raisins et au champagne || France 3 || 12:38 || [https://www.youtube.com/watch?v=xbpF17okapA ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92016916 DA_CPC92016916]
 |-
-| 1992-12-06 || Coq au champagne || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:12:32 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108918 RE_RBC07108918]
+| 1992-12-13 || Foie gras en gelée au champagne et rognon de veau aux girolles et champagne || France 3 Aquitaine || 12:31 || [https://www.youtube.com/watch?v=re1_GT4caEs ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108921 RE_RBC07108921]
 |-
-| 1992-12-07 || Soupe aux oignons et cailles aux raisins et au champagne || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:38 || [https://www.youtube.com/watch?v=xbpF17okapA ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92016916 DA_CPC92016916]
+| 1992-12-15 || Huîtres et homard au champagne || France 3 || 13:00 || [https://www.youtube.com/watch?v=FWV5mGeolzs ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92017460 DA_CPC92017460]
 |-
-| 1992-12-13 || Foie gras en gelée au champagne et rognon de veau aux girolles et champagne || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:12:31 || [https://www.youtube.com/watch?v=re1_GT4caEs ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108921 RE_RBC07108921]
+| 1992-12-21 || Cous farcis || France 3 || 12:38 || [https://www.youtube.com/watch?v=kHqxBUbh_l0 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93000379 DA_CPC93000379]
 |-
-| 1992-12-15 || Huîtres et homard au champagne || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:00 || [https://www.youtube.com/watch?v=FWV5mGeolzs ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92017460 DA_CPC92017460]
+| 1992-12-27 || Bêtisier numéro 2 : "God save the cuisine" || France 3 Aquitaine || 38:15 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108923 RE_RBC07108923]
 |-
-| 1992-12-21 || Cous farcis || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:38 || [https://www.youtube.com/watch?v=kHqxBUbh_l0 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93000379 DA_CPC93000379]
+| 1992-12-28 || Terrine de foie gras, foie gras poêlé aux fruits || France 3 || 12:50 || [https://www.youtube.com/watch?v=vInOZAqe7cw ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93001170 DA_CPC93001170]
 |-
-| 1992-12-27 || Bêtisier numéro 2 : "God save the cuisine" || Ordonez Maïté || France 3 Aquitaine || 00:38:15 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108923 RE_RBC07108923]
+| 1992-12-31 || Entrecôte à la moëlle au vin rouge, et au champagne et aux girolles || France 3 || 12:10 || [https://www.youtube.com/watch?v=PE0dfpD7Jz0 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93001726 DA_CPC93001726]
 |-
-| 1992-12-28 || Terrine de foie gras, foie gras poêlé aux fruits || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:50 || [https://www.youtube.com/watch?v=vInOZAqe7cw ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93001170 DA_CPC93001170]
+| 1993-01-01 || Salade landaise et légumes farcis || France 3 || 12:25 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93001753 DA_CPC93001753]
 |-
-| 1992-12-31 || Entrecôte à la moëlle au vin rouge, et au champagne et aux girolles || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:10 || [https://www.youtube.com/watch?v=PE0dfpD7Jz0 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93001726 DA_CPC93001726]
+| 1993-01-02 || Bêtisier de la cuisine des mousquetaires || France 3 || 38:15 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93001816 DA_CPC93001816]
 |-
-| 1993-01-01 || Salade landaise et légumes farcis || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:25 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93001753 DA_CPC93001753]
+| 1993-01-05 || Coq au vin || France 3 || 13:12 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93001990 DA_CPC93001990]
 |-
-| 1993-01-02 || Bêtisier de la cuisine des mousquetaires || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:38:15 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93001816 DA_CPC93001816]
+| 1993-01-10 || Petit salé aux lentilles || France 3 Aquitaine || 12:15 || [https://www.youtube.com/watch?v=di3MEWR9_Bw ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108945 RE_RBC07108945]
 |-
-| 1993-01-05 || Coq au vin || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:12 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93001990 DA_CPC93001990]
+| 1993-01-12 || Poulet en croûte de sel || France 3 || 14:00 || [https://www.youtube.com/watch?v=FTrKaBSOEfA ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93002160 DA_CPC93002160]
 |-
-| 1993-01-10 || Petit salé aux lentilles || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:12:15 || [https://www.youtube.com/watch?v=di3MEWR9_Bw ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108945 RE_RBC07108945]
+| 1993-01-15 || Homard du pays basque aux herbes || France 3 || 12:33 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93002497 DA_CPC93002497]
 |-
-| 1993-01-12 || Poulet en croûte de sel || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:14:00 || [https://www.youtube.com/watch?v=FTrKaBSOEfA ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93002160 DA_CPC93002160]
+| 1993-01-17 || Tête de veau sace cavigote, poitrine de veau farcie || France 3 Aquitaine || 12:37 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108948 RE_RBC07108948]
 |-
-| 1993-01-15 || Homard du pays basque aux herbes || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:33 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93002497 DA_CPC93002497]
+| 1993-01-18 || Soupe de crabe aux coquillages || France 3 || 13:01 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93002542 DA_CPC93002542]
 |-
-| 1993-01-17 || Tête de veau sace cavigote, poitrine de veau farcie || Ordonez Maïté || France 3 Aquitaine || 00:12:37 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108948 RE_RBC07108948]
+| 1993-01-24 || Poulet basquaise et piperade || France 3 Aquitaine || 12:16 || [https://www.youtube.com/watch?v=BeP78V3xeWM ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108949 RE_RBC07108949]
 |-
-| 1993-01-18 || Soupe de crabe aux coquillages || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:01 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93002542 DA_CPC93002542]
+| 1993-01-25 || Tête de veau sauce ravigotte || France 3 || 12:37 || [https://www.youtube.com/watch?v=HpLE0V_-jgE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93002197 DA_CPC93002197]
 |-
-| 1993-01-24 || Poulet basquaise et piperade || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:12:16 || [https://www.youtube.com/watch?v=BeP78V3xeWM ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108949 RE_RBC07108949]
+| 1993-01-31 || Canard au champagne et canette farcie champenoise || France 3 Aquitaine || 12:41 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108951 RE_RBC07108951]
 |-
-| 1993-01-25 || Tête de veau sauce ravigotte || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:37 || [https://www.youtube.com/watch?v=HpLE0V_-jgE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93002197 DA_CPC93002197]
+| 1993-02-07 || Bécasse au champagne et salmis de bécasse au champagne || France 3 Aquitaine || 12:38 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108955 RE_RBC07108955]
 |-
-| 1993-01-31 || Canard au champagne et canette farcie champenoise || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:12:41 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108951 RE_RBC07108951]
+| 1993-02-10 || Betisier spécial dix ans || France 3 Aquitaine || 47:06 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BXC9302110197 RE_BXC9302110197]
 |-
-| 1993-02-07 || Bécasse au champagne et salmis de bécasse au champagne || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:12:38 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108955 RE_RBC07108955]
+| 1993-02-11 || Canard a la broche et poireaux braises || France 3 || 12:56 || [https://www.youtube.com/watch?v=wbBQJTB5vEg ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93002567 DA_CPC93002567]
 |-
-| 1993-02-10 || Betisier spécial dix ans || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:47:06 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BXC9302110197 RE_BXC9302110197]
+| 1993-02-12 || Morue en beignets, marinée et crêpes de courgettes || France 3 || 12:35 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93002943 DA_CPC93002943]
 |-
-| 1993-02-11 || Canard a la broche et poireaux braises || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:56 || [https://www.youtube.com/watch?v=wbBQJTB5vEg ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93002567 DA_CPC93002567]
+| 1993-02-18 || Palombes farcies au foie gras et à la sauce champenoise || France 3 || 13:05 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93003127 DA_CPC93003127]
 |-
-| 1993-02-12 || Morue en beignets, marinée et crêpes de courgettes || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:35 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93002943 DA_CPC93002943]
+| 1993-02-19 || Filet de dorade aux girolles sucré salé, gambas basquaises || France 3 || 13:17 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93003276 DA_CPC93003276]
 |-
-| 1993-02-18 || Palombes farcies au foie gras et à la sauce champenoise || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:05 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93003127 DA_CPC93003127]
+| 1993-02-22 || Langue de boeuf : à la sauce aux capres et à la sauce vinaigrette || France 3 || 12:58 || [https://www.youtube.com/watch?v=Pk3hzlImahk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93003292 DA_CPC93003292]
 |-
-| 1993-02-19 || Filet de dorade aux girolles sucré salé, gambas basquaises || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:17 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93003276 DA_CPC93003276]
+| 1993-02-23 || Choux farcis à la viande et aux crustacés || France 3 || 13:05 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93003307 DA_CPC93003307]
 |-
-| 1993-02-22 || Langue de boeuf : à la sauce aux capres et à la sauce vinaigrette || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:58 || [https://www.youtube.com/watch?v=Pk3hzlImahk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93003292 DA_CPC93003292]
+| 1993-03-01 || Paté de foie de sanglier et côtelettes sous la braise || France 3 || 12:27 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93003731 DA_CPC93003731]
 |-
-| 1993-02-23 || Choux farcis à la viande et aux crustacés || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:05 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93003307 DA_CPC93003307]
+| 1993-03-02 || Fricassée d'escargots aux aromates || France 3 || 13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93003746 DA_CPC93003746]
 |-
-| 1993-03-01 || Pâté de foie de sanglier et côtelettes de sanglier sur la braise || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:27 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93003731 DA_CPC93003731]
+| 1993-03-04 || Boeuf de Chalosse : côte de boeuf grillée tournedos Rossini et daube || France 3 || 13:28 || [https://www.youtube.com/watch?v=mtm6YyMxYjc ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93003843 DA_CPC93003843]
 |-
-| 1993-03-02 || Fricassée d'escargots aux aromates || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93003746 DA_CPC93003746]
+| 1993-03-05 || Rougets aux moules et au safran, filet de rougets à l'échalotte || France 3 || 13:23 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93003859 DA_CPC93003859]
 |-
-| 1993-03-04 || Boeuf de Chalosse : côte de boeuf grillée tournedos Rossini et daube || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:28 || [https://www.youtube.com/watch?v=mtm6YyMxYjc ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93003843 DA_CPC93003843]
+| 1993-03-11 || Terrine de sanglier || France 3 || 13:23 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93004624 DA_CPC93004624]
 |-
-| 1993-03-05 || Rougets aux moules et au safran, filet de rougets à l'échalotte || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:23 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93003859 DA_CPC93003859]
+| 1993-03-12 || Huîtres en robe des champs aux deux purées || France 3 || 13:18 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93003652 DA_CPC93003652]
 |-
-| 1993-03-11 || Terrine de sanglier || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:23 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93004624 DA_CPC93004624]
+| 1993-03-18 || Civet de sanglier, cuissot sauce poivrade || France 3 || 13:02 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93004302 DA_CPC93004302]
 |-
-| 1993-03-12 || Huîtres en robe des champs aux deux purées || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:18 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93003652 DA_CPC93003652]
+| 1993-03-19 || Dorade au champagne et à la bordelaise || France 3 || 12:53 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93004317 DA_CPC93004317]
 |-
-| 1993-03-18 || Civet de sanglier et cuissot à la sauce piquante || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:02 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93004302 DA_CPC93004302]
+| 1993-03-23 || Dodines de volailles au foie gras et pommes sarladaises || France 3 || 12:11 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93004442 DA_CPC93004442]
 |-
-| 1993-03-19 || Dorade au champagne et à la bordelaise || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:53 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93004317 DA_CPC93004317]
+| 1993-04-05 || Agneau rôti, épaule d'agneau farcie et haricots || France 3 || 13:50 || [https://www.youtube.com/watch?v=nq2kmIB7Xnc ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93004907 DA_CPC93004907]
 |-
-| 1993-03-23 || Dodines de volailles au foie gras et pommes sarladaises || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:11 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93004442 DA_CPC93004442]
+| 1993-04-06 || Curry d'agneau au cidre, lapin au cidre et aux girolles || France 3 || 13:34 || [https://www.youtube.com/watch?v=6DAQzhHgsTY ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93004937 DA_CPC93004937]
 |-
-| 1993-04-05 || Agneau rôti, épaule d'agneau farcie et haricots || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:50 || [https://www.youtube.com/watch?v=nq2kmIB7Xnc ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93004907 DA_CPC93004907]
+| 1993-04-08 || Selle d'agneau farcie, épaule d'agneau grillée au romarin || France 3 || 13:03 || [https://www.youtube.com/watch?v=zSbLrQTChYE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93004967 DA_CPC93004967]
 |-
-| 1993-04-06 || Curry d'agneau au cidre, lapin au cidre et aux girolles || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:34 || [https://www.youtube.com/watch?v=6DAQzhHgsTY ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93004937 DA_CPC93004937]
+| 1993-04-09 || Marmite d'huitres et crustacés à la bière, civet d'huitres aux oeufs de cailles || France 3 || 12:53 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93004981 DA_CPC93004981]
 |-
-| 1993-04-08 || Selle d'agneau farcie, épaule d'agneau grillée au romarin || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:03 || [https://www.youtube.com/watch?v=zSbLrQTChYE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93004967 DA_CPC93004967]
+| 1993-04-12 || Pied de porc en salade, oreilles de porc farcies et tête d'agneau au four || France 3 || 13:51 || [https://www.youtube.com/watch?v=kWtSRfXFsBc ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93005069 DA_CPC93005069]
 |-
-| 1993-04-09 || Marmite d'huitres et crustacés à la bière, civet d'huitres aux oeufs de cailles || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:53 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93004981 DA_CPC93004981]
+| 1993-04-19 || Paleron de boeuf et beignet de crevette à la bière || France 3 || 13:01 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93005178 DA_CPC93005178]
 |-
-| 1993-04-12 || Pied de porc en salade, oreilles de porc farcies et tête d'agneau au four || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:51 || [https://www.youtube.com/watch?v=kWtSRfXFsBc ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93005069 DA_CPC93005069]
+| 1993-04-22 || Le lapin Charles X || France 3 || 12:39 || [https://www.youtube.com/watch?v=oROtmCtsj0A ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93005231 DA_CPC93005231]
 |-
-| 1993-04-19 || Paleron de boeuf et beignet de crevette à la bière || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:01 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93005178 DA_CPC93005178]
+| 1993-04-23 || Soupe au potiron, soupe à la bière || France 3 || 12:42 || [https://www.youtube.com/watch?v=_FtSaBcL0t4 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93005244 DA_CPC93005244]
 |-
-| 1993-04-22 || Le lapin Charles X || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:39 || [https://www.youtube.com/watch?v=oROtmCtsj0A ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93005231 DA_CPC93005231]
+| 1993-04-25 || Surprises au foie gras et fumet de vieux cèpes || France 3 Aquitaine || 13:16 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08000583 RE_RBC08000583]
 |-
-| 1993-04-23 || Soupe au potiron, soupe à la bière || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:42 || [https://www.youtube.com/watch?v=_FtSaBcL0t4 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93005244 DA_CPC93005244]
+| 1993-04-26 || Poulet au cidre ; filet de maquereaux au cidre || France 3 || 12:51 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93005513 DA_CPC93005513]
 |-
-| 1993-04-25 || Surprises au foie gras et fumet de vieux cèpes || Ordonez Maïté || France 3 Aquitaine || 00:13:16 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08000583 RE_RBC08000583]
+| 1993-04-30 || Ecrevisses à la bordelaise et piballes || France 3 || 13:05 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93005565 DA_CPC93005565]
 |-
-| 1993-04-26 || Poulet au cidre ; filet de maquereaux au cidre || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:51 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93005513 DA_CPC93005513]
+| 1993-05-03 || Artichaut céleri, fenouil et oignons farcis || France 3 || 13:17 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93005718 DA_CPC93005718]
 |-
-| 1993-04-30 || Ecrevisses à la bordelaise et piballes || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:05 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93005565 DA_CPC93005565]
+| 1993-05-04 || La cuisine des mousquetaires du 4 mai 1993 || France 3 Aquitaine || 12:52 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108780 RE_RBC07108780]
 |-
-| 1993-05-03 || Artichaut céleri, fenouil et oignons farcis || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:17 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93005718 DA_CPC93005718]
+| 1993-05-07 || Bouillon blanc de langoustines, brochettes d'huîtres au lard || France 3 || 13:12 || [https://www.youtube.com/watch?v=Sp5PNf_QkMU ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93005781 DA_CPC93005781]
 |-
-| 1993-05-04 || La cuisine des mousquetaires du 4 mai 1993 ||  || France 3 Aquitaine || 00:12:52 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108780 RE_RBC07108780]
+| 1993-05-10 || Cuisses de grenouilles en persillade, en beignets, à l'entre deux mers || France 3 || 13:49 || [https://www.youtube.com/watch?v=thJxGSuPjNo ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93006035 DA_CPC93006035]
 |-
-| 1993-05-07 || Bouillon blanc de langoustines, brochettes d'huîtres au lard || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:12 || [https://www.youtube.com/watch?v=Sp5PNf_QkMU ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93005781 DA_CPC93005781]
+| 1993-05-11 || Cailles aux kiwis, cailles paysannes, cailles aux raisins et au sauternes || France 3 || 12:52 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93006051 DA_CPC93006051]
 |-
-| 1993-05-10 || Cuisses de grenouilles en persillade, en beignets, à l'entre deux mers || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:49 || [https://www.youtube.com/watch?v=thJxGSuPjNo ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93006035 DA_CPC93006035]
+| 1993-05-13 || Canard au vin rouge, salade de canard aux petits pois || France 3 || 13:38 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93006081 DA_CPC93006081]
 |-
-| 1993-05-11 || Cailles aux kiwis, cailles paysannes, cailles aux raisins et au sauternes || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:52 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93006051 DA_CPC93006051]
+| 1993-05-14 || Esturgeon a la Bordelaise et au sauternes || France 3 || 13:09 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93006108 DA_CPC93006108]
 |-
-| 1993-05-13 || Canard au vin rouge, salade de canard aux petits pois || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:38 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93006081 DA_CPC93006081]
+| 1993-05-16 || Boeuf de Chalosse : daube de Chalosse et tournedos Rossini || France 3 Aquitaine || 13:23 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08000621 RE_RBC08000621]
 |-
-| 1993-05-14 || Esturgeon a la Bordelaise et au sauternes || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:09 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93006108 DA_CPC93006108]
+| 1993-05-17 || Salade de crabe, crabe à la vapeur, à la Chinoise || France 3 || 13:23 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93006149 DA_CPC93006149]
 |-
-| 1993-05-16 || Boeuf de Chalosse : daube de Chalosse et tournedos Rossini || Ordonez Maïté || France 3 Aquitaine || 00:13:23 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08000621 RE_RBC08000621]
+| 1993-05-18 || Roti de porc aux fruits et côtes de porc charcutière || France 3 || 12:10 || [https://www.youtube.com/watch?v=OOGP-47YecU ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93007401 DA_CPC93007401]
 |-
-| 1993-05-17 || Salade de crabe, crabe à la vapeur, à la Chinoise || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:23 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93006149 DA_CPC93006149]
+| 1993-05-20 || Pigeons et petit pois, filets de pigeons à la crème || France 3 || 12:38 || [https://www.youtube.com/watch?v=KzK95TCaB-s ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93006184 DA_CPC93006184]
 |-
-| 1993-05-18 || Roti de porc aux fruits et côtes de porc charcutière || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:10 || [https://www.youtube.com/watch?v=OOGP-47YecU ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93007401 DA_CPC93007401]
+| 1993-05-21 || Cuisine créole : mimalaya - sardines en beignets || France 3 || 13:40 || [https://www.youtube.com/watch?v=56zYZCeJRLs ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93006196 DA_CPC93006196]
 |-
-| 1993-05-20 || Pigeons et petit pois, filets de pigeons à la crème || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:38 || [https://www.youtube.com/watch?v=KzK95TCaB-s ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93006184 DA_CPC93006184]
+| 1993-06-04 || Pain de viande à la bazadaise || France 3 || 12:52 || [https://www.youtube.com/watch?v=mTVMUe4bwHk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93006657 DA_CPC93006657]
 |-
-| 1993-05-21 || Cuisine créole : mimalaya - sardines en beignets || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:40 || [https://www.youtube.com/watch?v=56zYZCeJRLs ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93006196 DA_CPC93006196]
+| 1993-06-08 || Cuisses de grenouilles à la Gasconne || France 3 || 12:58 || [https://www.youtube.com/watch?v=pl-oVLpKrKw ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93006845 DA_CPC93006845]
 |-
-| 1993-06-04 || Pain de viande à la bazadaise || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:52 || [https://www.youtube.com/watch?v=mTVMUe4bwHk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93006657 DA_CPC93006657]
+| 1993-06-11 || Truites en croûte aux noix et rougets en croûte au thym || France 3 || 12:29 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93006886 DA_CPC93006886]
 |-
-| 1993-06-08 || Cuisses de grenouilles à la Gasconne || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:58 || [https://www.youtube.com/watch?v=pl-oVLpKrKw ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93006845 DA_CPC93006845]
+| 1993-06-14 || Poulet chasseur, salade de poulet à la Chinoise || France 3 || 12:26 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93007114 DA_CPC93007114]
 |-
-| 1993-06-11 || Truites en croûte aux noix et rougets en croûte au thym || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:29 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93006886 DA_CPC93006886]
+| 1993-06-15 || Roulades bazadaises au cresson et aux noix - fraises et poires au vin || France 3 || 13:02 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93007128 DA_CPC93007128]
 |-
-| 1993-06-14 || Poulet chasseur, salade de poulet à la Chinoise || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:26 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93007114 DA_CPC93007114]
+| 1993-06-18 || Darnes d'esturgeon basilic et filets d'esturgeon à la rionnaise || France 3 || 12:24 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93007173 DA_CPC93007173]
 |-
-| 1993-06-15 || Roulades bazadaises au cresson et aux noix - fraises et poires au vin || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:02 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93007128 DA_CPC93007128]
+| 1993-06-21 || Lapin aux pruneaux, daube de boeuf aux pruneaux || France 3 || 11:22 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93007207 DA_CPC93007207]
 |-
-| 1993-06-18 || Darnes d'esturgeon basilic et filets d'esturgeon à la rionnaise || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:24 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93007173 DA_CPC93007173]
+| 1993-06-22 || Clambake - praire a l'ail et au fenouil || France 3 || 12:43 || [https://www.youtube.com/watch?v=82i44rIz4Dg ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93007361 DA_CPC93007361]
 |-
-| 1993-06-21 || Lapin aux pruneaux, daube de boeuf aux pruneaux || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:11:22 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93007207 DA_CPC93007207]
+| 1993-06-24 || Cuisses de grenouilles a l'armagnac, au buzet || France 3 || 13:15 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93007419 DA_CPC93007419]
 |-
-| 1993-06-22 || Clambake - praire a l'ail et au fenouil || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:43 || [https://www.youtube.com/watch?v=82i44rIz4Dg ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93007361 DA_CPC93007361]
+| 1993-06-25 || Spéciale Francis Garcia : truites en brochette au jambon, cocotte d'agneau || France 3 || 12:51 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93007435 DA_CPC93007435]
 |-
-| 1993-06-24 || Cuisses de grenouilles a l'armagnac, au buzet || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:15 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93007419 DA_CPC93007419]
+| 1993-09-11 || Spéciale José Martinez : tarte au boudin et confit d'agneau aux aubergines || France 3 Aquitaine || 14:01 || [https://www.youtube.com/watch?v=ORGvUzOsbIU ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08022924 RE_RBC08022924]
 |-
-| 1993-06-25 || Spéciale Francis Garcia : truites en brochette au jambon, cocotte d'agneau || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:51 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93007435 DA_CPC93007435]
+| 1993-09-13 || Salade de moules aux oranges et citrons || France 3 || 13:09 || [https://www.youtube.com/watch?v=2AZt1L2jYQY ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93009832 DA_CPC93009832]
 |-
-| 1993-09-11 || Spéciale José Martinez : tarte au boudin et confit d'agneau aux aubergines || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:14:01 || [https://www.youtube.com/watch?v=ORGvUzOsbIU ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08022924 RE_RBC08022924]
+| 1993-09-22 || Spécial Jacques Le Divellec : salade de langoustines aux girolles, civet de langoustes au St Emilion || France 3 Aquitaine || 14:50 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08022933 RE_RBC08022933]
 |-
-| 1993-09-13 || Salade de moules aux oranges et citrons || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:09 || [https://www.youtube.com/watch?v=2AZt1L2jYQY ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93009832 DA_CPC93009832]
+| 1993-09-24 || Roulés aux sardines, brochettes de moules et soupe aux moules || France 3 || 12:30 || [https://www.youtube.com/watch?v=wRNPV8koE18 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93010120 DA_CPC93010120]
 |-
-| 1993-09-22 || Spécial Jacques Le Divellec : salade de langoustines aux girolles, civet de langoustes au St Emilion || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:14:50 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08022933 RE_RBC08022933]
+| 1993-09-27 || Potée d'escargot forestière, poêlée de fruits au Sauternes || France 3 || 12:53 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93010191 DA_CPC93010191]
 |-
-| 1993-09-24 || Moules aux sardines et olives ; brochettes de moules , soupes aux moules || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:30 || [https://www.youtube.com/watch?v=wRNPV8koE18 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93010120 DA_CPC93010120]
+| 1993-09-30 || Spéciale avec R. VERGE : fricassée de moules et rosaces de Saint jacques || France 3 || 12:50 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93010237 DA_CPC93010237]
 |-
-| 1993-09-27 || Potée d'escargot forestière, poêlée de fruits au Sauternes || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:53 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93010191 DA_CPC93010191]
+| 1993-10-04 || Blanc de volaille à la sariette et aux orties et foie de veau à la vapeur de thy || France 3 || 13:04 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93010412 DA_CPC93010412]
 |-
-| 1993-09-30 || Spécial Roger VERGE - fricassée de moules au fenouil -rosace de Saint Jacques || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:50 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93010237 DA_CPC93010237]
+| 1993-10-07 || Sole à la croque au sel - homard rôti aux pommes de terre || France 3 || 13:46 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93010511 DA_CPC93010511]
 |-
-| 1993-10-04 || Blanc de volaille à la sariette et aux orties et foie de veau à la vapeur de thy || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:04 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93010412 DA_CPC93010412]
+| 1993-10-11 || Pot au feu du braconnier || France 3 || 13:05 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93010574 DA_CPC93010574]
 |-
-| 1993-10-07 || Sole à la croque au sel - homard rôti aux pommes de terre || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:46 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93010511 DA_CPC93010511]
+| 1993-10-13 || Spéciale Christian Petit : cassolette d'escargots au roquefort et civet de lotte au Faugère || France 3 Aquitaine || 13:03 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08022942 RE_RBC08022942]
 |-
-| 1993-10-11 || Pot au feu du braconnier || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:05 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93010574 DA_CPC93010574]
+| 1993-10-14 || Brochettes d'huîtres au foie gras - duo de magrets en coque au sel || France 3 || 13:07 || [https://www.youtube.com/watch?v=B5I7JK7ZnRA ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93010650 DA_CPC93010650]
 |-
-| 1993-10-13 || Spéciale Christian Petit : cassolette d'escargots au roquefort et civet de lotte au Faugère || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:13:03 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08022942 RE_RBC08022942]
+| 1993-10-18 || Langoustines aux fines herbes || France 3 || 13:13 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93010948 DA_CPC93010948]
 |-
-| 1993-10-14 || Brochettes d'huîtres au foie gras - duo de magrets en coque au sel || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:07 || [https://www.youtube.com/watch?v=B5I7JK7ZnRA ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93010650 DA_CPC93010650]
+| 1993-10-25 || Potée de cochon de lait || France 3 || 12:33 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93011073 DA_CPC93011073]
 |-
-| 1993-10-18 || Langoustines aux fines herbes || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:13 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93010948 DA_CPC93010948]
+| 1993-10-27 || Beignets d'escargots, d'huîtres et de moules et ragoût de praires et de clams || France 3 Aquitaine || 13:53 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08022954 RE_RBC08022954]
 |-
-| 1993-10-25 || Potée de cochon de lait || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:33 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93011073 DA_CPC93011073]
+| 1993-11-01 || Canard aux pêches et raisins, bananes flambées || France 3 || 12:58 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93011285 DA_CPC93011285]
 |-
-| 1993-10-27 || Beignets d'escargots, d'huîtres et de moules et ragoût de praires et de clams || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:13:53 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08022954 RE_RBC08022954]
+| 1993-11-04 || Spécial Didier Oudill: papillotes de foie gras et canelon de cochon en vinaigrette de poireaux || France 3 || 13:09 || [https://www.youtube.com/watch?v=RZAzLH6Qtxw ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93011319 DA_CPC93011319]
 |-
-| 1993-11-01 || Canard aux pêches et raisins, bananes flambées || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:58 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93011285 DA_CPC93011285]
+| 1993-11-08 || Cailles au riz et aux feuillés de vigne || France 3 || 12:02 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93011397 DA_CPC93011397]
 |-
-| 1993-11-04 || Spécial Didier Oudill: papillotes de foie gras et canelon de cochon en vinaigrette de poireaux || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:09 || [https://www.youtube.com/watch?v=RZAzLH6Qtxw ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93011319 DA_CPC93011319]
+| 1993-11-11 || Roland MAZERE || France 3 || 12:12 || [https://www.youtube.com/watch?v=LVUwZirbXWk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93011435 DA_CPC93011435]
 |-
-| 1993-11-08 || Cailles au riz et aux feuillés de vigne || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:02 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93011397 DA_CPC93011397]
+| 1993-11-12 || Langoustine à la grecque et travers de cochon de lait aux poivrons || France 3 || 12:27 || [https://www.youtube.com/watch?v=JJHGjnVoZAU ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93011500 DA_CPC93011500]
 |-
-| 1993-11-10 || Civet de sanglier, cuissot sauce poivrade ||  || France 3 Aquitaine || 00:13:02 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08022959 RE_RBC08022959]
+| 1993-11-15 || Lapereau à la braconnière || France 3 || 12:23 || [https://www.youtube.com/watch?v=EDzmPPvIRaw ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93011610 DA_CPC93011610]
 |-
-| 1993-11-11 || Roland MAZERE || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:12 || [https://www.youtube.com/watch?v=LVUwZirbXWk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93011435 DA_CPC93011435]
+| 1993-11-18 || Spéciale Charlou Reynal : coussirade, paupiettes pour Louis || France 3 || 14:04 || [https://www.youtube.com/watch?v=hHMoSh1FVV4 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93011615 DA_CPC93011615]
 |-
-| 1993-11-12 || Langoustine à la grecque et travers de cochon de lait aux poivrons || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:27 || [https://www.youtube.com/watch?v=JJHGjnVoZAU ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93011500 DA_CPC93011500]
+| 1993-11-22 || Perdreau au chou et perdreau aux girolles || France 3 || 13:07 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93012126 DA_CPC93012126]
 |-
-| 1993-11-15 || Lapereau à la braconnière || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:23 || [https://www.youtube.com/watch?v=EDzmPPvIRaw ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93011610 DA_CPC93011610]
+| 1993-11-25 || Spéciale Pierre ORSI : filets de dorades et lentilles, salade d'épinards aux foies de volailles || France 3 || 13:02 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93012175 DA_CPC93012175]
 |-
-| 1993-11-18 || Spéciale Charlou Reynal : coussirade, paupiettes pour Louis || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:14:04 || [https://www.youtube.com/watch?v=hHMoSh1FVV4 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93011615 DA_CPC93011615]
+| 1993-12-02 || Soupé d'huîtres au chou et bar en croûte au fenouil || France 3 || 13:53 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93012635 DA_CPC93012635]
 |-
-| 1993-11-22 || Perdreau au chou et perdreau aux girolles || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:07 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93012126 DA_CPC93012126]
+| 1993-12-03 || Côtelettes de sanglier SAINT HUBERT || France 3 || 12:25 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93012716 DA_CPC93012716]
 |-
-| 1993-11-25 || Spéciale Pierre ORSI : filets de dorades et lentilles, salade d'épinards aux foies de volailles || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:02 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93012175 DA_CPC93012175]
+| 1993-12-06 || Esturgeon mariné, esturgeon de Maïté || France 3 || 13:11 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93012848 DA_CPC93012848]
 |-
-| 1993-12-02 || Soupé d'huîtres au chou et bar en croûte au fenouil || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:53 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93012635 DA_CPC93012635]
+| 1993-12-07 || Boudin aux châtaignes et aux pommes - terrine au foie gras et aux asperges || France 3 || 13:08 || [https://www.youtube.com/watch?v=uXvjZDmJ3iM ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93012867 DA_CPC93012867]
 |-
-| 1993-12-03 || Côtelettes de sanglier SAINT HUBERT || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:25 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93012716 DA_CPC93012716]
+| 1993-12-08 || Boeuf à la dacquoise et entrecôte à la sauce d'ail || France 3 Aquitaine || 13:30 || [https://www.youtube.com/watch?v=LEOtmeMfr9U ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08023007 RE_RBC08023007]
 |-
-| 1993-12-06 || Esturgeon mariné, esturgeon de Maïté || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:11 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93012848 DA_CPC93012848]
+| 1993-12-09 || Rillettes de carpe et de saumon truite farcie au fondant de poireau || France 3 || 13:15 || [https://www.youtube.com/watch?v=OSU9iKTvU-w ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93012918 DA_CPC93012918]
 |-
-| 1993-12-07 || Boudin aux châtaignes et aux pommes - terrine au foie gras et aux asperges || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:08 || [https://www.youtube.com/watch?v=uXvjZDmJ3iM ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93012867 DA_CPC93012867]
+| 1993-12-10 || Magrets au cidre, jambon chaud au vinaigré de framboise, oiseaux dans leur berceau || France 3 || 12:30 || [https://www.youtube.com/watch?v=WXtZ5KPlR7c ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93012993 DA_CPC93012993]
 |-
-| 1993-12-08 || Boeuf à la dacquoise et entrecôte à la sauce d'ail || Banzet Lawton Micheline ; Ordonez Maïté || France 3 Aquitaine || 00:13:30 || [https://www.youtube.com/watch?v=LEOtmeMfr9U ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08023007 RE_RBC08023007]
+| 1993-12-13 || Tournedos de canard à la sauce grand veneur || France 3 || 13:16 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93013065 DA_CPC93013065]
 |-
-| 1993-12-09 || Rillettes de carpe et de saumon truite farcie au fondant de poireau || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:15 || [https://www.youtube.com/watch?v=OSU9iKTvU-w ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93012918 DA_CPC93012918]
+| 1993-12-14 || Faisan aux pommes et aux raisins et lapin aux cêpes || France 3 || 12:28 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93013078 DA_CPC93013078]
 |-
-| 1993-12-10 || Magrets au cidre , jambon au vinaigre framboise et petits oiseaux dans berceau || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:30 || [https://www.youtube.com/watch?v=WXtZ5KPlR7c ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93012993 DA_CPC93012993]
+| 1993-12-15 || La cuisine des mousquetaires du 15 décembre 1993 || France 3 Aquitaine || 13:46 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08023010 RE_RBC08023010]
 |-
-| 1993-12-13 || Tournedos de canard à la sauce grand veneur || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:16 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93013065 DA_CPC93013065]
+| 1994-01-17 || Perdreaux rôtis à l'entre deux mers et cèpes aux feuilles de vigne || France 3 || 13:04 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94000685 DA_CPC94000685]
 |-
-| 1993-12-14 || Faisan aux pommes et aux raisins et lapin aux cêpes || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:28 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93013078 DA_CPC93013078]
+| 1994-01-20 || Spécial Firmin Arrambide : tartare thon tomates piments-soupe palombes lentilles || France 3 || 13:50 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94000725 DA_CPC94000725]
 |-
-| 1993-12-15 || La cuisine des mousquetaires du 15 décembre 1993 ||  || France 3 Aquitaine || 00:13:46 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08023010 RE_RBC08023010]
+| 1994-01-21 || Lotte aux anchois, lotte en ratatouille || France 3 || 12:24 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94001342 DA_CPC94001342]
 |-
-| 1993-12-16 || Spécial J. LE DIVELLEC : salade de langoustines aux giroles - civet langouste || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:14:50 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93013104 DA_CPC93013104]
+| 1994-01-24 || Faisan au chou et faisan de la forêt || France 3 || 13:01 || [https://www.youtube.com/watch?v=Z5Jxhzx-U_o ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94000920 DA_CPC94000920]
 |-
-| 1994-01-05 || Paté de foie de sanglier et côtelettes sous la braise ||  || France 3 Aquitaine || 00:12:27 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08005695 RE_RBC08005695]
+| 1994-01-31 || Daube de sanglier aux pruneaux - crème brûlée || France 3 || 13:36 || [https://www.youtube.com/watch?v=39WVXwZrEj4 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94001180 DA_CPC94001180]
 |-
-| 1994-01-17 || Perdreaux rôtis à l'entre deux mers et cèpes aux feuilles de vigne || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:04 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94000685 DA_CPC94000685]
+| 1994-02-01 || Sauté de veau aux olives - foie de lotte poêlé || France 3 || 12:22 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94001193 DA_CPC94001193]
 |-
-| 1994-01-20 || Spécial Firmin Arrambide : tartare thon tomates piments-soupe palombes lentilles || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:50 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94000725 DA_CPC94000725]
+| 1994-02-03 || Spéciale Jean BARDET : rognons de veau persillade, bécasse de vrai célibataire || France 3 || 13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94001262 DA_CPC94001262]
 |-
-| 1994-01-21 || Lotte aux anchois, lotte en ratatouille || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:24 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94001342 DA_CPC94001342]
+| 1994-02-04 || Gratin de fruits de mer || France 3 || 12:57 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94001283 DA_CPC94001283]
 |-
-| 1994-01-24 || Faisan au chou et faisan de la forêt || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:01 || [https://www.youtube.com/watch?v=Z5Jxhzx-U_o ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94000920 DA_CPC94000920]
+| 1994-02-11 || Soles et gambas, langoustines à la bière || France 3 || 13:02 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94001465 DA_CPC94001465]
 |-
-| 1994-01-31 || Daube de sanglier aux pruneaux - crème brûlée || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:36 || [https://www.youtube.com/watch?v=39WVXwZrEj4 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94001180 DA_CPC94001180]
+| 1994-02-17 || Papillote de rougets au beurre de concombre - huîtres en paquets || France 3 || 13:10 || [https://www.youtube.com/watch?v=yXcRDMSZFSo ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94001727 DA_CPC94001727]
 |-
-| 1994-02-01 || Sauté de veau aux olives - foie de lotte poêlé || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:22 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94001193 DA_CPC94001193]
+| 1994-02-18 || Truite saumonée au beurre de rose citronné || France 3 || 13:03 || [https://www.youtube.com/watch?v=ujTFvTFFlwo ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94001740 DA_CPC94001740]
 |-
-| 1994-02-03 || Spéciale Jean BARDET : rognons de veau persillade, bécasse de vrai célibataire || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94001262 DA_CPC94001262]
+| 1994-02-25 || Pâté de lotte en croûte || France 3 || 13:01 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94001826 DA_CPC94001826]
 |-
-| 1994-02-04 || Gratin de fruits de mer || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:57 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94001283 DA_CPC94001283]
+| 1994-03-03 || Morue a l'Italienne - gâteau aux marrons || France 3 || 12:44 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94002113 DA_CPC94002113]
 |-
-| 1994-02-11 || Soles et gambas, langoustines à la bière || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:02 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94001465 DA_CPC94001465]
+| 1994-03-10 || Jarret de boeuf paysanne, langoustines poêlée || France 3 || 12:44 || [https://www.youtube.com/watch?v=2vtGihly05U ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94002199 DA_CPC94002199]
 |-
-| 1994-02-17 || Papillote de rougets au beurre de concombre - huîtres en paquets || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:10 || [https://www.youtube.com/watch?v=yXcRDMSZFSo ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94001727 DA_CPC94001727]
+| 1994-03-16 || Darnes d'esturgeon à la Bordelaise, au Sauternes et aux raisins || France 3 Aquitaine || 13:24 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08005644 RE_RBC08005644]
 |-
-| 1994-02-18 || Truite saumonée au beurre de rose citronné || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:03 || [https://www.youtube.com/watch?v=ujTFvTFFlwo ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94001740 DA_CPC94001740]
+| 1994-04-21 || Steacks à l'Ecossaise, brochettes de ris de veau || France 3 || 12:09 || [https://www.youtube.com/watch?v=E9LPODPDxpk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94003352 DA_CPC94003352]
 |-
-| 1994-02-25 || Pâté de lotte en croûte || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:01 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94001826 DA_CPC94001826]
+| 1994-04-28 || Ragout de côtes d'agneau - côtes d'agneau bergère || France 3 || 12:16 || [https://www.youtube.com/watch?v=GrN9zhV1ZuE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94003525 DA_CPC94003525]
 |-
-| 1994-03-03 || Morue a l'Italienne - gâteau aux marrons || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:44 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94002113 DA_CPC94002113]
+| 1994-05-05 || Roulés de jambon aux pruneaux, magret de canard aux pruneaux et foie gras || France 3 || 12:59 || [https://www.youtube.com/watch?v=y-QFipHZb_g ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94003734 DA_CPC94003734]
 |-
-| 1994-03-10 || Jarret de boeuf paysanne, langoustines poêlée || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:44 || [https://www.youtube.com/watch?v=2vtGihly05U ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94002199 DA_CPC94002199]
+| 1994-09-05 || Brochettes de porc aux pruneaux et ananas, cervelle de veau au vin rouge || France 3 || 12:19 || [https://www.youtube.com/watch?v=NOdolmNsyJ8 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94007469 DA_CPC94007469]
 |-
-| 1994-03-16 || Darnes d'esturgeon à la Bordelaise, au Sauternes et aux raisins ||  || France 3 Aquitaine || 00:13:24 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08005644 RE_RBC08005644]
+| 1994-09-06 || Gaspacho andalous, soupe aux concombres, amuse-gueule || France 3 || 12:50 || [https://www.youtube.com/watch?v=l8JWHIQ5INk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94007509 DA_CPC94007509]
 |-
-| 1994-04-21 || Steacks à l'Ecossaise, brochettes de ris de veau || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:09 || [https://www.youtube.com/watch?v=E9LPODPDxpk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94003352 DA_CPC94003352]
+| 1994-09-08 || Tarte aux tomates et mozzarella, salade aux tomates, velouté d'endives || France 3 || 12:04 || [https://www.youtube.com/watch?v=BPakAkjixow ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94007527 DA_CPC94007527]
 |-
-| 1994-04-28 || Ragout de côtes d'agneau - côtes d'agneau bergère || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:16 || [https://www.youtube.com/watch?v=GrN9zhV1ZuE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94003525 DA_CPC94003525]
+| 1994-09-12 || Langue de boeuf aux concombres || France 3 || 12:52 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94007714 DA_CPC94007714]
 |-
-| 1994-05-05 || Roulés de jambon aux pruneaux, magret de canard aux pruneaux et foie gras || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:59 || [https://www.youtube.com/watch?v=y-QFipHZb_g ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94003734 DA_CPC94003734]
+| 1994-09-13 || Gratin d'aubergines à l'épaule d'agneau || France 3 || 13:02 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94007760 DA_CPC94007760]
 |-
-| 1994-06-15 || Roulés aux sardines, brochettes de moules et soupe aux moules ||  || France 3 Aquitaine || 00:12:31 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08005689 RE_RBC08005689]
+| 1994-09-16 || Salade de homard aux artichauts et framboises, ballotins d'huîtres aux légumes || France 3 || 13:03 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94007802 DA_CPC94007802]
 |-
-| 1994-09-05 || Brochettes de porc aux pruneaux et ananas, cervelle de veau au vin rouge || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:19 || [https://www.youtube.com/watch?v=NOdolmNsyJ8 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94007469 DA_CPC94007469]
+| 1994-09-19 || Rôti de boeuf à la ficelle et aubergines au parmesan || France 3 || 12:59 || [https://www.youtube.com/watch?v=3_DY-c8faCQ ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008058 DA_CPC94008058]
 |-
-| 1994-09-06 || Gaspacho andalous, soupe aux concombres, amuse-gueule || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:50 || [https://www.youtube.com/watch?v=l8JWHIQ5INk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94007509 DA_CPC94007509]
+| 1994-09-23 || Tartare de saumon et de dorade et stars de gaubagnac au saumon || France 3 || 12:59 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008098 DA_CPC94008098]
 |-
-| 1994-09-08 || Tarte aux tomates et mozzarella, salade aux tomates, velouté d'endives || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:04 || [https://www.youtube.com/watch?v=BPakAkjixow ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94007527 DA_CPC94007527]
+| 1994-09-26 || Potée de jambonneau au maïs et salade de pâtes aux petits légumes || France 3 || 12:52 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008224 DA_CPC94008224]
 |-
-| 1994-09-12 || Langue de boeuf aux concombres || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:52 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94007714 DA_CPC94007714]
+| 1994-09-28 || Spéciale avec A. DAGUIN : brochettes d'huîtres et duo de magrets || France 3 Aquitaine ||  ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08005725 RE_RBC08005725]
 |-
-| 1994-09-13 || Gratin d'aubergines à l'épaule d'agneau || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:02 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94007760 DA_CPC94007760]
+| 1994-09-29 || Filets de soles aux pétoncles - stars de gaubagnac farcies aux girolles || France 3 || 13:12 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008723 DA_CPC94008723]
 |-
-| 1994-09-16 || Salade de homard aux artichauts et framboises, ballotins d'huîtres aux légumes || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:03 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94007802 DA_CPC94007802]
+| 1994-10-03 || La queue de boeuf aux lentilles || France 3 || 13:06 || [https://www.youtube.com/watch?v=UXxon4xva8g ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008410 DA_CPC94008410]
 |-
-| 1994-09-19 || Rôti de boeuf à la ficelle et aubergines au parmesan || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:59 || [https://www.youtube.com/watch?v=3_DY-c8faCQ ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008058 DA_CPC94008058]
+| 1994-10-06 || Cailles farcies sur le grill, cailles aux champignons, cailles en papillotes || France 3 || 12:32 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008441 DA_CPC94008441]
 |-
-| 1994-09-23 || Tartare de saumon et de dorade et stars de gaubagnac au saumon || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:59 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008098 DA_CPC94008098]
+| 1994-10-10 || Lapin à la provençale et salade de riz chaud à l'ananas || France 3 || 11:48 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008600 DA_CPC94008600]
 |-
-| 1994-09-26 || Potée de jambonneau au maïs et salade de pâtes aux petits légumes || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:52 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008224 DA_CPC94008224]
+| 1994-10-12 || Spéciale avec Didier OUDILL || France 3 Aquitaine || 13:10 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08005729 RE_RBC08005729]
 |-
-| 1994-09-28 || Spéciale avec A. DAGUIN : brochettes d'huîtres et duo de magrets ||  || France 3 Aquitaine || 00:00:00:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08005725 RE_RBC08005725]
+| 1994-10-14 || Terrine de saumon aux endives ; Gratin d'endives aux girolles || France 3 || 13:01 || [https://www.youtube.com/watch?v=IoptOoft3bg ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008634 DA_CPC94008634]
 |-
-| 1994-09-29 || Filets de soles aux pétoncles - stars de gaubagnac farcies aux girolles || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:12 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008723 DA_CPC94008723]
+| 1994-10-18 || Ragondin en civet - terrine de ragondin || France 3 || 12:46 || [https://www.youtube.com/watch?v=5rEss9IFCEE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008773 DA_CPC94008773]
 |-
-| 1994-10-03 || La queue de boeuf aux lentilles || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:06 || [https://www.youtube.com/watch?v=UXxon4xva8g ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008410 DA_CPC94008410]
+| 1994-10-19 || Spéciale R. Mazere : galette de pieds de cochons confits, oie et champignons, risotto truffes || France 3 Aquitaine || 12:12 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08005730 RE_RBC08005730]
 |-
-| 1994-10-05 || Spéciale avec R. VERGE : fricassée de moules et rosaces de Saint jacques ||  || France 3 Aquitaine || 00:12:50 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08005727 RE_RBC08005727]
+| 1994-10-24 || Gaspacho aux huîtres - crêpes aux fruits de mer || France 3 || 12:26 || [https://www.youtube.com/watch?v=scBmiagfUk0 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008825 DA_CPC94008825]
 |-
-| 1994-10-06 || Cailles farcies sur le grill, cailles aux champignons, cailles en papillotes || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:32 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008441 DA_CPC94008441]
+| 1994-10-25 || Tartare de poisson et beignets d'endives || France 3 || 12:58 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008835 DA_CPC94008835]
 |-
-| 1994-10-10 || Lapin à la provençale et salade de riz chaud à l'ananas || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:11:48 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008600 DA_CPC94008600]
+| 1994-10-27 || Tartines Saint-Jean - magrets au miel - camembert chaud a la gelée sauternes || France 3 || 12:57 || [https://www.youtube.com/watch?v=1MvOUOne4xY ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008952 DA_CPC94008952]
 |-
-| 1994-10-12 || Spéciale avec Didier OUDILL ||  || France 3 Aquitaine || 00:13:10 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08005729 RE_RBC08005729]
+| 1994-10-28 || Gratin de morue aux girolles et crème de chou fleur aux moules || France 3 || 13:07 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008980 DA_CPC94008980]
 |-
-| 1994-10-14 || Terrine de saumon aux endives ; Gratin d'endives aux girolles || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:01 || [https://www.youtube.com/watch?v=IoptOoft3bg ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008634 DA_CPC94008634]
+| 1994-11-01 || Escalopes de marcassin aux pommes et gratin de chou || France 3 || 13:22 || [https://www.youtube.com/watch?v=5zcXZExhKPg ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008970 DA_CPC94008970]
 |-
-| 1994-10-18 || Ragondin en civet - terrine de ragondin || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:46 || [https://www.youtube.com/watch?v=5rEss9IFCEE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008773 DA_CPC94008773]
+| 1994-11-04 || Risotto aux St Jacques et coquillages - rougets a la provençale || France 3 || 13:15 || [https://www.youtube.com/watch?v=r8W30kVoi9I ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94009103 DA_CPC94009103]
 |-
-| 1994-10-19 || Spéciale R. Mazere : galette de pieds de cochons confits, oie et champignons, risotto truffes ||  || France 3 Aquitaine || 00:12:12 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08005730 RE_RBC08005730]
+| 1994-11-07 || Aiguillettes de boeuf en gelée et estouffade de boeuf aux olives || France 3 || 13:07 || [https://www.youtube.com/watch?v=9wVUzk2ZGW8 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94009021 DA_CPC94009021]
 |-
-| 1994-10-24 || Gaspacho aux huîtres - crêpes aux fruits de mer || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:26 || [https://www.youtube.com/watch?v=scBmiagfUk0 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008825 DA_CPC94008825]
+| 1994-11-09 || Spéciale Christian Germain : soupe d'huîtres au chou, bar en croûte au fenouil || France 3 Aquitaine ||  || [https://www.youtube.com/watch?v=Mz9Fc_iH360 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08005743 RE_RBC08005743]
 |-
-| 1994-10-25 || Tartare de poisson et beignets d'endives || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:58 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008835 DA_CPC94008835]
+| 1994-11-11 || Anguilles farcies au crabe et soupe de pois cassés || France 3 || 12:54 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94009239 DA_CPC94009239]
 |-
-| 1994-10-27 || Tartines Saint-Jean - magrets au miel - camembert chaud a la gelée sauternes || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:57 || [https://www.youtube.com/watch?v=1MvOUOne4xY ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008952 DA_CPC94008952]
+| 1994-11-15 || Pâté de tête de porc || France 3 || 13:07 || [https://www.youtube.com/watch?v=Ag3hJvHYN5Q ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94009436 DA_CPC94009436]
 |-
-| 1994-10-28 || Gratin de morue aux girolles et crème de chou fleur aux moules || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:07 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008980 DA_CPC94008980]
+| 1994-11-22 || Ris de veau aux légumes et ris de veau au fumet de vieux cèpes || France 3 || 13:12 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94009837 DA_CPC94009837]
 |-
-| 1994-11-01 || Escalopes de marcassin aux pommes et gratin de chou || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:22 || [https://www.youtube.com/watch?v=5zcXZExhKPg ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008970 DA_CPC94008970]
+| 1994-11-23 || Spéciale Annie HUBER : rillettes carpe et saumon, truuite farcie au Crémant || France 3 Aquitaine || 13:15 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08005749 RE_RBC08005749]
 |-
-| 1994-11-04 || Risotto aux St Jacques et coquillages - rougets a la provençale || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:15 || [https://www.youtube.com/watch?v=r8W30kVoi9I ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94009103 DA_CPC94009103]
+| 1994-11-25 || Brochet au beurre blanc et brochet farci || France 3 || 13:07 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94010184 DA_CPC94010184]
 |-
-| 1994-11-07 || Aiguillettes de boeuf en gelée et estouffade de boeuf aux olives || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:07 || [https://www.youtube.com/watch?v=9wVUzk2ZGW8 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94009021 DA_CPC94009021]
+| 1994-11-28 || Caille à la Créole et langoustine à la bordelaise || France 3 || 13:02 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94009843 DA_CPC94009843]
 |-
-| 1994-11-09 || Spéciale Christian Germain : soupe d'huîtres au chou, bar en croûte au fenouil ||  || France 3 Aquitaine || 00:00:00:00 || [https://www.youtube.com/watch?v=Mz9Fc_iH360 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08005743 RE_RBC08005743]
+| 1994-12-02 || Saumon Henri IV et saumon au vin rouge || France 3 || 13:01 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94009884 DA_CPC94009884]
 |-
-| 1994-11-11 || Anguilles farcies au crabe et soupe de pois cassés || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:54 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94009239 DA_CPC94009239]
+| 1994-12-06 || Escargots à la gasconne et escargots aphrodisiaques || France 3 || 13:11 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94009937 DA_CPC94009937]
 |-
-| 1994-11-15 || Pâté de tête de porc || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:07 || [https://www.youtube.com/watch?v=Ag3hJvHYN5Q ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94009436 DA_CPC94009436]
+| 1994-12-07 || Spéciale G. Paineau : filets de rougets, huîtres en paquets || France 3 Aquitaine || 13:10 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08005752 RE_RBC08005752]
 |-
-| 1994-11-22 || Ris de veau aux légumes et ris de veau au fumet de vieux cèpes || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:12 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94009837 DA_CPC94009837]
+| 1994-12-20 || Gratin landais à la saucisses deToulouse aux baies de genièvre, huîtres en crépinettes || France 3 || 13:12 || [https://www.youtube.com/watch?v=7L-53l5FdAE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94010381 DA_CPC94010381]
 |-
-| 1994-11-23 || Spéciale Annie HUBER : rillettes carpe et saumon, truuite farcie au Crémant ||  || France 3 Aquitaine || 00:13:15 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08005749 RE_RBC08005749]
+| 1994-12-22 || Langouste a l'Antillaise petits dombies-cochon de lait a la CHRISTOPHE - cive || France 3 || 15:32 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94010395 DA_CPC94010395]
 |-
-| 1994-11-25 || Brochet au beurre blanc et brochet farci || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:07 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94010184 DA_CPC94010184]
+| 1994-12-27 || Tournedos aux nouilles, steak au poivre vert au Sauternes et carpaccio au basili || France 3 || 13:03 || [https://www.youtube.com/watch?v=B1ixGEMCkN0 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94010447 DA_CPC94010447]
 |-
-| 1994-11-28 || Caille à la Créole et langoustine à la bordelaise || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:02 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94009843 DA_CPC94009843]
+| 1994-12-28 || Morceaux choisis : bêtisier || France 3 Aquitaine || 26:10 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08005755 RE_RBC08005755]
 |-
-| 1994-12-02 || Saumon Henri IV et saumon au vin rouge || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:01 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94009884 DA_CPC94009884]
+| 1994-12-29 || Colombo de requin et farandole de crabes et ouassous à l'Antillaise || France 3 || 14:25 || [https://www.youtube.com/watch?v=h3ThR9xH6zs ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94010550 DA_CPC94010550]
 |-
-| 1994-12-06 || Escargots à la gasconne et escargots aphrodisiaques || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:11 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94009937 DA_CPC94009937]
+| 1995-01-03 || Gratin de chou fleur et pommes de terre et soufflé de chou fleur au jambon || France 3 || 13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_1577.001 TV_1577.001]
 |-
-| 1994-12-07 || Spéciale G. Paineau : filets de rougets, huîtres en paquets ||  || France 3 Aquitaine || 00:13:10 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08005752 RE_RBC08005752]
+| 1995-01-04 || Poulet à la sarriette, foie de veau à la vapeur de thym || France 3 Aquitaine || 13:04 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08005760 RE_RBC08005760]
 |-
-| 1994-12-20 || Gratin landais à la saucisses deToulouse aux baies de genièvre, huîtres en crépinettes || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:12 || [https://www.youtube.com/watch?v=7L-53l5FdAE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94010381 DA_CPC94010381]
+| 1995-01-05 || Feuilleté de bison, aiguillettes et tartare de bison || France 3 || 13:01 || [https://www.youtube.com/watch?v=LE8VKFMYUgY ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_1643.001 TV_1643.001]
 |-
-| 1994-12-22 || Langouste a l'Antillaise petits dombies-cochon de lait a la CHRISTOPHE - cive || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:15:32 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94010395 DA_CPC94010395]
+| 1995-01-09 || Daube de joue de boeuf au vin de Médoc et effeuillé de morue aux poireaux || France 3 || 12:42 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_2960.001 TV_2960.001]
 |-
-| 1994-12-27 || Tournedos aux nouilles, steak au poivre vert au Sauternes et carpaccio au basili || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:03 || [https://www.youtube.com/watch?v=B1ixGEMCkN0 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94010447 DA_CPC94010447]
+| 1995-01-24 || Coeur de boeuf, rognon de boeuf et palombe St Palais || France 3 || 12:44 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_9696.001 TV_9696.001]
 |-
-| 1994-12-28 || Morceaux choisis : bêtisier ||  || France 3 Aquitaine || 00:26:10 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08005755 RE_RBC08005755]
+| 1995-01-30 || Tripes à la rionnaise, tripes à l'oignon et rognons grillés au romarin caillette || France 3 || 12:48 || [https://www.youtube.com/watch?v=wU-rdHnL2Sg ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_11965.001 TV_11965.001]
 |-
-| 1994-12-28 || Magrets au cidre, jambon chaud au vinaigré de framboise, oiseaux dans leur berceau || Ordonez Maïté || France 3 Aquitaine || 00:12:30 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08005758 RE_RBC08005758]
+| 1995-02-06 || Cou de canard farci || France 3 || 12:22 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_15684.001 TV_15684.001]
 |-
-| 1994-12-29 || Colombo de requin et farandole de crabes et ouassous à l'Antillaise || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:14:25 || [https://www.youtube.com/watch?v=h3ThR9xH6zs ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94010550 DA_CPC94010550]
+| 1995-02-10 || Terrine de poisson || France 3 || 12:27 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_16140.001 TV_16140.001]
 |-
-| 1995-01-03 || Gratin de chou fleur et pommes de terre et soufflé de chou fleur au jambon || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:00:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_1577.001 TV_1577.001]
+| 1995-02-17 || Soupe de langoustines et saucisses de poissons et crustacés || France 3 || 12:59 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_19309.001 TV_19309.001]
 |-
-| 1995-01-04 || Poulet à la sarriette, foie de veau à la vapeur de thym ||  || France 3 Aquitaine || 00:13:04 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08005760 RE_RBC08005760]
+| 1995-02-24 || Tortillons à la marinière et tarte aux fruits de mer || France 3 || 11:40 || [https://www.youtube.com/watch?v=fQwGap0OH9s ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_23003.001 TV_23003.001]
 |-
-| 1995-01-05 || Feuilleté de bison, aiguillettes et tartare de bison || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:01:00 || [https://www.youtube.com/watch?v=LE8VKFMYUgY ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_1643.001 TV_1643.001]
+| 1995-03-02 || Entrecôtes à la moelle, au champagne et au marchand de vin || France 3 || 12:09 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_26253.001 TV_26253.001]
 |-
-| 1995-01-09 || Daube de joue de boeuf au vin de Médoc et effeuillé de morue aux poireaux || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:42:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_2960.001 TV_2960.001]
+| 1995-03-03 || Baudroie et rougets aux petits légumes || France 3 || 13:08 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_26341.001 TV_26341.001]
 |-
-| 1995-01-24 || Coeur de boeuf, rognon de boeuf et palombe St Palais || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:44:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_9696.001 TV_9696.001]
+| 1995-03-07 || Lapin matelote et coeur de canard à la persillade || France 3 || 12:41 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_28855.001 TV_28855.001]
 |-
-| 1995-01-30 || Tripes à la rionnaise, tripes à l'oignon et rognons grillés au romarin caillette || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:48:00 || [https://www.youtube.com/watch?v=wU-rdHnL2Sg ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_11965.001 TV_11965.001]
+| 1995-03-17 || Tartare de saumon aux lentilles vertes du Puy et tomates et piments au vinaigre || France 3 || 12:37 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_32409.001 TV_32409.001]
 |-
-| 1995-02-01 || Langoustines aux fines herbes, soupe paysanne aux langoustines ||  || France 3 Aquitaine || 00:13:09 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08005770 RE_RBC08005770]
+| 1995-03-21 || Poitrine de veau farcie et riz de veau au rhum et aux champignons || France 3 || 12:34 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_35778.001 TV_35778.001]
 |-
-| 1995-02-06 || Cou de canard farci || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:22:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_15684.001 TV_15684.001]
+| 1995-03-28 || Potée aux fèves et soupe campagnarde aux fèves || France 3 || 13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_38711.001 TV_38711.001]
 |-
-| 1995-02-10 || Terrine de poisson || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:27:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_16140.001 TV_16140.001]
+| 1995-03-30 || Lotte aux algues de mer et huîtres du Cap Ferret au foie gras || France 3 || 12:42 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_38988.001 TV_38988.001]
 |-
-| 1995-02-17 || Soupe de langoustines et saucisses de poissons et crustacés || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:59:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_19309.001 TV_19309.001]
+| 1995-04-03 || Chapon Louisiane || France 3 || 12:45 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_42950.001 TV_42950.001]
 |-
-| 1995-02-21 || Salmis de palombes et cailles et gives aux raisins et au Sauternes et au foie || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:11:46:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_22783.001 TV_22783.001]
+| 1995-04-04 || Tartare de truite à la tahitienne || France 3 || 11:52 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_43177.001 TV_43177.001]
 |-
-| 1995-02-24 || Tortillons à la marinière et tarte aux fruits de mer || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:11:40:00 || [https://www.youtube.com/watch?v=fQwGap0OH9s ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_23003.001 TV_23003.001]
+| 1995-04-07 || Saumon au vin de framboise et truite farcie au cresson || France 3 || 13:03 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_43366.001 TV_43366.001]
 |-
-| 1995-03-02 || Entrecôtes à la moelle, au champagne et au marchand de vin || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:09:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_26253.001 TV_26253.001]
+| 1995-04-10 || Tourteaux farcis aux fruits et charlotte aux ananas || France 3 || 13:47 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_43974.001 TV_43974.001]
 |-
-| 1995-03-03 || Baudroie et rougets aux petits légumes || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:08:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_26341.001 TV_26341.001]
+| 1995-04-11 || Coeur de boeuf farci, marmite de lapin aux oignons et lapin en omelette || France 3 || 13:00 || [https://www.youtube.com/watch?v=cBzkuhySqEs ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_44560.001 TV_44560.001]
 |-
-| 1995-03-07 || Lapin matelote et coeur de canard à la persillade || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:41:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_28855.001 TV_28855.001]
+| 1995-04-13 || Pot au feu breton || France 3 || 12:55 || [https://www.youtube.com/watch?v=BqNZRqIduzk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_45509.001 TV_45509.001]
 |-
-| 1995-03-17 || Tartare de saumon aux lentilles vertes du Puy et tomates et piments au vinaigre || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:37:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_32409.001 TV_32409.001]
+| 1995-04-14 || Gratin de moules aux oeufs de cailles et ragoût de Saint Jacques aux kiwis || France 3 || 12:02 || [https://www.youtube.com/watch?v=NBmiAYwIXKY ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_45624.001 TV_45624.001]
 |-
-| 1995-03-21 || Poitrine de veau farcie et riz de veau au rhum et aux champignons || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:34:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_35778.001 TV_35778.001]
+| 1995-04-17 || Terrine de boeuf à la bière || France 3 || 13:01 || [https://www.youtube.com/watch?v=eTEJOQv6uBU ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_48299.001 TV_48299.001]
 |-
-| 1995-03-28 || Potée aux fèves et soupe campagnarde aux fèves || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:00:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_38711.001 TV_38711.001]
+| 1995-04-18 || Rougets en papillotes de chou et pains surprises aux huîtres || France 3 || 12:46 || [https://www.youtube.com/watch?v=nL-Bhxd_HQk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_48480.001 TV_48480.001]
 |-
-| 1995-03-29 || Langoustines à la Grecque, travers de porc aux poivrons ||  || France 3 Aquitaine || 00:12:27 || [https://www.youtube.com/watch?v=e_XNF6YZjhU ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08005792 RE_RBC08005792]
+| 1995-04-20 || Tourte de lapin au vin de Bordeaux et crêpes aux pommes || France 3 || 12:31 || [https://www.youtube.com/watch?v=FJCtflDPaLA ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_48753.001 TV_48753.001]
 |-
-| 1995-03-30 || Lotte aux algues de mer et huîtres du Cap Ferret au foie gras || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:42:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_38988.001 TV_38988.001]
+| 1995-04-21 || Dorade aux oranges et citrons verts et langoustines à l'estragon || France 3 || 12:56 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_48827.001 TV_48827.001]
 |-
-| 1995-04-03 || Chapon Louisiane || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:45:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_42950.001 TV_42950.001]
+| 1995-04-24 || Carré de boeuf grillé, purée de choux et artichauts et homards aux fruits || France 3 || 12:52 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_54063.001 TV_54063.001]
 |-
-| 1995-04-04 || Tartare de truite à la tahitienne || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:11:52:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_43177.001 TV_43177.001]
+| 1995-04-25 || Lapin farci à la moutarde et queue de boeuf en crépinette || France 3 || 12:41 || [https://www.youtube.com/watch?v=GG26ZMbOqyY ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_54179.001 TV_54179.001]
 |-
-| 1995-04-07 || Saumon au vin de framboise et truite farcie au cresson || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:03:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_43366.001 TV_43366.001]
+| 1995-04-27 || Foie gras raisins et Sauternes, foie gras poivre vert et foie gras persillade || France 3 || 12:05 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_54405.001 TV_54405.001]
 |-
-| 1995-04-10 || Tourteaux farcis aux fruits et charlotte aux ananas || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:47:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_43974.001 TV_43974.001]
+| 1995-04-28 || Homard à la mayonnaise d'avocat et terrine d'avocat à la sauce de homard || France 3 || 12:28 || [https://www.youtube.com/watch?v=v-1GAOtAeko ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_54704.001 TV_54704.001]
 |-
-| 1995-04-11 || Coeur de boeuf farci, marmite de lapin aux oignons et lapin en omelette || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:00:00 || [https://www.youtube.com/watch?v=cBzkuhySqEs ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_44560.001 TV_44560.001]
+| 1995-05-01 || Poulet créole et crépinette de porc à l'ananas || France 3 || 12:50 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_55049.001 TV_55049.001]
 |-
-| 1995-04-13 || Pot au feu breton || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:55:00 || [https://www.youtube.com/watch?v=BqNZRqIduzk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_45509.001 TV_45509.001]
+| 1995-05-02 || Marmite landaise et velouté de haddock || France 3 || 12:41 || [https://www.youtube.com/watch?v=z94mWhAavkQ ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_55113.001 TV_55113.001]
 |-
-| 1995-04-14 || Gratin de moules aux oeufs de cailles et ragoût de Saint Jacques aux kiwis || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:02:00 || [https://www.youtube.com/watch?v=NBmiAYwIXKY ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_45624.001 TV_45624.001]
+| 1995-05-04 || Blancs de poulet aux petits légumes et au foie gras || France 3 || 12:31 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_55261.001 TV_55261.001]
 |-
-| 1995-04-17 || Terrine de boeuf à la bière || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:01:00 || [https://www.youtube.com/watch?v=eTEJOQv6uBU ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_48299.001 TV_48299.001]
+| 1995-05-08 || Ragoût du garde chasse et ragoût des Pyrénées || France 3 || 13:07 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_58313.001 TV_58313.001]
 |-
-| 1995-04-18 || Rougets en papillotes de chou et pains surprises aux huîtres || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:46:00 || [https://www.youtube.com/watch?v=nL-Bhxd_HQk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_48480.001 TV_48480.001]
+| 1995-05-09 || Lotte à l'américaine et soles farcies aux cèpes || France 3 || 11:51 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_58425.001 TV_58425.001]
 |-
-| 1995-04-20 || Tourte de lapin au vin de Bordeaux et crêpes aux pommes || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:31:00 || [https://www.youtube.com/watch?v=FJCtflDPaLA ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_48753.001 TV_48753.001]
+| 1995-05-11 || Faux filets aux légumes et langue de boeuf aux fruits secs || France 3 || 12:54 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_58551.001 TV_58551.001]
 |-
-| 1995-04-21 || Dorade aux oranges et citrons verts et langoustines à l'estragon || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:56:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_48827.001 TV_48827.001]
+| 1995-05-12 || Bar pané à la noix de coco, lait de coco et beignets et crêpes à la noix de coc || France 3 || 13:01 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_58617.001 TV_58617.001]
 |-
-| 1995-04-24 || Carré de boeuf grillé, purée de choux et artichauts et homards aux fruits || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:52:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_54063.001 TV_54063.001]
+| 1995-05-15 || Escargots en brioche au romarin et écrevisses à la nage || France 3 || 13:03 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_60574.001 TV_60574.001]
 |-
-| 1995-04-25 || Lapin farci à la moutarde et queue de boeuf en crépinette || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:41:00 || [https://www.youtube.com/watch?v=GG26ZMbOqyY ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_54179.001 TV_54179.001]
+| 1995-05-16 || Filet de porc à la scandinave et foie de veau aux fruits || France 3 || 13:08 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_60638.001 TV_60638.001]
 |-
-| 1995-04-27 || Foie gras raisins et Sauternes, foie gras poivre vert et foie gras persillade || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:05:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_54405.001 TV_54405.001]
+| 1995-05-18 || Poularde au vin d'Alsace et galette de pommes de terre au fromage || France 3 || 13:09 || [https://www.youtube.com/watch?v=FFv2Jjq9Gi0 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_60758.001 TV_60758.001]
 |-
-| 1995-04-28 || Homard à la mayonnaise d'avocat et terrine d'avocat à la sauce de homard || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:28:00 || [https://www.youtube.com/watch?v=v-1GAOtAeko ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_54704.001 TV_54704.001]
+| 1995-05-19 || Filets de petits bars en papillottes et aumônières d'oeufs de saumon || France 3 || 12:33 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_60825.001 TV_60825.001]
 |-
-| 1995-05-01 || Poulet créole et crépinette de porc à l'ananas || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:50:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_55049.001 TV_55049.001]
+| 1995-05-22 || Baëkeoffe et rognons de veau au Sauternes || France 3 || 13:02 || [https://www.youtube.com/watch?v=TywebZqJ6vE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_64573.001 TV_64573.001]
 |-
-| 1995-05-02 || Marmite landaise et velouté de haddock || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:41:00 || [https://www.youtube.com/watch?v=z94mWhAavkQ ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_55113.001 TV_55113.001]
+| 1995-05-25 || Oie rôtie aux pommes || France 3 || 13:00 || [https://www.youtube.com/watch?v=A0wC18knAgA ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_64891.001 TV_64891.001]
 |-
-| 1995-05-04 || Blancs de poulet aux petits légumes et au foie gras || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:31:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_55261.001 TV_55261.001]
+| 1995-06-08 || Jambon au cidre et aux pommes, au lillet et confiture aux fruits exotiques || France 3 || 12:56 || [https://www.youtube.com/watch?v=lw2w7twASBo ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_71350.001 TV_71350.001]
 |-
-| 1995-05-08 || Ragoût du garde chasse et ragoût des Pyrénées || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:07:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_58313.001 TV_58313.001]
+| 1995-06-09 || Lotte aux pommes et au curry et tête de lotte à la persillade || France 3 || 12:45 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_71417.001 TV_71417.001]
 |-
-| 1995-05-09 || Lotte à l'américaine et soles farcies aux cèpes || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:11:51:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_58425.001 TV_58425.001]
+| 1995-06-12 || Quiche de volaille aux raisins et soupe de coquillages || France 3 || 12:52 || [https://www.youtube.com/watch?v=lj6u3f5ax6I ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_72344.001 TV_72344.001]
 |-
-| 1995-05-11 || Faux filets aux légumes et langue de boeuf aux fruits secs || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:54:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_58551.001 TV_58551.001]
+| 1995-06-15 || Chapon farci aux ris de veau et au foie gras || France 3 || 12:26 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_72932.018 TV_72932.018]
 |-
-| 1995-05-12 || Bar pané à la noix de coco, lait de coco et beignets et crêpes à la noix de coc || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:01:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_58617.001 TV_58617.001]
+| 1995-06-23 || Ballotins d'aubergines au coulis de tomates || France 3 || 12:51 || [https://www.youtube.com/watch?v=4Cd1_YQucBk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_77853.001 TV_77853.001]
 |-
-| 1995-05-15 || Escargots en brioche au romarin et écrevisses à la nage || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:03:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_60574.001 TV_60574.001]
+| 1995-10-27 || Moules aux sardines, brochettes de moules et soupes de moules, praires et clams || France 3 || 02:31 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_152440.001 TV_152440.001]
 |-
-| 1995-05-16 || Filet de porc à la scandinave et foie de veau aux fruits || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:08:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_60638.001 TV_60638.001]
+| 1995-12-20 || Spéciale Elisabeth de ROZIERES : langouste à l'Antillaise aux petits dombres, cochon de lait || France 3 Aquitaine || 15:31 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08008559 RE_RBC08008559]
 |-
-| 1995-05-18 || Poularde au vin d'Alsace et galette de pommes de terre au fromage || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:09:00 || [https://www.youtube.com/watch?v=FFv2Jjq9Gi0 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_60758.001 TV_60758.001]
+| 1995-12-28 || Escalope de saumon farcie ; purée de cèpes || France 3 || 13:06 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_195357.001 TV_195357.001]
 |-
-| 1995-05-19 || Filets de petits bars en papillottes et aumônières d'oeufs de saumon || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:33:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_60825.001 TV_60825.001]
+| 1996-01-04 || Poêlée de jambonneau au maïs, salade de pâtes || France 3 Aquitaine || 12:53 || [https://www.youtube.com/watch?v=u6Oo696hQT0 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08009680 RE_RBC08009680]
 |-
-| 1995-05-22 || Baëkeoffe et rognons de veau au Sauternes || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:02:00 || [https://www.youtube.com/watch?v=TywebZqJ6vE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_64573.001 TV_64573.001]
+| 1996-09-25 || Gaspacho || France 3 || 12:49 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_418822.001 TV_418822.001]
 |-
-| 1995-05-25 || Oie rôtie aux pommes || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:00:00 || [https://www.youtube.com/watch?v=A0wC18knAgA ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_64891.001 TV_64891.001]
+| 1996-12-18 || Palombes à la St Palais || France 3 || 13:02 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_468462.001 TV_468462.001]
 |-
-| 1995-06-08 || Jambon au cidre et aux pommes, au lillet et confiture aux fruits exotiques || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:56:00 || [https://www.youtube.com/watch?v=lw2w7twASBo ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_71350.001 TV_71350.001]
+| 1997-01-25 || Gratin landais, saucisse de Toulouse aux baies de genièvre, crépinette d'huîtres || France 3 Aquitaine || 12:59 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08009698 RE_RBC08009698]
 |-
-| 1995-06-09 || Lotte aux pommes et au curry et tête de lotte à la persillade || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:45:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_71417.001 TV_71417.001]
-|-
-| 1995-06-12 || Quiche de volaille aux raisins et soupe de coquillages || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:52:00 || [https://www.youtube.com/watch?v=lj6u3f5ax6I ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_72344.001 TV_72344.001]
-|-
-| 1995-06-15 || Chapon farci aux ris de veau et au foie gras || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:26:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_72932.018 TV_72932.018]
-|-
-| 1995-06-23 || Ballotins d'aubergines au coulis de tomates || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:51:00 || [https://www.youtube.com/watch?v=4Cd1_YQucBk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_77853.001 TV_77853.001]
-|-
-| 1995-09-05 || Tartes aux tomates et mozarella et salade aux tomates et mozarella || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:05:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_120365.001 TV_120365.001]
-|-
-| 1995-10-27 || Moules aux sardines, brochettes de moules et soupes de moules, praires et clams || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:02:31:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_152440.001 TV_152440.001]
-|-
-| 1995-11-08 || Perdreau au chou, perdreau aux girofles ||  || France 3 Aquitaine || 00:13:07 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08008531 RE_RBC08008531]
-|-
-| 1995-12-20 || Spéciale Elisabeth de ROZIERES : langouste à l'Antillaise aux petits dombres, cochon de lait ||  || France 3 Aquitaine || 00:15:31 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08008559 RE_RBC08008559]
-|-
-| 1995-12-25 || Papillottes de belette aux huîtres et Saint Jacques || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:24:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_194956.001 TV_194956.001]
-|-
-| 1995-12-28 || Escalope de saumon farcie ; purée de cèpes || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:06:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_195357.001 TV_195357.001]
-|-
-| 1996-01-04 || Poêlée de jambonneau au maïs, salade de pâtes ||  || France 3 Aquitaine || 00:12:53 || [https://www.youtube.com/watch?v=u6Oo696hQT0 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08009680 RE_RBC08009680]
-|-
-| 1996-03-11 || Magrets au cidre, jambon chaud au vinaigre et petits oiseaux dans leur berceau || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:31:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_264572.001 TV_264572.001]
-|-
-| 1996-03-13 || Bar farci à la noix de coco, lait de coco, beignets et crêpes à la noix de coco ||  || France 3 Aquitaine || 00:13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08008806 RE_RBC08008806]
-|-
-| 1996-06-20 || Tripes à la rionnaise, à l'oignon, rognons au romarin, caillettes persillades || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:13:05:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_334884.001 TV_334884.001]
-|-
-| 1996-09-25 || Gaspacho ||  || France 3 || 00:12:49:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_418822.001 TV_418822.001]
-|-
-| 1996-10-20 || Tartines St-Jean, magrets au miel, camembert chaud à la gelée de Sauternes ||  || France 3 Aquitaine || 00:12:57 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08009473 RE_RBC08009473]
-|-
-| 1996-12-18 || Palombes à la St Palais ||  || France 3 || 00:13:02:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_468462.001 TV_468462.001]
-|-
-| 1997-01-25 || Gratin landais, saucisse de Toulouse aux baies de genièvre, crépinette d'huîtres ||  || France 3 Aquitaine || 00:12:59 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08009698 RE_RBC08009698]
-|-
-| 1997-03-15 || Coeur de boeuf, rognons de boeuf, palombes à la Saint Palais ||  || France 3 Aquitaine || 00:13:01 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08038022 RE_RBC08038022]
-|-
-| 1997-09-05 || Jambon au cidre et aux pommes et jambon au Lillet et poivre vert || Banzet Lawton Micheline ; Ordonez Maïté || France 3 || 00:12:56:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_657530.001 TV_657530.001]
+| 1997-09-05 || Jambon au cidre et aux pommes et jambon au Lillet et poivre vert || France 3 || 12:56 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_657530.001 TV_657530.001]
 |}
