@@ -23,7 +23,7 @@ from urllib.parse import parse_qsl, urlsplit
 
 import requests
 
-from ..core.ina import (DEFAULT_SEARCHES, NOTICE_PREFIX, keep_result_row, parse_list_page, parse_notice_page,
+from ..core.ina import (DEFAULT_SEARCHES, NOTICE_PREFIX, keep_result_row, parse_duration, parse_list_page, parse_notice_page,
                         split_items, with_param)
 from .db import INA_SCHEMA, connect, utcnow
 
@@ -131,9 +131,10 @@ def store_notice(conn, path: str, url: str, status: int, html: str, keep_html: b
     notice_id = next((f.value_text for f in fields if f.code == "NO"), None)
     conn.execute("DELETE FROM notice WHERE notice_path = ?", (path,))
     conn.execute(
-        "INSERT INTO notice(notice_path,notice_id,url,fetched_at,http_status,html_sha256,html_zlib) VALUES (?,?,?,?,?,?,?)",
+        "INSERT INTO notice(notice_path,notice_id,url,fetched_at,http_status,html_sha256,html_zlib,duree_s) VALUES (?,?,?,?,?,?,?,?)",
         (path, notice_id, url, utcnow(), status, hashlib.sha256(html.encode()).hexdigest(),
-         zlib.compress(html.encode()) if keep_html else None))
+         zlib.compress(html.encode()) if keep_html else None,
+         parse_duration(next((f.value_text for f in fields if f.code == "DUREE"), None))))
     for f in fields:
         conn.execute(
             "INSERT INTO notice_field(notice_path,position,code,label,value_text,value_html) VALUES (?,?,?,?,?,?)",
@@ -169,11 +170,22 @@ def fetch_notices(conn, fetcher: Fetcher, paths: dict[str, int], refresh: bool, 
     conn.commit()
 
 
+def add_duree_s(conn) -> None:
+    """Databases made before notice.duree_s existed: add the column and fill it from the stored DUREE fields."""
+    if any(r[1] == "duree_s" for r in conn.execute("PRAGMA table_info(notice)")):
+        return
+    conn.execute("ALTER TABLE notice ADD COLUMN duree_s INTEGER")
+    for path, text in conn.execute("SELECT notice_path, value_text FROM notice_field WHERE code = 'DUREE'").fetchall():
+        conn.execute("UPDATE notice SET duree_s = ? WHERE notice_path = ?", (parse_duration(text), path))
+    conn.commit()
+
+
 def scrape(db: str | Path, searches: list[tuple[str | None, str]] | None = None, page_size: int = 500,
            delay: float = 1.0, refresh: bool = False, searches_only: bool = False, keep_html: bool = True,
            contact: str | None = None) -> None:
     conn = connect(db)
     conn.executescript(INA_SCHEMA)
+    add_duree_s(conn)
     fetcher = Fetcher(conn, delay, contact)
     paths: dict[str, int] = {}
     for label, url in searches or DEFAULT_SEARCHES:

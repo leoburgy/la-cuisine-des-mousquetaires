@@ -25,7 +25,7 @@ TABLES = {
         "query": """SELECT v.*, (SELECT group_concat(name, ' ; ') FROM v_generique g
                                  WHERE g.notice_path = v.notice_path AND g.role_code IN ('PRE', 'PAR')) AS pre,
                            yv.url AS youtube_url,
-                           printf('%d:%02d:%02d', yv.duration_s / 3600, yv.duration_s % 3600 / 60, yv.duration_s % 60) AS youtube_duree,
+                           yv.duration_s AS youtube_duree_s,
                            m.confidence AS match_confidence, round(m.score, 2) AS match_score
                     FROM v_notice v
                     LEFT JOIN youtube_match m ON m.notice_path = v.notice_path

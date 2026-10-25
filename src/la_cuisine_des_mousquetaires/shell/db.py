@@ -62,7 +62,8 @@ CREATE TABLE IF NOT EXISTS notice (
     fetched_at    TEXT NOT NULL,
     http_status   INTEGER,
     html_sha256   TEXT,
-    html_zlib     BLOB                      -- raw page, zlib-compressed (optional)
+    html_zlib     BLOB,                     -- raw page, zlib-compressed (optional)
+    duree_s       INTEGER                   -- field DUREE in seconds, NULL if unknown (the raw text stays in notice_field)
 );
 
 -- One row per field of a notice, in page order.
@@ -123,6 +124,7 @@ SELECT
     MAX(CASE WHEN f.code = 'HEURE'    THEN f.value_text END) AS heure_diffusion,
     MAX(CASE WHEN f.code = 'HEUREFIN' THEN f.value_text END) AS heure_fin,
     MAX(CASE WHEN f.code = 'DUREE'    THEN f.value_text END) AS duree,
+    n.duree_s,
     MAX(CASE WHEN f.code = 'GENRE'    THEN f.value_text END) AS genre,
     MAX(CASE WHEN f.code = 'TYPDESCR' THEN f.value_text END) AS type_description,
     MAX(CASE WHEN f.code = 'GEN'      THEN f.value_text END) AS generique,

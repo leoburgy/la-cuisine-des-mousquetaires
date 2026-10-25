@@ -40,9 +40,9 @@ def test_titles_differing_by_articles_plurals_accents_or_punctuation_are_one_epi
 
 def test_the_episode_gets_the_best_youtube_match_of_any_of_its_broadcasts():
     rows = [{**row("aq", "France 3 Aquitaine", "1995-01-07", "Pot au feu"), "youtube_url": None},
-            {**row("nat", "France 3", "1995-02-09", "Pot au feu"), "youtube_url": "u1", "youtube_duree": "0:12:00",
+            {**row("nat", "France 3", "1995-02-09", "Pot au feu"), "youtube_url": "u1", "youtube_duree_s": 720,
              "match_confidence": "low", "match_score": 0.5},
-            {**row("nat2", "France 3", "1995-03-09", "Pot au feu"), "youtube_url": "u2", "youtube_duree": "0:13:00",
+            {**row("nat2", "France 3", "1995-03-09", "Pot au feu"), "youtube_url": "u2", "youtube_duree_s": 780,
              "match_confidence": "high", "match_score": 0.9}]
     [ep] = select_episodes(rows)
     assert (ep["notice_path"], ep["youtube_url"], ep["match_confidence"]) == ("aq", "u2", "high")
@@ -81,10 +81,10 @@ def test_the_wrapper_notice_of_a_whole_magazine_is_dropped():
 
 def test_blank_fields_of_the_preferred_notice_are_completed_from_the_other_broadcasts():
     aq = {**row("aq", "France 3 Aquitaine", "1986-08-11", "La cuisine des mousquetaires : les foies en sauce",
-                heure="00:00:00"), "duree": "00:13:45", "resume_documentaire": None}
-    fr3 = {**row("fr3", "FR3", "1986-08-11", "[les foies en sauce]", heure="17:32:35"), "duree": "00:13:45",
+                heure="00:00:00"), "duree_s": 825, "resume_documentaire": None}
+    fr3 = {**row("fr3", "FR3", "1986-08-11", "[les foies en sauce]", heure="17:32:35"), "duree_s": 825,
            "resume_documentaire": "Un foie aux raisins"}
-    other_day = {**row("late", "France 3", "1990-01-01", "[les foies en sauce]", heure="12:00:00"), "duree": None,
+    other_day = {**row("late", "France 3", "1990-01-01", "[les foies en sauce]", heure="12:00:00"), "duree_s": None,
                  "resume_documentaire": None}
     [ep] = select_episodes([aq, fr3, other_day])
     assert (ep["notice_path"], ep["heure_diffusion"], ep["resume_documentaire"], ep["n_diffusions"]) == \
@@ -108,23 +108,23 @@ def test_a_series_description_is_not_an_episode():
 
 
 def test_one_title_contained_in_the_other_with_the_same_duration_is_a_rerun():
-    rows = [{**row("da", "France 3", "1994-10-03", "La queue de boeuf aux lentilles"), "duree": "00:13:06"},
+    rows = [{**row("da", "France 3", "1994-10-03", "La queue de boeuf aux lentilles"), "duree_s": 786},
             {**row("re", "France 3 Aquitaine", "1997-04-05",
-                   "Queue de boeuf aux lentilles, sauté de queue de boeuf aux pois chiches"), "duree": "00:13:06:00"},
-            {**row("other", "France 3", "1995-01-01", "Queue de boeuf aux lentilles et riz"), "duree": "00:12:00"}]
+                   "Queue de boeuf aux lentilles, sauté de queue de boeuf aux pois chiches"), "duree_s": 786},
+            {**row("other", "France 3", "1995-01-01", "Queue de boeuf aux lentilles et riz"), "duree_s": 720}]
     eps = select_episodes(rows)
     assert [(r["premiere_date"], r["n_diffusions"]) for r in eps] == [("1994-10-03", 2), ("1995-01-01", 1)]
 
 
 def test_a_contained_title_with_another_duration_stays_separate():
-    rows = [{**row("a", "France 3", "1994-10-03", "Canard farci"), "duree": "00:13:06"},
-            {**row("b", "France 3", "1997-04-05", "Canard farci au madère"), "duree": "00:12:05"}]
+    rows = [{**row("a", "France 3", "1994-10-03", "Canard farci"), "duree_s": 786},
+            {**row("b", "France 3", "1997-04-05", "Canard farci au madère"), "duree_s": 725}]
     assert len(select_episodes(rows)) == 2
 
 
 def test_a_two_word_title_needs_the_exact_duration_to_merge():
-    rows = [{**row("a", "France 3 Aquitaine", "1990-06-19", "Les foies de veau"), "duree": "00:13:34"},
-            {**row("b", "France 3", "1995-05-16", "Filet de porc à la scandinave et foie de veau aux fruits"), "duree": "00:13:32:00"}]
+    rows = [{**row("a", "France 3 Aquitaine", "1990-06-19", "Les foies de veau"), "duree_s": 814},
+            {**row("b", "France 3", "1995-05-16", "Filet de porc à la scandinave et foie de veau aux fruits"), "duree_s": 812}]
     assert len(select_episodes(rows)) == 2
 
 
@@ -155,25 +155,25 @@ def test_the_episode_says_where_it_first_aired_and_on_which_channels_and_until_w
 
 
 def test_the_rerun_of_the_1983_series_merges_despite_other_titles():
-    rows = [{**row("pc", "France 3 Poitou Charente", "1983-10-20", "La cuisine des mousquetaires : sanquette, magret et pommes de terre sautées"), "duree": "00:13:26"},
-            {**row("aq", "France 3 Aquitaine", "1986-08-08", "La cuisine des mousquetaires : les magrets"), "duree": "00:13:26"},
-            {**row("fr3", "FR3", "1986-08-08", "Les magrets et la sanguette"), "duree": "00:13:26"},
-            {**row("sauce", "France 3 Aquitaine", "1986-08-11", "La cuisine des mousquetaires : les foies en sauce"), "duree": "00:13:45"},
-            {**row("raisin", "France 3 Poitou Charente", "1983-11-24", "La cuisine des mousquetaires : foies de canard au raisin et au sauterne"), "duree": "00:13:43"},
-            {**row("other", "France 3", "1990-01-01", "Magret de canard grillé"), "duree": "00:13:26"}]
+    rows = [{**row("pc", "France 3 Poitou Charente", "1983-10-20", "La cuisine des mousquetaires : sanquette, magret et pommes de terre sautées"), "duree_s": 806},
+            {**row("aq", "France 3 Aquitaine", "1986-08-08", "La cuisine des mousquetaires : les magrets"), "duree_s": 806},
+            {**row("fr3", "FR3", "1986-08-08", "Les magrets et la sanguette"), "duree_s": 806},
+            {**row("sauce", "France 3 Aquitaine", "1986-08-11", "La cuisine des mousquetaires : les foies en sauce"), "duree_s": 825},
+            {**row("raisin", "France 3 Poitou Charente", "1983-11-24", "La cuisine des mousquetaires : foies de canard au raisin et au sauterne"), "duree_s": 823},
+            {**row("other", "France 3", "1990-01-01", "Magret de canard grillé"), "duree_s": 806}]
     eps = select_episodes(rows)
     assert [(r["notice_path"], r["n_diffusions"]) for r in eps] == [("pc", 3), ("raisin", 2), ("other", 1)]
 
 
 def test_a_one_word_title_does_not_merge_with_every_title_that_contains_it():
-    rows = [{**row("a", "France 3", "1993-01-01", "Les foies", heure="11:00:00"), "duree": "00:13:06"},
-            {**row("b", "France 3", "1995-02-02", "Dodine de volaille au foie gras"), "duree": "00:13:06"}]
+    rows = [{**row("a", "France 3", "1993-01-01", "Les foies", heure="11:00:00"), "duree_s": 786},
+            {**row("b", "France 3", "1995-02-02", "Dodine de volaille au foie gras"), "duree_s": 786}]
     assert len(select_episodes(rows)) == 2
 
 
 def test_spelling_variants_of_a_word_do_not_prevent_a_rerun_merge():
-    rows = [{**row("a", "France 3 Aquitaine", "1985-10-04", "Cêpes Bordelais et magret de canard"), "duree": "00:13:24"},
-            {**row("b", "FR3", "1986-08-14", "Les cèpes à la Bordelaise et le magret de canard farci au foie gras et aux cèpes"), "duree": "00:13:24"}]
+    rows = [{**row("a", "France 3 Aquitaine", "1985-10-04", "Cêpes Bordelais et magret de canard"), "duree_s": 804},
+            {**row("b", "FR3", "1986-08-14", "Les cèpes à la Bordelaise et le magret de canard farci au foie gras et aux cèpes"), "duree_s": 804}]
     assert [(r["notice_path"], r["n_diffusions"]) for r in select_episodes(rows)] == [("a", 2)]
 
 
@@ -202,7 +202,7 @@ def test_a_rerun_of_the_first_episode_goes_to_the_earliest_episode():
 
 def test_the_video_of_the_first_run_wins_unless_its_match_is_doubtful():
     def with_video(r, url, conf, score):
-        return {**r, "youtube_url": url, "youtube_duree": "0:13:00", "match_confidence": conf, "match_score": score}
+        return {**r, "youtube_url": url, "youtube_duree_s": 780, "match_confidence": conf, "match_score": score}
     first = with_video(row("pc", "France 3 Poitou Charente", "1983-10-20", "Sanquette"), "u1", "medium", 0.5)
     rerun = with_video(row("aq", "France 3 Aquitaine", "1986-08-08", "Sanquette"), "u2", "high", 0.74)
     assert select_episodes([first, rerun])[0]["youtube_url"] == "u1"
@@ -265,20 +265,29 @@ def test_notices_listed_by_hand_as_one_episode_are_merged(monkeypatch):
 
 
 def test_alike_titles_with_close_durations_are_one_episode():
-    rows = [{**row("a", "France 3", "1993-12-10", "Magrets au cidre, jambon au vinaigre framboise et petits oiseaux"), "duree": "00:12:31"},
-            {**row("b", "France 3", "1994-12-28", "Magrets au cidre, jambon chaud au vinaigré de framboise, oiseaux"), "duree": "00:12:32"}]
+    rows = [{**row("a", "France 3", "1993-12-10", "Magrets au cidre, jambon au vinaigre framboise et petits oiseaux"), "duree_s": 751},
+            {**row("b", "France 3", "1994-12-28", "Magrets au cidre, jambon chaud au vinaigré de framboise, oiseaux"), "duree_s": 752}]
     [ep] = select_episodes(rows)
     assert (ep["notice_path"], ep["n_diffusions"]) == ("a", 2)
 
 
 def test_alike_titles_with_other_durations_stay_apart():
-    rows = [{**row("a", "France 3", "1989-01-24", "Brochet au beurre blanc et pain de brochet"), "duree": "00:13:25"},
-            {**row("b", "France 3", "1994-11-25", "Brochet au beurre blanc et brochet farci"), "duree": "00:13:07"}]
+    rows = [{**row("a", "France 3", "1989-01-24", "Brochet au beurre blanc et pain de brochet"), "duree_s": 805},
+            {**row("b", "France 3", "1994-11-25", "Brochet au beurre blanc et brochet farci"), "duree_s": 787}]
     assert len(select_episodes(rows)) == 2
 
 
 def test_titles_that_only_give_a_date_are_not_compared():
-    rows = [{**row("a", "France 3", "1992-05-25", "La cuisine des mousquetaires du 25 mai 1992"), "duree": "00:13:00"},
-            {**row("b", "France 3", "1992-06-26", "La cuisine des mousquetaires du 26 juin 1992"), "duree": "00:13:00"}]
+    rows = [{**row("a", "France 3", "1992-05-25", "La cuisine des mousquetaires du 25 mai 1992"), "duree_s": 780},
+            {**row("b", "France 3", "1992-06-26", "La cuisine des mousquetaires du 26 juin 1992"), "duree_s": 780}]
     assert len(select_episodes(rows)) == 2
 
+
+def test_durations_are_listed_as_minutes_and_seconds():
+    rows = [{**row("a", "France 3", "1995-01-24", "Cassoulet"), "duree_s": 764},
+            {**row("b", "France 3", "1991-05-07", "Poule au pot"), "duree_s": 2412},
+            {**row("c", "France 3", "1992-05-22", "Garbure"), "duree_s": None},
+            {**row("d", "France 3", "1992-06-22", "Tourin"), "duree_s": None, "youtube_url": "u", "youtube_duree_s": 786,
+             "match_confidence": "high", "match_score": 1}]
+    got = {r["notice_path"]: (r["duree"], r["youtube_duree"]) for r in select_episodes(rows)}
+    assert got == {"a": ("12:44", None), "b": ("40:12", None), "c": ("", None), "d": ("", "13:06")}

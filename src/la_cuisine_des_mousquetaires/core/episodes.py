@@ -104,7 +104,7 @@ def _rank(row: dict) -> tuple:
 
 
 CONFIDENCE_RANK = {"manual": 0, "high": 1, "medium": 2, "low": 3}
-VIDEO_FIELDS = ("youtube_url", "youtube_duree", "match_confidence", "match_score")
+VIDEO_FIELDS = ("youtube_url", "match_confidence", "match_score")
 
 
 def _video(group: list[dict], first: dict) -> dict:
@@ -116,7 +116,7 @@ def _video(group: list[dict], first: dict) -> dict:
     best = min(matched, key=lambda r: (CONFIDENCE_RANK.get(r["match_confidence"], 9), -(r["match_score"] or 0)))
     if first.get("youtube_url") and first["match_confidence"] != "low":
         best = first
-    return {k: best[k] for k in VIDEO_FIELDS}
+    return {**{k: best[k] for k in VIDEO_FIELDS}, "youtube_duree": _mmss(best["youtube_duree_s"])}
 
 
 def is_placeholder(row: dict) -> bool:
@@ -156,12 +156,12 @@ def _premiere(group: list[dict]) -> tuple[str, bool]:
 
 
 # Fields of the preferred notice that are completed from the other broadcasts of the episode when blank.
-FILLED = ("duree", "generique", "resume_documentaire")
+FILLED = ("duree_s", "generique", "resume_documentaire")
 
 
 def _blank(value: str | None) -> bool:
-    """Empty, or a zero / 24:00 time standing in for "unknown"."""
-    return not value or bool(re.fullmatch(r"[0:]+", value)) or value.startswith("24:00")
+    """Empty, or a zero / 24:00 time standing in for "unknown" (a duration is blank when None or 0)."""
+    return not value or (isinstance(value, str) and (bool(re.fullmatch(r"[0:]+", value)) or value.startswith("24:00")))
 
 
 def _says_rerun(text: str) -> bool:
@@ -201,15 +201,14 @@ FUZZY_DURATION_S = 5
 DATE_TITLE = re.compile(r"^\s*la cuisine des mousquetaires?\s+du\s+\d", re.I)
 
 
+def _mmss(seconds: int | None) -> str:
+    """Seconds as "mm:ss" (minutes past 59 kept: "40:12"), empty if unknown."""
+    return "" if not seconds else f"{seconds // 60:02d}:{seconds % 60:02d}"
+
+
 def _durations(group: list[dict]) -> list[int]:
-    """Known durations of the group in seconds (the catalogue sometimes appends frames: 00:13:06:00)."""
-    out = []
-    for r in group:
-        d = (r.get("duree") or "")[:8]
-        if not _blank(d):
-            h, m, sec = map(int, d.split(":"))
-            out.append(h * 3600 + m * 60 + sec)
-    return out
+    """Known durations of the group in seconds."""
+    return [r["duree_s"] for r in group if r.get("duree_s")]
 
 
 def _same_duration(a: list[int], b: list[int], tolerance: int) -> bool:
@@ -333,8 +332,8 @@ def select_episodes(rows: list[dict]) -> list[dict]:
             continue
         best = min((r for r in g if r["date_iso"] == premiere), key=_rank)      # the first run
         filled = {**best, **_filled(best, g, premiere)}
-        out.append({**filled, "titre_propre": display_title(filled["titre_propre"]),
-                    **{k: None for k in VIDEO_FIELDS}, **_video(g, best), "premiere_date": premiere,
+        out.append({**filled, "titre_propre": display_title(filled["titre_propre"]), "duree": _mmss(filled.get("duree_s")),
+                    **{k: None for k in VIDEO_FIELDS}, "youtube_duree": None, **_video(g, best), "premiere_date": premiere,
                     "date_incertaine": "oui" if uncertain else "", "n_diffusions": len(g),
                     "type_premiere_diffusion": "régionale" if best["chaine"] in REGIONAL else "nationale",
                     "chaines": " ; ".join(dict.fromkeys(r["chaine"] for r in sorted(g, key=_rank) if r["chaine"])),

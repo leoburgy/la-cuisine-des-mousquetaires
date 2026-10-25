@@ -77,3 +77,9 @@ def test_keep_result_row_is_permissive():
     assert not keep_result_row(row(date="07/01/2023"))
     assert not keep_result_row(row(collection="Aquitaine actualités"))
     assert keep_result_row(row(programme="Les cuisines de France"))      # same show, filed under another programme
+
+
+def test_parse_duration_gives_seconds_and_none_for_unknown():
+    from la_cuisine_des_mousquetaires.core.ina import parse_duration
+    assert [parse_duration(t) for t in ("00:13:06", "00:12:56:00", "0:40:12", "00:00:00:00", "24:00:00", "", None, "13 min")] \
+        == [786, 776, 2412, None, None, None, None, None]

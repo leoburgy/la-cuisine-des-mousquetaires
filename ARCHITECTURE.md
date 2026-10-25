@@ -38,7 +38,7 @@ This table records all search and the numbers of returned results.
 The results returned by each search run (run_id).
 
 #### **notice**
-the integrity table for each notice
+the integrity table for each notice, with `duree_s`: the duration in seconds parsed from the raw "Durée" field (NULL when unknown, the catalogue's `00:00:00` or `24:00` placeholders included). The raw text stays in `notice_field`; `scrape-ina` adds and fills the column in a database made before it existed.
 
 #### **notice_field**
 records any field of notices

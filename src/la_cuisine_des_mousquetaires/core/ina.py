@@ -168,6 +168,14 @@ def parse_notice_page(html: str) -> list[Field]:
     return fields
 
 
+def parse_duration(text: str | None) -> int | None:
+    """Seconds of a catalogue duration: "00:13:06", or "00:13:06:00" (frames appended). None when the catalogue
+    stands in "unknown" with zeros or 24:00."""
+    m = re.fullmatch(r"\s*(\d+):(\d\d):(\d\d)(?::\d\d)?\s*", text or "")
+    seconds = int(m[1]) * 3600 + int(m[2]) * 60 + int(m[3]) if m and m[1] != "24" else 0
+    return seconds or None
+
+
 def split_items(field: Field) -> list[dict]:
     if field.code not in LIST_FIELDS:
         return []
