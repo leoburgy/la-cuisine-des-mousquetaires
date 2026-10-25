@@ -18,6 +18,7 @@ from la_cuisine_des_mousquetaires.core.spelling import WORDS, correct
     ("Coeur de boeuf aux oeufs", "Cœur de bœuf aux œufs"),
     ("Saucisse deToulouse, steacks", "Saucisse de Toulouse, steaks"),
     ("Betisier", "Bêtisier"),
+    ("Aumonière de homard", "Aumônière de homard"),
     ("Baëkeoffe et rognons", "Baeckeoffe et rognons"),
     ("Tarte aux pomes et capres sariette", "Tarte aux pommes et câpres sarriette"),
     ("Pâté à la grecque", "Pâté à la grecque"),

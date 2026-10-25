@@ -9,7 +9,7 @@ import re
 
 # Misspelling -> spelling (lower case). Typos, missing accents and the ligatures oe -> œ.
 WORDS = {
-    "aperges": "asperges", "capres": "câpres", "cepes": "cèpes", "cêpes": "cèpes", "ceps": "cèpes",
+    "aperges": "asperges", "aumonière": "aumônière", "aumonières": "aumônières", "capres": "câpres", "cepes": "cèpes", "cêpes": "cèpes", "ceps": "cèpes",
     "coeur": "cœur", "coeurs": "cœurs", "boeuf": "bœuf", "boeufs": "bœufs", "oeuf": "œuf", "oeufs": "œufs",
     "croute": "croûte", "dombres": "dombrés", "dombies": "dombrés", "echalotte": "échalote", "echalottes": "échalotes",
     "échalotte": "échalote", "échalottes": "échalotes", "ecossaise": "écossaise", "ecrevisses": "écrevisses",
