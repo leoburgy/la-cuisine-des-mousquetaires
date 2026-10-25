@@ -87,6 +87,23 @@ DISPLAY_PREFIX = re.compile(r"^\s*la cuisine des mousquetaires?(?:\s+du\s[^:]*|,
 UNNAMED = re.compile(r"^\s*la cuisine des mousquetaires?\s+(du\s+\d[^:-]*?)\s*(-\s*incomplet)?\s*$", re.I)
 
 
+# "Saint Jacques", "St Jacques", "st jacques", "SAINT HUBERT": the saint's name is hyphenated and capitalised.
+SAINT = re.compile(r"\b(saint|sainte|st|ste)\.?[ -]+([^\W\d_]{2,})", re.I)
+CAPITALS = re.compile(r"\b(?![IVXLC]+\b)[A-ZÀ-ÖØ-Þ]{2,}\b")       # not the Roman numerals ("Henri IV")
+
+
+def _typography(title: str) -> str:
+    """Words in capitals are capitalised ("MAZERE" -> "Mazere"); "St", "Saint" and "Ste" are written out and joined
+    by a hyphen to the capitalised name that follows."""
+    title = CAPITALS.sub(lambda m: m[0].capitalize(), title)
+
+    def saint(m: re.Match) -> str:
+        if m[2].lower() in STOPWORDS:        # "saint et ...": not a name
+            return m[0]
+        return ("Sainte-" if m[1].lower() in ("sainte", "ste") else "Saint-") + m[2][0].upper() + m[2][1:]
+    return SAINT.sub(saint, title)
+
+
 # "Spécial Jean BARDET : rognons", "Spéciale avec A. DAGUIN : brochettes", "Spécial Didier Oudill: papillotes": the
 # episodes with a guest chef, written every which way. Listed as "Spéciale Jean Bardet : rognons".
 SPECIAL = re.compile(r"^Sp[ée]cial(?:e)?(?:\s+avec)?\s+(?P<chef>.+?)(?:\s*:\s*|\s+-\s+|$)(?P<dishes>.*)$", re.I)
@@ -125,7 +142,7 @@ def display_title(title: str) -> str:
         title = title.lower()
     i = next((i for i, c in enumerate(title) if c.isalpha()), None)
     title = title if i is None else title[:i] + title[i].upper() + title[i + 1:]
-    return _special(title)
+    return _special(_typography(title))
 
 
 def _rank(row: dict) -> tuple:
