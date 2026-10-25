@@ -161,8 +161,7 @@ January at midnight, the INA's "year only") never beats a real one; when only pl
 and `date_incertaine` says `oui`. The YouTube video is the best match among all the broadcasts of the episode, since a
 video often shows a rerun.
 
-The default columns are the ones for the wiki article: `premiere_date`, `titre_propre`, `presentateurs`, `chaine`,
-`duree`, `youtube_url` and `notice_path`. All the columns below are available with `--columns`.
+The default columns are the ones for the wiki article: `premiere_date`, `titre_propre`, `chaine`, `duree`, `youtube_url` and `notice_path`. All the columns below are available with `--columns`.
 
 | Column | Meaning |
 |---|---|
