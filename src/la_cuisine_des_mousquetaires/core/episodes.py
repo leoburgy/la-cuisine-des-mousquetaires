@@ -74,8 +74,9 @@ SHOW_PREFIX = re.compile(r"^\s*la cuisine des mousquetaires?\s*:\s*", re.I)
 
 
 def episode_key(title: str | None) -> str:
-    """Title reduced to its significant words: no show prefix, case, accents, punctuation, articles or plural s/x."""
-    plain = unicodedata.normalize("NFKD", SHOW_PREFIX.sub("", title or "").lower()).encode("ascii", "ignore").decode()
+    """Title reduced to its significant words: no show prefix, case, accents, punctuation, articles or plural s/x,
+    and the misspellings and "St" / "Saint" variants of the listed title (so "sace cavigote" is "sauce ravigote")."""
+    plain = unicodedata.normalize("NFKD", correct(_typography(SHOW_PREFIX.sub("", title or ""))).lower()).encode("ascii", "ignore").decode()
     words = [w for w in re.findall(r"[a-z0-9]+", plain) if w not in STOPWORDS]
     return " ".join(w[:-1] if len(w) > 3 and w[-1] in "sx" else w for w in words)
 

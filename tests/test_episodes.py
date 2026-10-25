@@ -318,3 +318,10 @@ def test_saints_are_hyphenated_and_capitals_are_lowered():
     assert [display_title(t) for t in titles] == [
         "Coquilles Saint-Jacques et Saint-Jacques", "Côtelettes Saint-Hubert", "Tartines Saint-Jean", "Poires Sainte-Anne",
         "Sainte-Foy", "Henri IV et saint et sauce", "Poulet à la Christophe"]
+
+
+def test_reruns_typed_with_other_misspellings_merge_whatever_their_durations():
+    rows = [{**row("a", "France 3", "1989-09-26", "Coquilles St Jacques en papillottes et à l'oseille"), "duree_s": 885},
+            {**row("b", "France 3", "1992-04-10", "Coquilles Saint Jacques en papillotes et à l'oseille"), "duree_s": 720}]
+    [ep] = select_episodes(rows)
+    assert (ep["notice_path"], ep["n_diffusions"]) == ("a", 2)
