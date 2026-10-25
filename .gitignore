@@ -231,3 +231,4 @@ out/*
 
 # Local MCP config (machine-specific port)
 .mcp.json
+.DS_Store

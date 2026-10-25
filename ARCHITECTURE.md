@@ -4,6 +4,8 @@
 
 - the goal of this project is to produce a curated list of all episodes of the TV show "la cuisine des mousquetaires".
 - the aggregation must be reproducible and reliable so that one can include the content as a Wiki table under the article (TODO: when published) with no post editing.
+- the project should act as a data product with two sources: ina and youtube. the logic should concentrate information on the first aired show and consider reruns as such but not as standalone rows; the youtube link should be joined to the episodes if existing.
+- the output is a table ready for conversion into wikitable for an wikipedia article listing all episodes.
 
 ## Code structure: functional core, imperative shell
 
@@ -58,6 +60,7 @@ The results are written in the sqlite tables
 `core/matching.py` scores each video against the notices broadcast within a few days and writes the one-to-one result
 to `youtube_match`, which is recomputed on every run. Human corrections are not stored in the database: they live in
 `data/youtube_match_overrides.csv`, applied before the automatic matching (see README, "Correct a match by hand").
+youtube has flanked the episodes with short sequences at beginning and end. It also skipped the generic in most episodes.
 
 ### Export the consolidated table to wiki format
 

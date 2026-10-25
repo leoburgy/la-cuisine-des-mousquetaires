@@ -252,6 +252,24 @@ def _merge_reruns(groups: dict[str, list[dict]]) -> dict[str, list[dict]]:
     return merged
 
 
+# Notices of one episode that no title or duration rule joins, found by hand; each set is one episode.
+SAME_EPISODE = [
+    # 1991 title cut at "au foie" and 4 s longer than 1992; the 1995 rerun has another long title but the 1992 summary
+    {"RE_RBC07108722", "DA_CPC92002462", "TV_22783.001"},
+    # same recipe, durations 4 s apart
+    {"DA_CPC93010948", "RE_RBC08005770"},
+]
+
+
+def _merge_listed(groups: dict[str, list[dict]]) -> dict[str, list[dict]]:
+    """Join the episodes holding notices of one SAME_EPISODE set."""
+    for notices in SAME_EPISODE:
+        keys = [k for k, g in groups.items() if any(r["notice_path"] in notices for r in g)]
+        for k in keys[1:]:
+            groups[keys[0]].extend(groups.pop(k))
+    return groups
+
+
 # Some summaries say which broadcast they repeat: "Rediffusion du 20/01/1988" (sic, "Rediffusino"), or "Rediffusion
 # du 1er épisode de l'émission (1983)".
 RERUN_OF_DATE = re.compile(r"r[ée]diffus\w*\s+(?:de l'[ée]mission\s+)?du\s+(\d{1,2})/(\d{1,2})/(\d{4})", re.I)
@@ -294,7 +312,7 @@ def select_episodes(rows: list[dict]) -> list[dict]:
         key = episode_key(r["titre_propre"])
         groups.setdefault(aliases.get(key, key), []).append(r)
     out = []
-    for g in _merge_declared_reruns(_merge_reruns(groups)).values():
+    for g in _merge_declared_reruns(_merge_listed(_merge_reruns(groups))).values():
         premiere, uncertain = _premiere(g)
         if not premiere or premiere > FIRST_RUN_END:
             continue

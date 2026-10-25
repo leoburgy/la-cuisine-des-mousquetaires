@@ -254,3 +254,12 @@ def test_a_notice_of_the_other_programme_is_kept_only_with_the_show_s_credits():
             cdf("duo", "1992-04-22", "Araignée farcie", "REA,Autre ; PAR,Ordonez Maïté", pre="Ordonez Maïté"),
             cdf("chef", "1992-03-24", "Cuisinez avec Daniel Ancel", "REA,Hattet Alain ; PAR,Ancel Daniel", pre="Ancel Daniel")]
     assert [r["notice_path"] for r in select_episodes(rows)] == ["show", "duo"]
+
+
+def test_notices_listed_by_hand_as_one_episode_are_merged(monkeypatch):
+    from la_cuisine_des_mousquetaires.core import episodes
+    monkeypatch.setattr(episodes, "SAME_EPISODE", [{"x", "y"}])
+    rows = [row("x", "France 3", "1991-10-04", "Salmis au foie"), row("y", "FR3", "1992-03-17", "Palombes et grives")]
+    [ep] = select_episodes(rows)
+    assert (ep["notice_path"], ep["n_diffusions"]) == ("x", 2)
+
