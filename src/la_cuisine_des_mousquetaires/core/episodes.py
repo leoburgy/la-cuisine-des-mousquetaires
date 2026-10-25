@@ -84,10 +84,16 @@ def episode_key(title: str | None) -> str:
 DISPLAY_PREFIX = re.compile(r"^\s*la cuisine des mousquetaires?(?:\s+du\s[^:]*|,[^:]*)?\s*:\s*", re.I)
 
 
+UNNAMED = re.compile(r"^\s*la cuisine des mousquetaires?\s+(du\s+\d[^:-]*?)\s*(-\s*incomplet)?\s*$", re.I)
+
+
 def display_title(title: str) -> str:
     """The title as listed: without the INA's provisional brackets or the show-name prefix, in sentence case when
-    the INA wrote it in capitals, and starting with a capital."""
+    the INA wrote it in capitals, and starting with a capital. A notice that only gives the show and its date
+    names no dish: "La cuisine des mousquetaires du 22 mai 1990" is listed "Émission du 22 mai 1990 (titre non renseigné)"."""
     title = title.strip()
+    if m := UNNAMED.match(title):
+        return f"Émission {m[1]} ({'incomplète, ' if m[2] else ''}titre non renseigné)"
     if title.startswith("[") and title.endswith("]"):
         title = title[1:-1].strip()
     title = DISPLAY_PREFIX.sub("", title).strip()

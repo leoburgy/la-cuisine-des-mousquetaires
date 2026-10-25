@@ -237,7 +237,7 @@ def test_the_listed_title_loses_the_show_name_with_its_date_or_series_but_other_
             row("d", "France 3 Aquitaine", "1993-06-25", "Spéciale Francis Garcia : truites en brochette"),
             row("e", "France 3 Aquitaine", "1990-05-22", "La cuisine des mousquetaires du 22 mai 1990")]
     assert [r["titre_propre"] for r in select_episodes(rows)] == [
-        "Perdrix et faisans", "La cuisine des mousquetaires du 22 mai 1990", "Spéciale centième", "Spéciale centième",
+        "Perdrix et faisans", "Émission du 22 mai 1990 (titre non renseigné)", "Spéciale centième", "Spéciale centième",
         "Spéciale Francis Garcia : truites en brochette"]
 
 
@@ -291,3 +291,10 @@ def test_durations_are_listed_as_minutes_and_seconds():
              "match_confidence": "high", "match_score": 1}]
     got = {r["notice_path"]: (r["duree"], r["youtube_duree"]) for r in select_episodes(rows)}
     assert got == {"a": ("12:44", None), "b": ("40:12", None), "c": ("", None), "d": ("", "13:06")}
+
+
+def test_a_title_that_only_gives_the_date_is_listed_as_unnamed():
+    [ep] = select_episodes([row("a", "France 3 Aquitaine", "1990-05-22", "La cuisine des mousquetaires du 22 mai 1990")])
+    assert ep["titre_propre"] == "Émission du 22 mai 1990 (titre non renseigné)"
+    [ep] = select_episodes([row("b", "France 3 Aquitaine", "1991-04-23", "La cuisine des mousquetaire du 23 avril 1991 -incomplet")])
+    assert ep["titre_propre"] == "Émission du 23 avril 1991 (incomplète, titre non renseigné)"
