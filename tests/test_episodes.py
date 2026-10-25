@@ -325,3 +325,13 @@ def test_reruns_typed_with_other_misspellings_merge_whatever_their_durations():
             {**row("b", "France 3", "1992-04-10", "Coquilles Saint Jacques en papillotes et à l'oseille"), "duree_s": 720}]
     [ep] = select_episodes(rows)
     assert (ep["notice_path"], ep["n_diffusions"]) == ("a", 2)
+
+
+def test_the_later_airings_are_listed_once_a_day():
+    rows = [row("first", "France 3 Aquitaine", "1995-01-07", "Pot au feu"),
+            row("relay", "France 3", "1995-01-07", "Pot au feu"),
+            row("rerun", "France 3", "1996-02-01", "Pot au feu"),
+            row("rerun-1", "France 3", "1996-02-01", "Pot au feu"),
+            row("year", "France 3", "1997-01-01", "Pot au feu", heure="00:00:00")]
+    [ep] = select_episodes(rows)
+    assert ep["rediffusions"] == "1996-02-01 rerun ; 1997 year"

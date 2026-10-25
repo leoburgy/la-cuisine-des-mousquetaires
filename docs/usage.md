@@ -161,7 +161,7 @@ January at midnight, the INA's "year only") never beats a real one; when only pl
 and `date_incertaine` says `oui`. The YouTube video is the best match among all the broadcasts of the episode, since a
 video often shows a rerun.
 
-The default columns are the ones for the wiki article: `premiere_date`, `titre_propre`, `chaine`, `duree`, `youtube_url` and `notice_path`. All the columns below are available with `--columns`.
+The default columns are the ones for the wiki article: `premiere_date`, `titre_propre`, `chaine`, `duree`, `youtube_url`, `rediffusions` and `notice_path`. All the columns below are available with `--columns`.
 
 | Column | Meaning |
 |---|---|
@@ -175,6 +175,7 @@ The default columns are the ones for the wiki article: `premiere_date`, `titre_p
 | `n_diffusions` | Number of notices merged, the first broadcast included. |
 | `derniere_diffusion` | Date of the latest broadcast known. |
 | `chaines` | Channels of all the broadcasts, in order of first airing. |
+| `rediffusions` | The later airings, one per day: `date notice_path` (the year only for a placeholder date). In the wiki table each date links to its notice. |
 | `autres_diffusions` | `notice_path` of the other broadcasts (links in the wiki table). |
 | `duree` | Duration. |
 | `youtube_url`, `youtube_duree`, `match_confidence`, `match_score` | The matched video (see `match`). |

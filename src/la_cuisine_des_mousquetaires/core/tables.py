@@ -36,6 +36,8 @@ def wiki_cell(header: str, value: str) -> str:
         return f"[{value} ▶]"
     if header == "notice_path" and value:
         return f"[{NOTICE_PREFIX}{value} {value}]"
+    if header == "rediffusions" and value:
+        return " ; ".join(f"[{NOTICE_PREFIX}{path} {when}]" for when, path in (a.split(" ", 1) for a in value.split(" ; ")))
     if header == "autres_diffusions" and value:
         return " ; ".join(f"[{NOTICE_PREFIX}{p} {p}]" for p in value.split(" ; "))
     return value
@@ -44,7 +46,7 @@ def wiki_cell(header: str, value: str) -> str:
 # Headers of the wiki table; any other column is shown as its name with spaces and a capital ("n_diffusions" -> "N diffusions").
 WIKI_HEADERS = {
     "premiere_date": "Première diffusion", "titre_propre": "Titre", "chaine": "Chaîne", "duree": "Durée",
-    "youtube_url": "YouTube", "notice_path": "Notice INA",
+    "youtube_url": "YouTube", "rediffusions": "Rediffusions", "notice_path": "Notice INA",
 }
 
 

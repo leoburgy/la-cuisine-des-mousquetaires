@@ -1,5 +1,6 @@
 import pytest
 
+from la_cuisine_des_mousquetaires.core.ina import NOTICE_PREFIX
 from la_cuisine_des_mousquetaires.core.tables import keep_filled, select_columns, tsv_text, wiki_cell, wiki_text
 
 
@@ -34,3 +35,8 @@ def test_wiki_text_layout():
 def test_wiki_headers_are_readable_labels():
     from la_cuisine_des_mousquetaires.core.tables import wiki_header
     assert [wiki_header(c) for c in ("premiere_date", "duree", "n_diffusions")] == ["Première diffusion", "Durée", "N diffusions"]
+
+
+def test_rebroadcasts_are_linked_by_date():
+    assert wiki_cell("rediffusions", "1996-02-01 RE_A ; 1997 RE_B") == (
+        f"[{NOTICE_PREFIX}RE_A 1996-02-01] ; [{NOTICE_PREFIX}RE_B 1997]")

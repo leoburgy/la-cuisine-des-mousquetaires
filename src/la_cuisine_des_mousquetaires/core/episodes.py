@@ -196,6 +196,17 @@ def _placeholder_aliases(shows: list[dict]) -> dict[str, str]:
     return aliases
 
 
+def _rebroadcasts(group: list[dict], first: dict, premiere: str) -> str:
+    """The later airings, one per day, as "date notice_path" separated by " ; ": the INA files a broadcast in several
+    notices (an archive one and a transmission one, or parts "-1", "-2"), of which the first-ranked plain one is kept.
+    A placeholder date is given as its year."""
+    days: dict[str, dict] = {}
+    for r in sorted(group, key=lambda r: (bool(re.search(r"-\d$", r["notice_path"])), _rank(r))):
+        if r is not first and r["date_iso"] != premiere:
+            days.setdefault(r["date_iso"] or "", r)
+    return " ; ".join(f"{(d[:4] if is_placeholder(r) else d)} {r['notice_path']}" for d, r in sorted(days.items()))
+
+
 def _premiere(group: list[dict]) -> tuple[str, bool]:
     """Earliest real date, unless a placeholder dates from an earlier year (then that placeholder, as uncertain)."""
     real = [r["date_iso"] for r in group if r["date_iso"] and not is_placeholder(r)]
@@ -400,7 +411,7 @@ def _merge_declared_reruns(groups: dict[str, list[dict]]) -> dict[str, list[dict
 
 def select_episodes(rows: list[dict]) -> list[dict]:
     """One row per episode, by date, described by its first run (reruns fill what it lacks). Adds premiere_date
-    (date_incertaine when it is a placeholder), n_diffusions, autres_diffusions (the other notices) and presentateurs."""
+    (date_incertaine when it is a placeholder), n_diffusions, autres_diffusions (the other notices), rediffusions (the later airings, one per day) and presentateurs."""
     shows = [r for r in rows if is_show(r)]
     aliases = _placeholder_aliases(shows)
     groups: dict[str, list[dict]] = {}
@@ -420,6 +431,7 @@ def select_episodes(rows: list[dict]) -> list[dict]:
                     "type_premiere_diffusion": "régionale" if best["chaine"] in REGIONAL else "nationale",
                     "chaines": " ; ".join(dict.fromkeys(r["chaine"] for r in sorted(g, key=_rank) if r["chaine"])),
                     "derniere_diffusion": max((r["date_iso"] for r in g if r["date_iso"] and not is_placeholder(r)), default=""),
+                    "rediffusions": _rebroadcasts(g, best, premiere),
                     "autres_diffusions": " ; ".join(r["notice_path"] for r in sorted(g, key=_rank) if r is not best),
                     "presentateurs": " ; ".join(sorted({n for r in g for n in presenters(r["pre"])}))})
     return sorted(out, key=lambda r: (r["premiere_date"], r["heure_diffusion"] or "", r["notice_path"]))

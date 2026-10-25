@@ -31,7 +31,7 @@ TABLES = {
                     LEFT JOIN youtube_match m ON m.notice_path = v.notice_path
                     LEFT JOIN youtube_video yv ON yv.video_id = m.video_id""",
         # what goes on the wiki; every other column of the row is available with --columns
-        "columns": ["premiere_date", "titre_propre", "chaine", "duree", "youtube_url", "notice_path"],
+        "columns": ["premiere_date", "titre_propre", "chaine", "duree", "youtube_url", "rediffusions", "notice_path"],
         "select": select_episodes,
         "matched_only": "youtube_url",
     },
