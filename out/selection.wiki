@@ -135,7 +135,7 @@
 |-
 | 1990-05-15 || Terrine de canettes || France 3 Aquitaine || 13:28 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC9009191992 RE_BOC9009191992]
 |-
-| 1990-05-22 || La cuisine des mousquetaires du 22 mai 1990 || France 3 Aquitaine || 12:25 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07083666 RE_RBC07083666]
+| 1990-05-22 || Émission du 22 mai 1990 (titre non renseigné) || France 3 Aquitaine || 12:25 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07083666 RE_RBC07083666]
 |-
 | 1990-06-12 || Poulet à l'ail et aux herbes || France 3 Aquitaine || 12:45 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC9009191993 RE_BOC9009191993]
 |-
@@ -167,7 +167,7 @@
 |-
 | 1991-04-16 || Bar farci en crépine et ragoût d'aperges || France 3 Aquitaine || 12:40 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07095961 RE_RBC07095961]
 |-
-| 1991-04-23 || La cuisine des mousquetaire du 23 avril 1991 -incomplet || France 3 Aquitaine ||  ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07106943 RE_RBC07106943]
+| 1991-04-23 || Émission du 23 avril 1991 (incomplète, titre non renseigné) || France 3 Aquitaine ||  ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07106943 RE_RBC07106943]
 |-
 | 1991-04-30 || Papillotes de l'océan aux huîtres et aux girolles || France 3 Aquitaine || 12:47 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07095963 RE_RBC07095963]
 |-
@@ -189,7 +189,7 @@
 |-
 | 1991-09-17 || Garbure et lapin au Sauternes et aux girolles || FR3 || 12:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC10005123 DA_CPC10005123]
 |-
-| 1991-09-20 || La cuisine des mousquetaires du 20 septembre 1991 || France 3 Aquitaine || 12:47 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108721 RE_RBC07108721]
+| 1991-09-20 || Émission du 20 septembre 1991 (titre non renseigné) || France 3 Aquitaine || 12:47 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108721 RE_RBC07108721]
 |-
 | 1991-09-24 || Tourte de faisans aux pruneaux || FR3 || 11:35 || [https://www.youtube.com/watch?v=p7yIA_FNbY4 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC91012189 DA_CPC91012189]
 |-
@@ -213,7 +213,7 @@
 |-
 | 1991-12-03 || Coq au vin aux pomes de terre farcies cuites sous la cendre || FR3 || 12:15 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC91014368 DA_CPC91014368]
 |-
-| 1991-12-06 || La cuisine des mousquetaires du 6 décembre 1991 || France 3 Aquitaine || 12:43 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108733 RE_RBC07108733]
+| 1991-12-06 || Émission du 6 décembre 1991 (titre non renseigné) || France 3 Aquitaine || 12:43 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108733 RE_RBC07108733]
 |-
 | 1991-12-10 || Crépinette au foie gras et dinde farcie au caille || FR3 || 14:26 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC91014509 DA_CPC91014509]
 |-
@@ -229,7 +229,7 @@
 |-
 | 1992-01-17 || Cuissot de chevreuil sauce grand veneur et terrine de chevreuil || France 3 Aquitaine || 12:22 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108741 RE_RBC07108741]
 |-
-| 1992-01-24 || La cuisine des mousquetaires du 24 janvier 1992 || France 3 Aquitaine || 12:33 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108744 RE_RBC07108744]
+| 1992-01-24 || Émission du 24 janvier 1992 (titre non renseigné) || France 3 Aquitaine || 12:33 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108744 RE_RBC07108744]
 |-
 | 1992-01-28 || Surprises au foie gras avec sauce au fumet || FR3 || 13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92001052 DA_CPC92001052]
 |-
@@ -279,7 +279,7 @@
 |-
 | 1992-05-22 || Lotte à l'américaine, soles farcies et filets de bar marinés || France 3 Aquitaine ||  ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108759 RE_RBC07108759]
 |-
-| 1992-05-25 || La cuisine des mousquetaires du 25 mai 1992 || France 3 Aquitaine || 13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07112985 RE_RBC07112985]
+| 1992-05-25 || Émission du 25 mai 1992 (titre non renseigné) || France 3 Aquitaine || 13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07112985 RE_RBC07112985]
 |-
 | 1992-06-05 || Araignée de mer farcie || FR3 || 12:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92004589 DA_CPC92004589]
 |-
@@ -289,19 +289,19 @@
 |-
 | 1992-06-16 || Surprises de foie gras au fumet de vieux ceps || FR3 || 12:09 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92005440 DA_CPC92005440]
 |-
-| 1992-06-18 || La cuisine des mousquetaires du 18 juin 1992 || France 3 Aquitaine ||  ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08006279 RE_RBC08006279]
+| 1992-06-18 || Émission du 18 juin 1992 (titre non renseigné) || France 3 Aquitaine ||  ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08006279 RE_RBC08006279]
 |-
 | 1992-06-19 || Bar poché et tranche de bar au champagne || FR3 || 12:14 || [https://www.youtube.com/watch?v=2zyFbL2HSZg ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92016999 DA_CPC92016999]
 |-
 | 1992-06-26 || Calamars farcis - ragout de seiches || FR3 || 12:44 || [https://www.youtube.com/watch?v=IKKyVcP1GfI ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92006179 DA_CPC92006179]
 |-
-| 1992-06-26 || La cuisine des mousquetaires du 26 juin 1992 || France 3 Aquitaine || 12:40 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08006516 RE_RBC08006516]
+| 1992-06-26 || Émission du 26 juin 1992 (titre non renseigné) || France 3 Aquitaine || 12:40 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08006516 RE_RBC08006516]
 |-
 | 1992-07-04 || Papillottes de blettes aux huitres et aux Saint Jacques || FR3 || 13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92012078 DA_CPC92012078]
 |-
 | 1992-09-14 || Gigue de chevreuil sauce et terrine de chevreuil || France 3 || 11:53 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92011344 DA_CPC92011344]
 |-
-| 1992-09-27 || La cuisine des mousquetaires du 27 septembre 1992 || France 3 Aquitaine ||  ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08007724 RE_RBC08007724]
+| 1992-09-27 || Émission du 27 septembre 1992 (titre non renseigné) || France 3 Aquitaine ||  ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08007724 RE_RBC08007724]
 |-
 | 1992-10-04 || Moules marinières, mouclade et églade || France 3 Aquitaine || 12:55 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108908 RE_RBC07108908]
 |-
@@ -340,8 +340,6 @@
 | 1992-12-31 || Entrecôte à la moëlle au vin rouge, et au champagne et aux girolles || France 3 || 12:10 || [https://www.youtube.com/watch?v=PE0dfpD7Jz0 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93001726 DA_CPC93001726]
 |-
 | 1993-01-01 || Salade landaise et légumes farcis || France 3 || 12:25 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93001753 DA_CPC93001753]
-|-
-| 1993-01-02 || Bêtisier de la cuisine des mousquetaires || France 3 || 38:15 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93001816 DA_CPC93001816]
 |-
 | 1993-01-05 || Coq au vin || France 3 || 13:12 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93001990 DA_CPC93001990]
 |-
@@ -419,7 +417,7 @@
 |-
 | 1993-05-03 || Artichaut céleri, fenouil et oignons farcis || France 3 || 13:17 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93005718 DA_CPC93005718]
 |-
-| 1993-05-04 || La cuisine des mousquetaires du 4 mai 1993 || France 3 Aquitaine || 12:52 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108780 RE_RBC07108780]
+| 1993-05-04 || Émission du 4 mai 1993 (titre non renseigné) || France 3 Aquitaine || 12:52 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108780 RE_RBC07108780]
 |-
 | 1993-05-07 || Bouillon blanc de langoustines, brochettes d'huîtres au lard || France 3 || 13:12 || [https://www.youtube.com/watch?v=Sp5PNf_QkMU ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93005781 DA_CPC93005781]
 |-
@@ -525,7 +523,7 @@
 |-
 | 1993-12-14 || Faisan aux pommes et aux raisins et lapin aux cêpes || France 3 || 12:28 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93013078 DA_CPC93013078]
 |-
-| 1993-12-15 || La cuisine des mousquetaires du 15 décembre 1993 || France 3 Aquitaine || 13:46 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08023010 RE_RBC08023010]
+| 1993-12-15 || Émission du 15 décembre 1993 (titre non renseigné) || France 3 Aquitaine || 13:46 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08023010 RE_RBC08023010]
 |-
 | 1994-01-17 || Perdreaux rôtis à l'entre deux mers et cèpes aux feuilles de vigne || France 3 || 13:04 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94000685 DA_CPC94000685]
 |-

@@ -278,6 +278,8 @@ SAME_EPISODE = [
     {"RE_RBC07108722", "DA_CPC92002462", "TV_22783.001"},
     # same recipe, durations 4 s apart
     {"DA_CPC93010948", "RE_RBC08005770"},
+    # the same 38-minute special under two titles, a week apart (38:15 both)
+    {"RE_RBC07108923", "DA_CPC93001816"},
 ]
 
 
