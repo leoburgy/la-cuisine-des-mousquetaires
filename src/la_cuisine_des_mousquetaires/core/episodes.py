@@ -11,6 +11,7 @@ import re
 import unicodedata
 
 from .ina import FIRST_RUN_END, TITLE
+from .spelling import correct
 
 SHOW = TITLE
 
@@ -142,7 +143,7 @@ def display_title(title: str) -> str:
         title = title.lower()
     i = next((i for i, c in enumerate(title) if c.isalpha()), None)
     title = title if i is None else title[:i] + title[i].upper() + title[i + 1:]
-    return _special(_typography(title))
+    return _special(correct(_typography(title)))
 
 
 def _rank(row: dict) -> tuple:

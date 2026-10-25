@@ -25,7 +25,7 @@
 |-
 | 1985-09-27 || La galette aux cèpes || France 3 Aquitaine || 13:30 || [https://www.youtube.com/watch?v=KHIrLkzzPiM ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8909260594 RE_BOC8909260594]
 |-
-| 1985-10-04 || Cêpes Bordelais et magret de canard || France 3 Aquitaine || 13:24 || [https://www.youtube.com/watch?v=QwqZzySotLI ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8909260595 RE_BOC8909260595]
+| 1985-10-04 || Cèpes Bordelais et magret de canard || France 3 Aquitaine || 13:24 || [https://www.youtube.com/watch?v=QwqZzySotLI ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8909260595 RE_BOC8909260595]
 |-
 | 1985-10-18 || Lapin aux girolles et au sauterne || France 3 Aquitaine || 14:30 || [https://www.youtube.com/watch?v=8b3EuP2sTJk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8909260596 RE_BOC8909260596]
 |-
@@ -45,7 +45,7 @@
 |-
 | 1988-03-16 || Le canard en blanquette || France 3 Aquitaine || 13:34 || [https://www.youtube.com/watch?v=LVWJ6Y09ncw ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230346 RE_BOC8908230346]
 |-
-| 1988-03-30 || Les escargots à la Gasconne || France 3 Aquitaine || 13:56 || [https://www.youtube.com/watch?v=6h86TeUAcxk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230345 RE_BOC8908230345]
+| 1988-03-30 || Les escargots à la gasconne || France 3 Aquitaine || 13:56 || [https://www.youtube.com/watch?v=6h86TeUAcxk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230345 RE_BOC8908230345]
 |-
 | 1988-04-06 || Triomphes au foie gras || France 3 Aquitaine || 14:32 || [https://www.youtube.com/watch?v=dAzMT-1n1os ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230344 RE_BOC8908230344]
 |-
@@ -53,7 +53,7 @@
 |-
 | 1988-05-04 || Saumon à l'oseille en papillotes et saumon au champagne || France 3 Aquitaine || 14:55 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230342 RE_BOC8908230342]
 |-
-| 1988-05-18 || Saumon au vin rouge et saumon à la Gasconne || France 3 Aquitaine || 16:00 || [https://www.youtube.com/watch?v=F_cF_uh4qRw ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230341 RE_BOC8908230341]
+| 1988-05-18 || Saumon au vin rouge et saumon à la gasconne || France 3 Aquitaine || 16:00 || [https://www.youtube.com/watch?v=F_cF_uh4qRw ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230341 RE_BOC8908230341]
 |-
 | 1988-06-15 || Truite farcie aux girolles, truite aux épices, et truite aux amandes et raisins secs || France 3 Aquitaine || 14:30 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8908230340 RE_BOC8908230340]
 |-
@@ -67,7 +67,7 @@
 |-
 | 1989-02-21 || Trois soupes de fruits de mer : moules, huîtres, et écrevisses || France 3 Aquitaine || 13:38 || [https://www.youtube.com/watch?v=Uwuu4gYi-U0 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030124 RE_BOC8907030124]
 |-
-| 1989-03-28 || La lamproie à la Bordelaise || France 3 Aquitaine || 14:15 || [https://www.youtube.com/watch?v=kymVKdCPfVE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030123 RE_BOC8907030123]
+| 1989-03-28 || La lamproie à la bordelaise || France 3 Aquitaine || 14:15 || [https://www.youtube.com/watch?v=kymVKdCPfVE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030123 RE_BOC8907030123]
 |-
 | 1989-04-04 || Alose grillée sauce verte, alose farcie à l'oseille, filets d'alose marinés au vermouth || France 3 Aquitaine || 12:25 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030122 RE_BOC8907030122]
 |-
@@ -77,11 +77,11 @@
 |-
 | 1989-05-09 || Ris de veau au sauternes et gratin de courgettes || France 3 Aquitaine || 14:31 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030119 RE_BOC8907030119]
 |-
-| 1989-05-17 || Le chevreuil a la royale || France 3 Aquitaine || 15:20 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030118 RE_BOC8907030118]
+| 1989-05-17 || Le chevreuil à la royale || France 3 Aquitaine || 15:20 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030118 RE_BOC8907030118]
 |-
-| 1989-05-23 || Le poulet d'Aramis farci au foie grac et à l'armagnac || France 3 Aquitaine || 14:41 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030117 RE_BOC8907030117]
+| 1989-05-23 || Le poulet d'Aramis farci au foie gras et à l'armagnac || France 3 Aquitaine || 14:41 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030117 RE_BOC8907030117]
 |-
-| 1989-06-13 || Dodine de volaille au foie gras et sauternes et pommes Sarladaises || France 3 Aquitaine || 13:06 || [https://www.youtube.com/watch?v=7oLPUZzLtZQ ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030116 RE_BOC8907030116]
+| 1989-06-13 || Dodine de volaille au foie gras et sauternes et pommes sarladaises || France 3 Aquitaine || 13:06 || [https://www.youtube.com/watch?v=7oLPUZzLtZQ ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030116 RE_BOC8907030116]
 |-
 | 1989-06-20 || Fricassée de poissons et fruits de mer au sauterne et à l'armagnac || France 3 Aquitaine || 14:59 || [https://www.youtube.com/watch?v=zZtIsw7dMQA ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC8907030115 RE_BOC8907030115]
 |-
@@ -89,7 +89,7 @@
 |-
 | 1989-09-19 || Coq au vin et pommes de terre farcies sous la cendre || France 3 Aquitaine || 13:36 || [https://www.youtube.com/watch?v=19J3raDHI80 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07022460 RE_RBC07022460]
 |-
-| 1989-09-26 || Coquilles Saint-Jacques en papillottes et à l'oseille || France 3 Aquitaine || 14:45 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC06069255 RE_RBC06069255]
+| 1989-09-26 || Coquilles Saint-Jacques en papillotes et à l'oseille || France 3 Aquitaine || 14:45 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC06069255 RE_RBC06069255]
 |-
 | 1989-10-01 || Magazine de La cuisine des mousquetaires || France 3 Aquitaine || 13:38 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BOC9009191985 RE_BOC9009191985]
 |-
@@ -103,7 +103,7 @@
 |-
 | 1989-11-07 || Poule farcie en daube || France 3 Aquitaine || 15:20 || [https://www.youtube.com/watch?v=dMYUwvfHtqA ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07071722 RE_RBC07071722]
 |-
-| 1989-11-14 || Tourin à l'ivrogne et lapin à l'Armagnac || France 3 Aquitaine || 14:03 || [https://www.youtube.com/watch?v=Py57IJ3QjlE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07035070 RE_RBC07035070]
+| 1989-11-14 || Tourin à l'ivrogne et lapin à l'armagnac || France 3 Aquitaine || 14:03 || [https://www.youtube.com/watch?v=Py57IJ3QjlE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07035070 RE_RBC07035070]
 |-
 | 1989-11-21 || Canards de Barbarie et poireaux braisés || France 3 Aquitaine || 13:47 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC06068102 RE_RBC06068102]
 |-
@@ -117,11 +117,11 @@
 |-
 | 1989-12-26 || Homard flambé à l'armagnac et aiguillettes de canard à la royale farcies au foie gras || France 3 Aquitaine || 15:06 || [https://www.youtube.com/watch?v=vEUNhSX46LE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07071921 RE_RBC07071921]
 |-
-| 1990-01-16 || Canard au Saint-Emilion flambé à l'Armagnac || France 3 Aquitaine || 15:23 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07083587 RE_RBC07083587]
+| 1990-01-16 || Canard au Saint-Émilion flambé à l'armagnac || France 3 Aquitaine || 15:23 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07083587 RE_RBC07083587]
 |-
 | 1990-01-30 || Le cassoulet landais de Rion-des-Landes || France 3 Aquitaine || 15:23 || [https://www.youtube.com/watch?v=d8co6bfSnns ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07083593 RE_RBC07083593]
 |-
-| 1990-02-06 || Carbonnade au fois gras, carbonnade gasconne || France 3 Aquitaine ||  || [https://www.youtube.com/watch?v=mkozk95gIrA ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07039065 RE_RBC07039065]
+| 1990-02-06 || Carbonnade au foie gras, carbonnade gasconne || France 3 Aquitaine ||  || [https://www.youtube.com/watch?v=mkozk95gIrA ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07039065 RE_RBC07039065]
 |-
 | 1990-02-27 || Friand de poissons et beignets de langoustines || France 3 Aquitaine || 14:33 || [https://www.youtube.com/watch?v=hK9MBhcT24c ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07083645 RE_RBC07083645]
 |-
@@ -161,11 +161,11 @@
 |-
 | 1991-03-12 || L'escalope de saumon à la purée de cèpes || France 3 Aquitaine || 13:54 || [https://www.youtube.com/watch?v=DbArqef_t3U ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07095947 RE_RBC07095947]
 |-
-| 1991-03-19 || Tournedos d'anguille au Saint-Emilion || France 3 Aquitaine || 13:14 || [https://www.youtube.com/watch?v=1EjD253Vk24 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07095951 RE_RBC07095951]
+| 1991-03-19 || Tournedos d'anguille au Saint-Émilion || France 3 Aquitaine || 13:14 || [https://www.youtube.com/watch?v=1EjD253Vk24 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07095951 RE_RBC07095951]
 |-
 | 1991-04-02 || Paella de la côte basque || France 3 Aquitaine || 13:46 || [https://www.youtube.com/watch?v=LGnMr2DXADM ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07095958 RE_RBC07095958]
 |-
-| 1991-04-16 || Bar farci en crépine et ragoût d'aperges || France 3 Aquitaine || 12:40 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07095961 RE_RBC07095961]
+| 1991-04-16 || Bar farci en crépine et ragoût d'asperges || France 3 Aquitaine || 12:40 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07095961 RE_RBC07095961]
 |-
 | 1991-04-23 || Émission du 23 avril 1991 (incomplète, titre non renseigné) || France 3 Aquitaine ||  ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07106943 RE_RBC07106943]
 |-
@@ -179,11 +179,11 @@
 |-
 | 1991-07-25 || Omelette aux langoustines || FR3 || 13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC91010708 DA_CPC91010708]
 |-
-| 1991-07-27 || Paté de cèpes au foie gras et en croûte || FR3 || 15:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC91010709 DA_CPC91010709]
+| 1991-07-27 || Pâté de cèpes au foie gras et en croûte || FR3 || 15:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC91010709 DA_CPC91010709]
 |-
 | 1991-09-10 || Trois recettes de foie gras || FR3 || 11:44 || [https://www.youtube.com/watch?v=pWzv2JOMCQY ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC91011775 DA_CPC91011775]
 |-
-| 1991-09-10 || Meusclade de poissons et de crustacés || FR3 || 11:41 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC10005121 DA_CPC10005121]
+| 1991-09-10 || Mouclade de poissons et de crustacés || FR3 || 11:41 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC10005121 DA_CPC10005121]
 |-
 | 1991-09-17 || Magret de canard farci au foie gras et aux cèpes || FR3 || 13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC91011923 DA_CPC91011923]
 |-
@@ -211,7 +211,7 @@
 |-
 | 1991-11-26 || Cassoulet de Rion des Landes || FR3 || 13:17 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92012426 DA_CPC92012426]
 |-
-| 1991-12-03 || Coq au vin aux pomes de terre farcies cuites sous la cendre || FR3 || 12:15 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC91014368 DA_CPC91014368]
+| 1991-12-03 || Coq au vin aux pommes de terre farcies cuites sous la cendre || FR3 || 12:15 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC91014368 DA_CPC91014368]
 |-
 | 1991-12-06 || Émission du 6 décembre 1991 (titre non renseigné) || France 3 Aquitaine || 12:43 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108733 RE_RBC07108733]
 |-
@@ -219,7 +219,7 @@
 |-
 | 1991-12-10 || Aumonière de homard à la crème de homard || FR3 || 10:59 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC10005170 DA_CPC10005170]
 |-
-| 1991-12-17 || Papillotes de blettes aux huitres, au Saint-Jacques et à la lotte || FR3 || 11:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC10004993 DA_CPC10004993]
+| 1991-12-17 || Papillotes de blettes aux huîtres, au Saint-Jacques et à la lotte || FR3 || 11:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC10004993 DA_CPC10004993]
 |-
 | 1991-12-27 || Soupe poissons de fête et filet de sole au champagne || France 3 Aquitaine || 12:43 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108737 RE_RBC07108737]
 |-
@@ -239,7 +239,7 @@
 |-
 | 1992-02-07 || La fricassée de poissons au Sauternes || FR3 || 13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92001454 DA_CPC92001454]
 |-
-| 1992-02-07 || Gratinées, oeufs pochés et poires au champagne || France 3 Aquitaine || 13:33 || [https://www.youtube.com/watch?v=cbqIMI9jjos ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108749 RE_RBC07108749]
+| 1992-02-07 || Gratinées, œufs pochés et poires au champagne || France 3 Aquitaine || 13:33 || [https://www.youtube.com/watch?v=cbqIMI9jjos ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108749 RE_RBC07108749]
 |-
 | 1992-02-14 || Repas de Saint-Valentin || FR3 || 13:20 || [https://www.youtube.com/watch?v=G5LbmJsRyC4 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92001475 DA_CPC92001475]
 |-
@@ -247,7 +247,7 @@
 |-
 | 1992-02-21 || Piballes et truite au sauterne || FR3 || 13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92001738 DA_CPC92001738]
 |-
-| 1992-02-28 || Bar farci en crépine et ragout d'asperges || FR3 || 11:31 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92001855 DA_CPC92001855]
+| 1992-02-28 || Bar farci en crépine et ragoût d'asperges || FR3 || 11:31 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92001855 DA_CPC92001855]
 |-
 | 1992-03-03 || Cochon de lait farci accompagné de haricots landais || FR3 || 12:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92002026 DA_CPC92002026]
 |-
@@ -265,9 +265,9 @@
 |-
 | 1992-04-21 || Ris de veau au fumet de vieux cèpes accompagnés d'une galette de pomme de terre || FR3 || 12:46 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92003317 DA_CPC92003317]
 |-
-| 1992-04-21 || Carbonnade farci au fois gras || FR3 || 12:10 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94002252 DA_CPC94002252]
+| 1992-04-21 || Carbonnade farci au foie gras || FR3 || 12:10 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94002252 DA_CPC94002252]
 |-
-| 1992-05-01 || Soles farcies au crabe et à la sauce aux capres || FR3 || 11:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92012448 DA_CPC92012448]
+| 1992-05-01 || Soles farcies au crabe et à la sauce aux câpres || FR3 || 11:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92012448 DA_CPC92012448]
 |-
 | 1992-05-08 || Soupe de poissons filets de sole au champagne || FR3 || 11:51 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92003715 DA_CPC92003715]
 |-
@@ -287,17 +287,17 @@
 |-
 | 1992-06-12 || Moules marinières || FR3 || 13:00 || [https://www.youtube.com/watch?v=sVw8ycCPHaw ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92005006 DA_CPC92005006]
 |-
-| 1992-06-16 || Surprises de foie gras au fumet de vieux ceps || FR3 || 12:09 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92005440 DA_CPC92005440]
+| 1992-06-16 || Surprises de foie gras au fumet de vieux cèpes || FR3 || 12:09 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92005440 DA_CPC92005440]
 |-
 | 1992-06-18 || Émission du 18 juin 1992 (titre non renseigné) || France 3 Aquitaine ||  ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08006279 RE_RBC08006279]
 |-
 | 1992-06-19 || Bar poché et tranche de bar au champagne || FR3 || 12:14 || [https://www.youtube.com/watch?v=2zyFbL2HSZg ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92016999 DA_CPC92016999]
 |-
-| 1992-06-26 || Calamars farcis - ragout de seiches || FR3 || 12:44 || [https://www.youtube.com/watch?v=IKKyVcP1GfI ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92006179 DA_CPC92006179]
+| 1992-06-26 || Calamars farcis - ragoût de seiches || FR3 || 12:44 || [https://www.youtube.com/watch?v=IKKyVcP1GfI ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92006179 DA_CPC92006179]
 |-
 | 1992-06-26 || Émission du 26 juin 1992 (titre non renseigné) || France 3 Aquitaine || 12:40 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08006516 RE_RBC08006516]
 |-
-| 1992-07-04 || Papillottes de blettes aux huitres et aux Saint-Jacques || FR3 || 13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92012078 DA_CPC92012078]
+| 1992-07-04 || Papillotes de blettes aux huîtres et aux Saint-Jacques || FR3 || 13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92012078 DA_CPC92012078]
 |-
 | 1992-09-14 || Gigue de chevreuil sauce et terrine de chevreuil || France 3 || 11:53 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92011344 DA_CPC92011344]
 |-
@@ -305,17 +305,17 @@
 |-
 | 1992-10-04 || Moules marinières, mouclade et églade || France 3 Aquitaine || 12:55 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108908 RE_RBC07108908]
 |-
-| 1992-10-12 || Pate de cepes de foie gras en croute - garbure de l'ocean || France 3 || 13:45 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92012912 DA_CPC92012912]
+| 1992-10-12 || Pâté de cèpes de foie gras en croûte - garbure de l'océan || France 3 || 13:45 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92012912 DA_CPC92012912]
 |-
 | 1992-10-18 || Brandade de morue, morue à la biscaye || France 3 Aquitaine || 12:38 || [https://www.youtube.com/watch?v=Y5iwVkz6JXI ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108911 RE_RBC07108911]
 |-
-| 1992-10-20 || Cochon de lait farci au foie gras a la broche || France 3 || 12:23 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92013359 DA_CPC92013359]
+| 1992-10-20 || Cochon de lait farci au foie gras à la broche || France 3 || 12:23 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92013359 DA_CPC92013359]
 |-
-| 1992-10-23 || Soupe de poissons de fete et filets de soles || France 3 || 12:13 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92013808 DA_CPC92013808]
+| 1992-10-23 || Soupe de poissons de fête et filets de soles || France 3 || 12:13 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92013808 DA_CPC92013808]
 |-
 | 1992-11-15 || Soupe à l 'oignon au champagne, cailles champenoises || France 3 Aquitaine || 12:28 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108915 RE_RBC07108915]
 |-
-| 1992-11-22 || Boeuf en daube, boeuf mode || France 3 Aquitaine || 12:45 || [https://www.youtube.com/watch?v=YlytQHRNY_w ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108916 RE_RBC07108916]
+| 1992-11-22 || Bœuf en daube, bœuf mode || France 3 Aquitaine || 12:45 || [https://www.youtube.com/watch?v=YlytQHRNY_w ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108916 RE_RBC07108916]
 |-
 | 1992-11-24 || Foie de veau à la rionnaise et foie de veau girondine || France 3 || 12:50 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC92016273 DA_CPC92016273]
 |-
@@ -337,7 +337,7 @@
 |-
 | 1992-12-28 || Terrine de foie gras, foie gras poêlé aux fruits || France 3 || 12:50 || [https://www.youtube.com/watch?v=vInOZAqe7cw ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93001170 DA_CPC93001170]
 |-
-| 1992-12-31 || Entrecôte à la moëlle au vin rouge, et au champagne et aux girolles || France 3 || 12:10 || [https://www.youtube.com/watch?v=PE0dfpD7Jz0 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93001726 DA_CPC93001726]
+| 1992-12-31 || Entrecôte à la moelle au vin rouge, et au champagne et aux girolles || France 3 || 12:10 || [https://www.youtube.com/watch?v=PE0dfpD7Jz0 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93001726 DA_CPC93001726]
 |-
 | 1993-01-01 || Salade landaise et légumes farcis || France 3 || 12:25 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93001753 DA_CPC93001753]
 |-
@@ -349,21 +349,21 @@
 |-
 | 1993-01-15 || Homard du pays basque aux herbes || France 3 || 12:33 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93002497 DA_CPC93002497]
 |-
-| 1993-01-17 || Tête de veau sace cavigote, poitrine de veau farcie || France 3 Aquitaine || 12:37 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108948 RE_RBC07108948]
+| 1993-01-17 || Tête de veau sauce ravigote, poitrine de veau farcie || France 3 Aquitaine || 12:37 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108948 RE_RBC07108948]
 |-
 | 1993-01-18 || Soupe de crabe aux coquillages || France 3 || 13:01 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93002542 DA_CPC93002542]
 |-
 | 1993-01-24 || Poulet basquaise et piperade || France 3 Aquitaine || 12:16 || [https://www.youtube.com/watch?v=BeP78V3xeWM ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108949 RE_RBC07108949]
 |-
-| 1993-01-25 || Tête de veau sauce ravigotte || France 3 || 12:37 || [https://www.youtube.com/watch?v=HpLE0V_-jgE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93002197 DA_CPC93002197]
+| 1993-01-25 || Tête de veau sauce ravigote || France 3 || 12:37 || [https://www.youtube.com/watch?v=HpLE0V_-jgE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93002197 DA_CPC93002197]
 |-
 | 1993-01-31 || Canard au champagne et canette farcie champenoise || France 3 Aquitaine || 12:41 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108951 RE_RBC07108951]
 |-
 | 1993-02-07 || Bécasse au champagne et salmis de bécasse au champagne || France 3 Aquitaine || 12:38 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC07108955 RE_RBC07108955]
 |-
-| 1993-02-10 || Betisier spécial dix ans || France 3 Aquitaine || 47:06 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BXC9302110197 RE_BXC9302110197]
+| 1993-02-10 || Bêtisier spécial dix ans || France 3 Aquitaine || 47:06 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_BXC9302110197 RE_BXC9302110197]
 |-
-| 1993-02-11 || Canard a la broche et poireaux braises || France 3 || 12:56 || [https://www.youtube.com/watch?v=wbBQJTB5vEg ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93002567 DA_CPC93002567]
+| 1993-02-11 || Canard à la broche et poireaux braises || France 3 || 12:56 || [https://www.youtube.com/watch?v=wbBQJTB5vEg ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93002567 DA_CPC93002567]
 |-
 | 1993-02-12 || Morue en beignets, marinée et crêpes de courgettes || France 3 || 12:35 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93002943 DA_CPC93002943]
 |-
@@ -371,17 +371,17 @@
 |-
 | 1993-02-19 || Filet de dorade aux girolles sucré salé, gambas basquaises || France 3 || 13:17 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93003276 DA_CPC93003276]
 |-
-| 1993-02-22 || Langue de boeuf : à la sauce aux capres et à la sauce vinaigrette || France 3 || 12:58 || [https://www.youtube.com/watch?v=Pk3hzlImahk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93003292 DA_CPC93003292]
+| 1993-02-22 || Langue de bœuf : à la sauce aux câpres et à la sauce vinaigrette || France 3 || 12:58 || [https://www.youtube.com/watch?v=Pk3hzlImahk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93003292 DA_CPC93003292]
 |-
 | 1993-02-23 || Choux farcis à la viande et aux crustacés || France 3 || 13:05 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93003307 DA_CPC93003307]
 |-
-| 1993-03-01 || Paté de foie de sanglier et côtelettes sous la braise || France 3 || 12:27 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93003731 DA_CPC93003731]
+| 1993-03-01 || Pâté de foie de sanglier et côtelettes sous la braise || France 3 || 12:27 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93003731 DA_CPC93003731]
 |-
 | 1993-03-02 || Fricassée d'escargots aux aromates || France 3 || 13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93003746 DA_CPC93003746]
 |-
-| 1993-03-04 || Boeuf de Chalosse : côte de boeuf grillée tournedos Rossini et daube || France 3 || 13:28 || [https://www.youtube.com/watch?v=mtm6YyMxYjc ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93003843 DA_CPC93003843]
+| 1993-03-04 || Bœuf de Chalosse : côte de bœuf grillée tournedos Rossini et daube || France 3 || 13:28 || [https://www.youtube.com/watch?v=mtm6YyMxYjc ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93003843 DA_CPC93003843]
 |-
-| 1993-03-05 || Rougets aux moules et au safran, filet de rougets à l'échalotte || France 3 || 13:23 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93003859 DA_CPC93003859]
+| 1993-03-05 || Rougets aux moules et au safran, filet de rougets à l'échalote || France 3 || 13:23 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93003859 DA_CPC93003859]
 |-
 | 1993-03-11 || Terrine de sanglier || France 3 || 13:23 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93004624 DA_CPC93004624]
 |-
@@ -399,11 +399,11 @@
 |-
 | 1993-04-08 || Selle d'agneau farcie, épaule d'agneau grillée au romarin || France 3 || 13:03 || [https://www.youtube.com/watch?v=zSbLrQTChYE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93004967 DA_CPC93004967]
 |-
-| 1993-04-09 || Marmite d'huitres et crustacés à la bière, civet d'huitres aux oeufs de cailles || France 3 || 12:53 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93004981 DA_CPC93004981]
+| 1993-04-09 || Marmite d'huîtres et crustacés à la bière, civet d'huîtres aux œufs de cailles || France 3 || 12:53 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93004981 DA_CPC93004981]
 |-
 | 1993-04-12 || Pied de porc en salade, oreilles de porc farcies et tête d'agneau au four || France 3 || 13:51 || [https://www.youtube.com/watch?v=kWtSRfXFsBc ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93005069 DA_CPC93005069]
 |-
-| 1993-04-19 || Paleron de boeuf et beignet de crevette à la bière || France 3 || 13:01 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93005178 DA_CPC93005178]
+| 1993-04-19 || Paleron de bœuf et beignet de crevette à la bière || France 3 || 13:01 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93005178 DA_CPC93005178]
 |-
 | 1993-04-22 || Le lapin Charles X || France 3 || 12:39 || [https://www.youtube.com/watch?v=oROtmCtsj0A ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93005231 DA_CPC93005231]
 |-
@@ -413,7 +413,7 @@
 |-
 | 1993-04-26 || Poulet au cidre ; filet de maquereaux au cidre || France 3 || 12:51 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93005513 DA_CPC93005513]
 |-
-| 1993-04-30 || Ecrevisses à la bordelaise et piballes || France 3 || 13:05 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93005565 DA_CPC93005565]
+| 1993-04-30 || Écrevisses à la bordelaise et piballes || France 3 || 13:05 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93005565 DA_CPC93005565]
 |-
 | 1993-05-03 || Artichaut céleri, fenouil et oignons farcis || France 3 || 13:17 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93005718 DA_CPC93005718]
 |-
@@ -427,13 +427,13 @@
 |-
 | 1993-05-13 || Canard au vin rouge, salade de canard aux petits pois || France 3 || 13:38 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93006081 DA_CPC93006081]
 |-
-| 1993-05-14 || Esturgeon a la Bordelaise et au sauternes || France 3 || 13:09 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93006108 DA_CPC93006108]
+| 1993-05-14 || Esturgeon à la bordelaise et au sauternes || France 3 || 13:09 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93006108 DA_CPC93006108]
 |-
-| 1993-05-16 || Boeuf de Chalosse : daube de Chalosse et tournedos Rossini || France 3 Aquitaine || 13:23 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08000621 RE_RBC08000621]
+| 1993-05-16 || Bœuf de Chalosse : daube de Chalosse et tournedos Rossini || France 3 Aquitaine || 13:23 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08000621 RE_RBC08000621]
 |-
-| 1993-05-17 || Salade de crabe, crabe à la vapeur, à la Chinoise || France 3 || 13:23 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93006149 DA_CPC93006149]
+| 1993-05-17 || Salade de crabe, crabe à la vapeur, à la chinoise || France 3 || 13:23 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93006149 DA_CPC93006149]
 |-
-| 1993-05-18 || Roti de porc aux fruits et côtes de porc charcutière || France 3 || 12:10 || [https://www.youtube.com/watch?v=OOGP-47YecU ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93007401 DA_CPC93007401]
+| 1993-05-18 || Rôti de porc aux fruits et côtes de porc charcutière || France 3 || 12:10 || [https://www.youtube.com/watch?v=OOGP-47YecU ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93007401 DA_CPC93007401]
 |-
 | 1993-05-20 || Pigeons et petit pois, filets de pigeons à la crème || France 3 || 12:38 || [https://www.youtube.com/watch?v=KzK95TCaB-s ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93006184 DA_CPC93006184]
 |-
@@ -441,21 +441,21 @@
 |-
 | 1993-06-04 || Pain de viande à la bazadaise || France 3 || 12:52 || [https://www.youtube.com/watch?v=mTVMUe4bwHk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93006657 DA_CPC93006657]
 |-
-| 1993-06-08 || Cuisses de grenouilles à la Gasconne || France 3 || 12:58 || [https://www.youtube.com/watch?v=pl-oVLpKrKw ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93006845 DA_CPC93006845]
+| 1993-06-08 || Cuisses de grenouilles à la gasconne || France 3 || 12:58 || [https://www.youtube.com/watch?v=pl-oVLpKrKw ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93006845 DA_CPC93006845]
 |-
 | 1993-06-11 || Truites en croûte aux noix et rougets en croûte au thym || France 3 || 12:29 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93006886 DA_CPC93006886]
 |-
-| 1993-06-14 || Poulet chasseur, salade de poulet à la Chinoise || France 3 || 12:26 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93007114 DA_CPC93007114]
+| 1993-06-14 || Poulet chasseur, salade de poulet à la chinoise || France 3 || 12:26 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93007114 DA_CPC93007114]
 |-
 | 1993-06-15 || Roulades bazadaises au cresson et aux noix - fraises et poires au vin || France 3 || 13:02 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93007128 DA_CPC93007128]
 |-
 | 1993-06-18 || Darnes d'esturgeon basilic et filets d'esturgeon à la rionnaise || France 3 || 12:24 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93007173 DA_CPC93007173]
 |-
-| 1993-06-21 || Lapin aux pruneaux, daube de boeuf aux pruneaux || France 3 || 11:22 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93007207 DA_CPC93007207]
+| 1993-06-21 || Lapin aux pruneaux, daube de bœuf aux pruneaux || France 3 || 11:22 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93007207 DA_CPC93007207]
 |-
-| 1993-06-22 || Clambake - praire a l'ail et au fenouil || France 3 || 12:43 || [https://www.youtube.com/watch?v=82i44rIz4Dg ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93007361 DA_CPC93007361]
+| 1993-06-22 || Clambake - praire à l'ail et au fenouil || France 3 || 12:43 || [https://www.youtube.com/watch?v=82i44rIz4Dg ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93007361 DA_CPC93007361]
 |-
-| 1993-06-24 || Cuisses de grenouilles a l'armagnac, au buzet || France 3 || 13:15 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93007419 DA_CPC93007419]
+| 1993-06-24 || Cuisses de grenouilles à l'armagnac, au buzet || France 3 || 13:15 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93007419 DA_CPC93007419]
 |-
 | 1993-06-25 || Spéciale Francis Garcia : truites en brochette au jambon, cocotte d'agneau || France 3 || 12:51 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93007435 DA_CPC93007435]
 |-
@@ -463,7 +463,7 @@
 |-
 | 1993-09-13 || Salade de moules aux oranges et citrons || France 3 || 13:09 || [https://www.youtube.com/watch?v=2AZt1L2jYQY ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93009832 DA_CPC93009832]
 |-
-| 1993-09-22 || Spéciale Jacques Le Divellec : salade de langoustines aux girolles, civet de langoustes au Saint-Emilion || France 3 Aquitaine || 14:50 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08022933 RE_RBC08022933]
+| 1993-09-22 || Spéciale Jacques Le Divellec : salade de langoustines aux girolles, civet de langoustes au Saint-Émilion || France 3 Aquitaine || 14:50 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08022933 RE_RBC08022933]
 |-
 | 1993-09-24 || Roulés aux sardines, brochettes de moules et soupe aux moules || France 3 || 12:30 || [https://www.youtube.com/watch?v=wRNPV8koE18 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93010120 DA_CPC93010120]
 |-
@@ -471,7 +471,7 @@
 |-
 | 1993-09-30 || Spéciale Roger Vergé : fricassée de moules et rosaces de Saint-Jacques || France 3 || 12:50 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93010237 DA_CPC93010237]
 |-
-| 1993-10-04 || Blanc de volaille à la sariette et aux orties et foie de veau à la vapeur de thy || France 3 || 13:04 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93010412 DA_CPC93010412]
+| 1993-10-04 || Blanc de volaille à la sarriette et aux orties et foie de veau à la vapeur de thy || France 3 || 13:04 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93010412 DA_CPC93010412]
 |-
 | 1993-10-07 || Sole à la croque au sel - homard rôti aux pommes de terre || France 3 || 13:46 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93010511 DA_CPC93010511]
 |-
@@ -505,7 +505,7 @@
 |-
 | 1993-11-25 || Spéciale Pierre Orsi : filets de dorades et lentilles, salade d'épinards aux foies de volailles || France 3 || 13:02 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93012175 DA_CPC93012175]
 |-
-| 1993-12-02 || Soupé d'huîtres au chou et bar en croûte au fenouil || France 3 || 13:53 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93012635 DA_CPC93012635]
+| 1993-12-02 || Soupe d'huîtres au chou et bar en croûte au fenouil || France 3 || 13:53 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93012635 DA_CPC93012635]
 |-
 | 1993-12-03 || Côtelettes de sanglier Saint-Hubert || France 3 || 12:25 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93012716 DA_CPC93012716]
 |-
@@ -513,15 +513,15 @@
 |-
 | 1993-12-07 || Boudin aux châtaignes et aux pommes - terrine au foie gras et aux asperges || France 3 || 13:08 || [https://www.youtube.com/watch?v=uXvjZDmJ3iM ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93012867 DA_CPC93012867]
 |-
-| 1993-12-08 || Boeuf à la dacquoise et entrecôte à la sauce d'ail || France 3 Aquitaine || 13:30 || [https://www.youtube.com/watch?v=LEOtmeMfr9U ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08023007 RE_RBC08023007]
+| 1993-12-08 || Bœuf à la dacquoise et entrecôte à la sauce d'ail || France 3 Aquitaine || 13:30 || [https://www.youtube.com/watch?v=LEOtmeMfr9U ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08023007 RE_RBC08023007]
 |-
 | 1993-12-09 || Rillettes de carpe et de saumon truite farcie au fondant de poireau || France 3 || 13:15 || [https://www.youtube.com/watch?v=OSU9iKTvU-w ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93012918 DA_CPC93012918]
 |-
-| 1993-12-10 || Magrets au cidre, jambon chaud au vinaigré de framboise, oiseaux dans leur berceau || France 3 || 12:30 || [https://www.youtube.com/watch?v=WXtZ5KPlR7c ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93012993 DA_CPC93012993]
+| 1993-12-10 || Magrets au cidre, jambon chaud au vinaigre de framboise, oiseaux dans leur berceau || France 3 || 12:30 || [https://www.youtube.com/watch?v=WXtZ5KPlR7c ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93012993 DA_CPC93012993]
 |-
 | 1993-12-13 || Tournedos de canard à la sauce grand veneur || France 3 || 13:16 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93013065 DA_CPC93013065]
 |-
-| 1993-12-14 || Faisan aux pommes et aux raisins et lapin aux cêpes || France 3 || 12:28 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93013078 DA_CPC93013078]
+| 1993-12-14 || Faisan aux pommes et aux raisins et lapin aux cèpes || France 3 || 12:28 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC93013078 DA_CPC93013078]
 |-
 | 1993-12-15 || Émission du 15 décembre 1993 (titre non renseigné) || France 3 Aquitaine || 13:46 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08023010 RE_RBC08023010]
 |-
@@ -549,15 +549,15 @@
 |-
 | 1994-02-25 || Pâté de lotte en croûte || France 3 || 13:01 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94001826 DA_CPC94001826]
 |-
-| 1994-03-03 || Morue a l'Italienne - gâteau aux marrons || France 3 || 12:44 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94002113 DA_CPC94002113]
+| 1994-03-03 || Morue à l'italienne - gâteau aux marrons || France 3 || 12:44 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94002113 DA_CPC94002113]
 |-
-| 1994-03-10 || Jarret de boeuf paysanne, langoustines poêlée || France 3 || 12:44 || [https://www.youtube.com/watch?v=2vtGihly05U ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94002199 DA_CPC94002199]
+| 1994-03-10 || Jarret de bœuf paysanne, langoustines poêlée || France 3 || 12:44 || [https://www.youtube.com/watch?v=2vtGihly05U ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94002199 DA_CPC94002199]
 |-
-| 1994-03-16 || Darnes d'esturgeon à la Bordelaise, au Sauternes et aux raisins || France 3 Aquitaine || 13:24 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08005644 RE_RBC08005644]
+| 1994-03-16 || Darnes d'esturgeon à la bordelaise, au Sauternes et aux raisins || France 3 Aquitaine || 13:24 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08005644 RE_RBC08005644]
 |-
-| 1994-04-21 || Steacks à l'Ecossaise, brochettes de ris de veau || France 3 || 12:09 || [https://www.youtube.com/watch?v=E9LPODPDxpk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94003352 DA_CPC94003352]
+| 1994-04-21 || Steaks à l'écossaise, brochettes de ris de veau || France 3 || 12:09 || [https://www.youtube.com/watch?v=E9LPODPDxpk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94003352 DA_CPC94003352]
 |-
-| 1994-04-28 || Ragout de côtes d'agneau - côtes d'agneau bergère || France 3 || 12:16 || [https://www.youtube.com/watch?v=GrN9zhV1ZuE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94003525 DA_CPC94003525]
+| 1994-04-28 || Ragoût de côtes d'agneau - côtes d'agneau bergère || France 3 || 12:16 || [https://www.youtube.com/watch?v=GrN9zhV1ZuE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94003525 DA_CPC94003525]
 |-
 | 1994-05-05 || Roulés de jambon aux pruneaux, magret de canard aux pruneaux et foie gras || France 3 || 12:59 || [https://www.youtube.com/watch?v=y-QFipHZb_g ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94003734 DA_CPC94003734]
 |-
@@ -567,13 +567,13 @@
 |-
 | 1994-09-08 || Tarte aux tomates et mozzarella, salade aux tomates, velouté d'endives || France 3 || 12:04 || [https://www.youtube.com/watch?v=BPakAkjixow ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94007527 DA_CPC94007527]
 |-
-| 1994-09-12 || Langue de boeuf aux concombres || France 3 || 12:52 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94007714 DA_CPC94007714]
+| 1994-09-12 || Langue de bœuf aux concombres || France 3 || 12:52 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94007714 DA_CPC94007714]
 |-
 | 1994-09-13 || Gratin d'aubergines à l'épaule d'agneau || France 3 || 13:02 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94007760 DA_CPC94007760]
 |-
 | 1994-09-16 || Salade de homard aux artichauts et framboises, ballotins d'huîtres aux légumes || France 3 || 13:03 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94007802 DA_CPC94007802]
 |-
-| 1994-09-19 || Rôti de boeuf à la ficelle et aubergines au parmesan || France 3 || 12:59 || [https://www.youtube.com/watch?v=3_DY-c8faCQ ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008058 DA_CPC94008058]
+| 1994-09-19 || Rôti de bœuf à la ficelle et aubergines au parmesan || France 3 || 12:59 || [https://www.youtube.com/watch?v=3_DY-c8faCQ ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008058 DA_CPC94008058]
 |-
 | 1994-09-23 || Tartare de saumon et de dorade et stars de gaubagnac au saumon || France 3 || 12:59 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008098 DA_CPC94008098]
 |-
@@ -583,7 +583,7 @@
 |-
 | 1994-09-29 || Filets de soles aux pétoncles - stars de gaubagnac farcies aux girolles || France 3 || 13:12 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008723 DA_CPC94008723]
 |-
-| 1994-10-03 || La queue de boeuf aux lentilles || France 3 || 13:06 || [https://www.youtube.com/watch?v=UXxon4xva8g ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008410 DA_CPC94008410]
+| 1994-10-03 || La queue de bœuf aux lentilles || France 3 || 13:06 || [https://www.youtube.com/watch?v=UXxon4xva8g ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008410 DA_CPC94008410]
 |-
 | 1994-10-06 || Cailles farcies sur le grill, cailles aux champignons, cailles en papillotes || France 3 || 12:32 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008441 DA_CPC94008441]
 |-
@@ -601,15 +601,15 @@
 |-
 | 1994-10-25 || Tartare de poisson et beignets d'endives || France 3 || 12:58 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008835 DA_CPC94008835]
 |-
-| 1994-10-27 || Tartines Saint-Jean - magrets au miel - camembert chaud a la gelée sauternes || France 3 || 12:57 || [https://www.youtube.com/watch?v=1MvOUOne4xY ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008952 DA_CPC94008952]
+| 1994-10-27 || Tartines Saint-Jean - magrets au miel - camembert chaud à la gelée sauternes || France 3 || 12:57 || [https://www.youtube.com/watch?v=1MvOUOne4xY ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008952 DA_CPC94008952]
 |-
 | 1994-10-28 || Gratin de morue aux girolles et crème de chou fleur aux moules || France 3 || 13:07 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008980 DA_CPC94008980]
 |-
 | 1994-11-01 || Escalopes de marcassin aux pommes et gratin de chou || France 3 || 13:22 || [https://www.youtube.com/watch?v=5zcXZExhKPg ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94008970 DA_CPC94008970]
 |-
-| 1994-11-04 || Risotto aux Saint-Jacques et coquillages - rougets a la provençale || France 3 || 13:15 || [https://www.youtube.com/watch?v=r8W30kVoi9I ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94009103 DA_CPC94009103]
+| 1994-11-04 || Risotto aux Saint-Jacques et coquillages - rougets à la provençale || France 3 || 13:15 || [https://www.youtube.com/watch?v=r8W30kVoi9I ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94009103 DA_CPC94009103]
 |-
-| 1994-11-07 || Aiguillettes de boeuf en gelée et estouffade de boeuf aux olives || France 3 || 13:07 || [https://www.youtube.com/watch?v=9wVUzk2ZGW8 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94009021 DA_CPC94009021]
+| 1994-11-07 || Aiguillettes de bœuf en gelée et estouffade de bœuf aux olives || France 3 || 13:07 || [https://www.youtube.com/watch?v=9wVUzk2ZGW8 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94009021 DA_CPC94009021]
 |-
 | 1994-11-09 || Spéciale Christian Germain : soupe d'huîtres au chou, bar en croûte au fenouil || France 3 Aquitaine ||  || [https://www.youtube.com/watch?v=Mz9Fc_iH360 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08005743 RE_RBC08005743]
 |-
@@ -619,11 +619,11 @@
 |-
 | 1994-11-22 || Ris de veau aux légumes et ris de veau au fumet de vieux cèpes || France 3 || 13:12 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94009837 DA_CPC94009837]
 |-
-| 1994-11-23 || Spéciale Annie Huber : rillettes carpe et saumon, truuite farcie au Crémant || France 3 Aquitaine || 13:15 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08005749 RE_RBC08005749]
+| 1994-11-23 || Spéciale Annie Huber : rillettes carpe et saumon, truite farcie au Crémant || France 3 Aquitaine || 13:15 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08005749 RE_RBC08005749]
 |-
 | 1994-11-25 || Brochet au beurre blanc et brochet farci || France 3 || 13:07 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94010184 DA_CPC94010184]
 |-
-| 1994-11-28 || Caille à la Créole et langoustine à la bordelaise || France 3 || 13:02 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94009843 DA_CPC94009843]
+| 1994-11-28 || Caille à la créole et langoustine à la bordelaise || France 3 || 13:02 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94009843 DA_CPC94009843]
 |-
 | 1994-12-02 || Saumon Henri IV et saumon au vin rouge || France 3 || 13:01 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94009884 DA_CPC94009884]
 |-
@@ -631,15 +631,15 @@
 |-
 | 1994-12-07 || Spéciale G. Paineau : filets de rougets, huîtres en paquets || France 3 Aquitaine || 13:10 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08005752 RE_RBC08005752]
 |-
-| 1994-12-20 || Gratin landais à la saucisses deToulouse aux baies de genièvre, huîtres en crépinettes || France 3 || 13:12 || [https://www.youtube.com/watch?v=7L-53l5FdAE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94010381 DA_CPC94010381]
+| 1994-12-20 || Gratin landais à la saucisses de Toulouse aux baies de genièvre, huîtres en crépinettes || France 3 || 13:12 || [https://www.youtube.com/watch?v=7L-53l5FdAE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94010381 DA_CPC94010381]
 |-
-| 1994-12-22 || Langouste a l'Antillaise petits dombies-cochon de lait a la Christophe - cive || France 3 || 15:32 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94010395 DA_CPC94010395]
+| 1994-12-22 || Langouste à l'antillaise petits dombrés-cochon de lait à la Christophe - cive || France 3 || 15:32 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94010395 DA_CPC94010395]
 |-
 | 1994-12-27 || Tournedos aux nouilles, steak au poivre vert au Sauternes et carpaccio au basili || France 3 || 13:03 || [https://www.youtube.com/watch?v=B1ixGEMCkN0 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94010447 DA_CPC94010447]
 |-
 | 1994-12-28 || Morceaux choisis : bêtisier || France 3 Aquitaine || 26:10 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08005755 RE_RBC08005755]
 |-
-| 1994-12-29 || Colombo de requin et farandole de crabes et ouassous à l'Antillaise || France 3 || 14:25 || [https://www.youtube.com/watch?v=h3ThR9xH6zs ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94010550 DA_CPC94010550]
+| 1994-12-29 || Colombo de requin et farandole de crabes et ouassous à l'antillaise || France 3 || 14:25 || [https://www.youtube.com/watch?v=h3ThR9xH6zs ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/DA_CPC94010550 DA_CPC94010550]
 |-
 | 1995-01-03 || Gratin de chou fleur et pommes de terre et soufflé de chou fleur au jambon || France 3 || 13:00 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_1577.001 TV_1577.001]
 |-
@@ -647,9 +647,9 @@
 |-
 | 1995-01-05 || Feuilleté de bison, aiguillettes et tartare de bison || France 3 || 13:01 || [https://www.youtube.com/watch?v=LE8VKFMYUgY ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_1643.001 TV_1643.001]
 |-
-| 1995-01-09 || Daube de joue de boeuf au vin de Médoc et effeuillé de morue aux poireaux || France 3 || 12:42 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_2960.001 TV_2960.001]
+| 1995-01-09 || Daube de joue de bœuf au vin de Médoc et effeuillé de morue aux poireaux || France 3 || 12:42 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_2960.001 TV_2960.001]
 |-
-| 1995-01-24 || Coeur de boeuf, rognon de boeuf et palombe Saint-Palais || France 3 || 12:44 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_9696.001 TV_9696.001]
+| 1995-01-24 || Cœur de bœuf, rognon de bœuf et palombe Saint-Palais || France 3 || 12:44 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_9696.001 TV_9696.001]
 |-
 | 1995-01-30 || Tripes à la rionnaise, tripes à l'oignon et rognons grillés au romarin caillette || France 3 || 12:48 || [https://www.youtube.com/watch?v=wU-rdHnL2Sg ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_11965.001 TV_11965.001]
 |-
@@ -665,7 +665,7 @@
 |-
 | 1995-03-03 || Baudroie et rougets aux petits légumes || France 3 || 13:08 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_26341.001 TV_26341.001]
 |-
-| 1995-03-07 || Lapin matelote et coeur de canard à la persillade || France 3 || 12:41 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_28855.001 TV_28855.001]
+| 1995-03-07 || Lapin matelote et cœur de canard à la persillade || France 3 || 12:41 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_28855.001 TV_28855.001]
 |-
 | 1995-03-17 || Tartare de saumon aux lentilles vertes du Puy et tomates et piments au vinaigre || France 3 || 12:37 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_32409.001 TV_32409.001]
 |-
@@ -683,13 +683,13 @@
 |-
 | 1995-04-10 || Tourteaux farcis aux fruits et charlotte aux ananas || France 3 || 13:47 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_43974.001 TV_43974.001]
 |-
-| 1995-04-11 || Coeur de boeuf farci, marmite de lapin aux oignons et lapin en omelette || France 3 || 13:00 || [https://www.youtube.com/watch?v=cBzkuhySqEs ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_44560.001 TV_44560.001]
+| 1995-04-11 || Cœur de bœuf farci, marmite de lapin aux oignons et lapin en omelette || France 3 || 13:00 || [https://www.youtube.com/watch?v=cBzkuhySqEs ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_44560.001 TV_44560.001]
 |-
 | 1995-04-13 || Pot au feu breton || France 3 || 12:55 || [https://www.youtube.com/watch?v=BqNZRqIduzk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_45509.001 TV_45509.001]
 |-
-| 1995-04-14 || Gratin de moules aux oeufs de cailles et ragoût de Saint-Jacques aux kiwis || France 3 || 12:02 || [https://www.youtube.com/watch?v=NBmiAYwIXKY ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_45624.001 TV_45624.001]
+| 1995-04-14 || Gratin de moules aux œufs de cailles et ragoût de Saint-Jacques aux kiwis || France 3 || 12:02 || [https://www.youtube.com/watch?v=NBmiAYwIXKY ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_45624.001 TV_45624.001]
 |-
-| 1995-04-17 || Terrine de boeuf à la bière || France 3 || 13:01 || [https://www.youtube.com/watch?v=eTEJOQv6uBU ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_48299.001 TV_48299.001]
+| 1995-04-17 || Terrine de bœuf à la bière || France 3 || 13:01 || [https://www.youtube.com/watch?v=eTEJOQv6uBU ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_48299.001 TV_48299.001]
 |-
 | 1995-04-18 || Rougets en papillotes de chou et pains surprises aux huîtres || France 3 || 12:46 || [https://www.youtube.com/watch?v=nL-Bhxd_HQk ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_48480.001 TV_48480.001]
 |-
@@ -697,9 +697,9 @@
 |-
 | 1995-04-21 || Dorade aux oranges et citrons verts et langoustines à l'estragon || France 3 || 12:56 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_48827.001 TV_48827.001]
 |-
-| 1995-04-24 || Carré de boeuf grillé, purée de choux et artichauts et homards aux fruits || France 3 || 12:52 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_54063.001 TV_54063.001]
+| 1995-04-24 || Carré de bœuf grillé, purée de choux et artichauts et homards aux fruits || France 3 || 12:52 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_54063.001 TV_54063.001]
 |-
-| 1995-04-25 || Lapin farci à la moutarde et queue de boeuf en crépinette || France 3 || 12:41 || [https://www.youtube.com/watch?v=GG26ZMbOqyY ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_54179.001 TV_54179.001]
+| 1995-04-25 || Lapin farci à la moutarde et queue de bœuf en crépinette || France 3 || 12:41 || [https://www.youtube.com/watch?v=GG26ZMbOqyY ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_54179.001 TV_54179.001]
 |-
 | 1995-04-27 || Foie gras raisins et Sauternes, foie gras poivre vert et foie gras persillade || France 3 || 12:05 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_54405.001 TV_54405.001]
 |-
@@ -715,7 +715,7 @@
 |-
 | 1995-05-09 || Lotte à l'américaine et soles farcies aux cèpes || France 3 || 11:51 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_58425.001 TV_58425.001]
 |-
-| 1995-05-11 || Faux filets aux légumes et langue de boeuf aux fruits secs || France 3 || 12:54 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_58551.001 TV_58551.001]
+| 1995-05-11 || Faux filets aux légumes et langue de bœuf aux fruits secs || France 3 || 12:54 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_58551.001 TV_58551.001]
 |-
 | 1995-05-12 || Bar pané à la noix de coco, lait de coco et beignets et crêpes à la noix de coc || France 3 || 13:01 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_58617.001 TV_58617.001]
 |-
@@ -725,9 +725,9 @@
 |-
 | 1995-05-18 || Poularde au vin d'Alsace et galette de pommes de terre au fromage || France 3 || 13:09 || [https://www.youtube.com/watch?v=FFv2Jjq9Gi0 ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_60758.001 TV_60758.001]
 |-
-| 1995-05-19 || Filets de petits bars en papillottes et aumônières d'oeufs de saumon || France 3 || 12:33 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_60825.001 TV_60825.001]
+| 1995-05-19 || Filets de petits bars en papillotes et aumônières d'œufs de saumon || France 3 || 12:33 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_60825.001 TV_60825.001]
 |-
-| 1995-05-22 || Baëkeoffe et rognons de veau au Sauternes || France 3 || 13:02 || [https://www.youtube.com/watch?v=TywebZqJ6vE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_64573.001 TV_64573.001]
+| 1995-05-22 || Baeckeoffe et rognons de veau au Sauternes || France 3 || 13:02 || [https://www.youtube.com/watch?v=TywebZqJ6vE ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_64573.001 TV_64573.001]
 |-
 | 1995-05-25 || Oie rôtie aux pommes || France 3 || 13:00 || [https://www.youtube.com/watch?v=A0wC18knAgA ▶] || [https://catalogue.ina.fr/doc/TV-RADIO/TV_64891.001 TV_64891.001]
 |-
@@ -743,7 +743,7 @@
 |-
 | 1995-10-27 || Moules aux sardines, brochettes de moules et soupes de moules, praires et clams || France 3 || 02:31 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_152440.001 TV_152440.001]
 |-
-| 1995-12-20 || Spéciale Elisabeth de Rozieres : langouste à l'Antillaise aux petits dombres, cochon de lait || France 3 Aquitaine || 15:31 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08008559 RE_RBC08008559]
+| 1995-12-20 || Spéciale Elisabeth de Rozieres : langouste à l'antillaise aux petits dombrés, cochon de lait || France 3 Aquitaine || 15:31 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08008559 RE_RBC08008559]
 |-
 | 1995-12-28 || Escalope de saumon farcie ; purée de cèpes || France 3 || 13:06 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_195357.001 TV_195357.001]
 |-
@@ -751,7 +751,7 @@
 |-
 | 1996-09-25 || Gaspacho || France 3 || 12:49 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_418822.001 TV_418822.001]
 |-
-| 1996-12-18 || Palombes à la Saint-Palais || France 3 || 13:02 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_468462.001 TV_468462.001]
+| 1996-12-18 || Palombes à la saint-Palais || France 3 || 13:02 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/TV_468462.001 TV_468462.001]
 |-
 | 1997-01-25 || Gratin landais, saucisse de Toulouse aux baies de genièvre, crépinette d'huîtres || France 3 Aquitaine || 12:59 ||  || [https://catalogue.ina.fr/doc/TV-RADIO/RE_RBC08009698 RE_RBC08009698]
 |-
