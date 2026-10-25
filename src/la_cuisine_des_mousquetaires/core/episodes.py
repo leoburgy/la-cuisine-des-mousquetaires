@@ -324,6 +324,8 @@ SAME_EPISODE = [
     {"DA_CPC93010948", "RE_RBC08005770"},
     # the same 38-minute special under two titles, a week apart (38:15 both)
     {"RE_RBC07108923", "DA_CPC93001816"},
+    # the 1991 title adds "et à la lotte" and the notice is 1 min 28 s shorter than the 1992 one
+    {"DA_CPC10004993", "RE_RBC07108755"},
 ]
 
 
